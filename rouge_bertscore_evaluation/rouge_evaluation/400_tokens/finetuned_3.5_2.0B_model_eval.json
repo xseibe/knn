@@ -1,0 +1,2221 @@
+{
+    "eval_data": [
+        {
+            "response": "Přesně o půlnoci se proměnilo New York ve světelný kotel, kde se setkávají nejrůznější národy. V New Yorku se proměnilo v \"Křižovatku světa\", na níž se setkávají nejrůznější národy. V Bílém domě se sešli americké celebrity ze světa vědy, umění a byznysu. Ve Washingtonu u Lincolnova památníka promluvil prezident Bill Clinton. Ve Velké Británie ohňový rej nad Temží. Na Berlíně megaparty. V Moskvě vodka i šampaňské. Ve Číně věčný oheň",
+            "reference": "Ohňostroji, veselicemi a s jásotem přivítal svět příchod roku 2000. Jako poslední obyvatelé Země sledovali západ Slunce v roce 1999 obyvatelé tichomořského zámořského území USA, Americké Samoy. Slunce se naposledy v roce 1999 schovalo za duhovým horizontem v pátek 06:57 večer místního času (tj. v sobotu v 07:57 SEČ). Petardy a bengálské ohně usmrtily v Evropě šest lidí a desítky dalších zranily. Oslavy i přesto nepotvrdily chmurné představy policistů, kteří čekali daleko větší potíže a byli ve zvýšené pohotovosti ve všech evropských metropolích",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.12048192771084337,
+                "precision": 0.14285714285714285,
+                "f1": 0.130718954248366
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.012048192771084338,
+                "precision": 0.014285714285714285,
+                "f1": 0.013071895424836602
+            }
+        },
+        {
+            "response": "Po zhruba třech týdnech, kdy se na fotbalistech objevila obrovská chřipka, se opět objevují první známky přípravy na letošní sezonu. Nové posily, které se přicházejí na pozice, jsou již na tréninku, a trenéři se snaží o to, aby se do příštího týdně kádrů dostalo maximální počet hráčů. Příprava se začne v neděli, v pondělí se bude otestovat i několik hráčů, kteří jsou na hostování",
+            "reference": "Značně neoblíbené obodobí, tvrdá zimní příprava, začíná fotbalistům v těchto dnech. Už s brankářem Blažkem z Bohemians začínají sparťané přípravu na běžkách ve Františkových Lázních, kde budou v prvním týdnu nabírat kondici. Trenér Ivan Hašek věří, že do konce ledna, kdy je uzávěrka soupisek na Ligu mistrů, získá ještě po jedné posile pro každou řadu. Do hotelu U tří lilií zamířilo 22 hráčů. Doma zůstali jen rekonvalescenti Labant, Prohászka a Vlastimil Svoboda",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.125,
+                "precision": 0.140625,
+                "f1": 0.1323529411764706
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.013888888888888888,
+                "precision": 0.015625,
+                "f1": 0.014705882352941176
+            }
+        },
+        {
+            "response": "Královéhradecko - Fotbalisté Slavie si na podzim připravili na ligu i Pohár UEFA. Na úterní soustředění se sejdou s Kozlem, bývalými hráči týmu, novým hráčem Janem Plašilou a novým trenérem Františkem Ciprom",
+            "reference": "Do 19. února, kdy začne jarní část fotbalové ligy, je daleko, ale včera se začalo naplno trénovat téměř ve všech týmech. Ty, které se drží v tabulce nahoře, udělaly několik změn",
+            "rouge-1": {
+                "overlap": 1,
+                "recall": 0.03225806451612903,
+                "precision": 0.03125,
+                "f1": 0.031746031746031744
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.03225806451612903,
+                "precision": 0.03125,
+                "f1": 0.031746031746031744
+            }
+        },
+        {
+            "response": "Česká strana sociálních demokratů (ČSSD) by podle šetření Institutu pro výzkum veřejného mínění mohla získat většinu parlamentních míst. Podle šetření by si 45 procent dotázaných preferovalo vytvoření nové vlády, zatímco 38 procent by preferovalo zachování současné vlády. ODS si ale přiznal, že se snaží změnit taktiku a bude se snažit o vytvoření nového politického uspořádání",
+            "reference": "ODS bude na pátečním jednání s ČSSD požadovat podle předsedy jejího poslaneckého klubu Vlastimila Tlustého rekonstrukci vlády. Bližší informace však nechtěl sdělit. Osobně věří, že sociální demokraté budou požadavky respektovat. Místopřeseda ODS Miroslav Macek i předseda klubu senátorů ODS Mirek Topolánek potvrdili, že jejich strana chce jednat především o stabilizaci poměrů v zemi. Odmítli však konkretizovat zadání, které dostali vyjednávači ODS na pondělním zasedání grémia strany. Místopředseda ČSSD Zdeněk Škromach na schůzce od ODS očekává snahu o určitý vliv na změny ve vládě a upřesnění opoziční smlouvy",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.09195402298850575,
+                "precision": 0.14545454545454545,
+                "f1": 0.11267605633802816
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.011494252873563218,
+                "precision": 0.01818181818181818,
+                "f1": 0.01408450704225352
+            }
+        },
+        {
+            "response": "Hranice - Na prvním tréninku z hostování v NH Ostrava se vrátil záložník Knapp a do kádru trenéři zařadili obránce Hoffmanna, jenž byl na vojně v Dukle Hranice",
+            "reference": "V nesmírně vyrovnané tabulce fotbalové ligy má pátá Ostrava náskok jen sedmi bodů před posledním Žižkovem. Většinu týmů za Ostravou čeká tuhý boj o záchranu, a tak už se na něj připravují",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.15625,
+                "precision": 0.17857142857142858,
+                "f1": 0.16666666666666666
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.03125,
+                "precision": 0.03571428571428571,
+                "f1": 0.03333333333333333
+            }
+        },
+        {
+            "response": "Tři králové Kašpar, Melichar a Baltazar, kteří se podle legend setkali na cestě za hvězdou, se v doprovodu pážat vydali na svou pouť z Arcibiskupského paláce na Hradčanském náměstí",
+            "reference": "Kdo by neznal tříkrálovou píseň: \"My tři králové, jdeme k vám, štěstí zdraví vinšujem Vám...\", ten si ji mohl ve středu odpoledne připomenout. Kašpar, Melichar i černý Baltazar, doprovázení pážaty, totiž projížděli na velbloudech Loretánskou ulicí do spodní části Loretánského náměstí. Tam se u živého betléma poklonili Jezulátku a předali mu své dary - kadidlo, zlato a myrhu. Průvod tří králů najdete na videu i ve fotogalerii",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.11940298507462686,
+                "precision": 0.27586206896551724,
+                "f1": 0.16666666666666663
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.015151515151515152,
+                "precision": 0.03571428571428571,
+                "f1": 0.02127659574468085
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.029850746268656716,
+                "precision": 0.06896551724137931,
+                "f1": 0.04166666666666666
+            }
+        },
+        {
+            "response": "Výrazný příznak, který Maradona v posledních letech trpěl, je vysoký krevní tlak. Jeho příčinu v kokainu nebo jiných drogách nejspíš není. Podle svého manažera se Maradona do nemocnice dojel autem sám, tak si přitížil, že ho tam dostal. Podle něj je to jen jeden z deseti lidí na světě, kteří mají problémy s vysokým krevním tlakem",
+            "reference": "Se srdeční arytmií a vysokým krevním tlakem byl v úterý večer hospitalizován bývalý argentinský fotbalista Diego Maradona v uruguayské nemocnici. \"Momentální prognóza je dobrá,\" uvedl Waldemar Correa, ředitel nemocnice ve městě Punta del Este. \"Je na přístrojích a jeho srdeční činnost je monitorována. Nemělo by dojít ke komplikacím, v nemocnici zůstane jen chvíli,\" domnívá se lékař, jenž příčinu Maradonových potíží zatím nezná",
+            "rouge-1": {
+                "overlap": 14,
+                "recall": 0.22580645161290322,
+                "precision": 0.25,
+                "f1": 0.23728813559322032
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.04918032786885246,
+                "precision": 0.05454545454545454,
+                "f1": 0.05172413793103449
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.04838709677419355,
+                "precision": 0.05357142857142857,
+                "f1": 0.05084745762711864
+            }
+        },
+        {
+            "response": "Fotbalový Baník Ostrava má možná na starosti další změny. Společnost Quantum, která připravuje podklady pro vstup nového majitele z Ostravska do fotbalového klubu, se již stala majoritním vlastníkem akcií Baníku, takže není již důvod ke spěchu. Před valnou hromadou chceme pečlivě připravit veškeré záležitosti spojené s převodem majetku",
+            "reference": "V nejbližších dnech budou zástupci českých prvoligových klubů Sparta Praha a Baník Ostrava znovu jednat o přestupu záložníka Radka Slončíka z Moravy do hlavního města. Sparťané obnovili zájem o klíčového hráče svého soupeře, na sklonku loňského roku nebyli ve svých nabídkách úspěšní",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.11904761904761904,
+                "precision": 0.10416666666666667,
+                "f1": 0.11111111111111112
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.02127659574468085,
+                "f1": 0.022727272727272728
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.041666666666666664,
+                "f1": 0.044444444444444446
+            }
+        },
+        {
+            "response": "Česká fotbalová federace a německá fotbalová liga se v pátek obrátila na Evropskou unii s žádostí o zrušení rozsudku Evropského soudu, který zakázal cizincům výkon fotbalových povolání. Rozsudek podle něho omezil pohyb hráčů mezi jednotlivými členskými státy",
+            "reference": "Znovu zavést pravidlo omezující počet cizinců v jednotlivých klubech chtějí podle německého deník Bild nejvyšší představitelé evropské a světové fotbalové federace Lennart Johansson (UEFA) a Sepp Blatter (FIFA). Oba prý navrhují, aby v dresu klubových týmu bylo současně na hřišti minimálně šest hráčů ze země, z níž klub pochází, a mohli by teoreticky zemi reprezentovat. To znamená, že v mužstvech by mohlo hrát maximálně pět cizinců",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.09090909090909091,
+                "precision": 0.16216216216216217,
+                "f1": 0.11650485436893203
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.015151515151515152,
+                "precision": 0.02702702702702703,
+                "f1": 0.01941747572815534
+            }
+        },
+        {
+            "response": "Základní část fotbalového týmu Sparty je v přípravě na zimní část sezony. V pondělí se v Praze sešel smluvní výbor, který se rozhodl o budoucnosti hlavního trenéra Miroslava Pelta. Oznámil, že bude pokračovat v vedení Sparty",
+            "reference": "Roman Lengyel, obránce české olympijské reprezentace, je první posilou, kterou získala v novém roce pražská Sparta. České Budějovice uvolní svého odchovance za 12 milionů korun a za příslib 25procentního podílu z příštího fotbalistova přestupu. Už v průběhu podzimu si Sparta předem zajistila přestup brankáře Blažka z Bohemians, nyní se letenský manažer Pelta chystá lovit posily na Moravu",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.08771929824561403,
+                "precision": 0.1388888888888889,
+                "f1": 0.1075268817204301
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.017543859649122806,
+                "precision": 0.027777777777777776,
+                "f1": 0.021505376344086023
+            }
+        },
+        {
+            "response": "Hra se skládá z dvou částí - \"Lanu\" a \"Zámku\". První část je o nalezení všech drahokamů a druhé o zprovoznění lanovky a vyřešení dvou zámků",
+            "reference": "Kdopak asi zabil pana Masqueho? Snad plukovník Mustard... nebo že by to byla ta záhadná kráska Scarlett? Můžete to vyřešit pomocí našeho návodu, s nímž hra Clue Chronicles: Fatal Illusion nebude tak těžká, jak se může zdát",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.05405405405405406,
+                "precision": 0.07692307692307693,
+                "f1": 0.06349206349206349
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02702702702702703,
+                "precision": 0.038461538461538464,
+                "f1": 0.031746031746031744
+            }
+        },
+        {
+            "response": "Přímo na reklamu se pojišťovny dočkaly v loňském roce rekordních výdajů. Na celkové kampani se odhadovalo, že stojí za 1,5 miliardy korun. Jedná se o nejvyšší částky, které se pojišťovny dočkaly za celý rok. Některé z nich dokonce překročily miliardu korun",
+            "reference": "Podstatná část peněz, které pojišťovny vybraly za povinné ručení, zamíří do kapes reklamních společností. Boj o zákazníka na přelomu roku spolkl podle odhadů mediální agentury IP Praha 600 až 750 milionů korun. Největší částku přitom investovala do reklamy Česká pojišťovna - podle odhadů založených na údajích agentury A-Connect jen za poslední tři loňské měsíce bezmála 137 milionů korun. Přesvědčila ovšem bezkonkurenčně nejvíce klientů - dva miliony a dvě stě tisíc",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.11428571428571428,
+                "precision": 0.1951219512195122,
+                "f1": 0.14414414414414414
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014285714285714285,
+                "precision": 0.024390243902439025,
+                "f1": 0.018018018018018018
+            }
+        },
+        {
+            "response": "Zkušený fotbalista a jedenáctatřicetiletý útočník Jiří Hapal, který se po půl roce v Olomouci stal klíčovou postavou Hanáků, odešel do Španělska. Tímto krokem skončil i jeho původní dohoda s týmem z Tenerife, který ho odvolal kvůli jeho výraznému zranění nohy",
+            "reference": "Fotbalová Sparta angažovala do svého širokého kádru třicetiletého Pavla Hapala, dosud hráče CD Tenerife. Dnes odpoledne se jí tento záložník upsal na 2,5 roku a definitivně ukončil své působení v druholigovém španělském klubu. Ředitel klubu Miroslav Pelta v poledne hráče vyzvedl na letišti po jeho návratu z Kanárských ostrovů. Za odstupné 8,5 milionu korun bude Hapal ve Spartě půlroku hostovat, v červnu po vypršení starého kontraktu se stane jejím kmenovým hráčem s dvouletou smlouvou",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.10810810810810811,
+                "precision": 0.2,
+                "f1": 0.14035087719298245
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.013513513513513514,
+                "precision": 0.025,
+                "f1": 0.017543859649122806
+            }
+        },
+        {
+            "response": "Předseda fotbalové komise Luděk Macela se snaží, aby se na Žižkově nevyjádřili. To je pro něj podle něj absurdní. \"Proč by se na Žižkově pískal? Na Žižkově pískal v roce 1995, kdy se tam vrátili rozhodčí Puček a Berbr,\" řekl",
+            "reference": "Co se vleče, neuteče, říkává se. Jako by se právě tohle rčení líbilo komisi rozhodčích fotbalového svazu. Ta případ rozhodčího Josefa Kruly, který skandálně ovlivnil nedávný ligový zápas Žižkov - Sparta (2:3) v neprospěch domácích, odročila v úterý až na 11. ledna. Proč? Na zhlédnutí videozáznamu utkání z 4. prosince neměli tři členové komise z nejrůznějších důvodů čas. Co na tom, že liga jim přihrála případ, nad nímž kroutí hlavou celá fotbalová veřejnost. Inu, co se vleče...",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.11688311688311688,
+                "precision": 0.225,
+                "f1": 0.15384615384615383
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.013157894736842105,
+                "precision": 0.02564102564102564,
+                "f1": 0.017391304347826087
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.025974025974025976,
+                "precision": 0.05,
+                "f1": 0.03418803418803419
+            }
+        },
+        {
+            "response": "Není to ani tak mobil, jako i takový telefon, ale je to telefon, který se řadí k nejmenším. Jde o Xenium 939, který má za sebou několik let vývoje a který se na trhu objeví v příštím roce. Zdá se, že se v České republice bude prodevat pouze v sádkách",
+            "reference": "Firma Philips, výrobce spotřební elektroniky, včetně mobilních telefonů, přichází na světový trh s dalším modelem mobilního telefonu řady Xenium",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.10526315789473684,
+                "precision": 0.04,
+                "f1": 0.057971014492753624
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.05263157894736842,
+                "precision": 0.02,
+                "f1": 0.028985507246376812
+            }
+        },
+        {
+            "response": "Fotbalisté brněnského klubu FC Boby by mohli skončit s konkursem. Konkursní správce by měl podle fotbalového svazu z majetku klubu získat co nejvíc. \"Nemělo by to mít podstatný význam,\" říká mluvčí fotbalového svazu",
+            "reference": "Konkurs na zadluženou společnost FC Boby-sport, jejíž součástí je i fotbalový klub Boby Brno, vypsal Krajský obchodní soud v Brně. Kontroly nad chodem společnosti podnikatele Lubomíra Hrstky se ujala správkyně konkursní podstaty Kateřina Pavlíková. \"Neznamená to, že by klub vypsáním konkursu končil. Zatím o společnosti nic nevím, budu teprve studovat materiály,\" uvedla včera advokátka Pavlíková. Rýsuje se mnoho možností, co bude s klubem dál. Od dalšího fungování, třeba pod novým majitelem, až po rozprodej a zrušení",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.07894736842105263,
+                "precision": 0.18181818181818182,
+                "f1": 0.11009174311926608
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.013157894736842105,
+                "precision": 0.030303030303030304,
+                "f1": 0.01834862385321101
+            }
+        },
+        {
+            "response": "Brno - Brněnské fotbalové týmy, které si v minulém roce vyžádaly nejvyšší soutěž, se už teď rozhodly, jak se budou chovat v případě, že by se v Brně musely rozjet nová fotbalová liga",
+            "reference": "O uvalení konkursu si majitel fotbalového klubu Lubomír Hrstka koledoval už řadu let. Buď tentokrát jeho dluhy narostly do takových rozměrů, že už jej nedokázal žádnými pákami zvrátit, anebo dva z věřitelů, zkrachovalá Velkomoravská banka a Komerční banka, která má nyní svoje vnitřní problémy, byli nuceni přitvrdit na pilu",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.061224489795918366,
+                "precision": 0.09090909090909091,
+                "f1": 0.07317073170731708
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02040816326530612,
+                "precision": 0.030303030303030304,
+                "f1": 0.024390243902439025
+            }
+        },
+        {
+            "response": "Liberec - Liberec se rozhodl přijmout nového útočníka Vladimíra Kožucha, který od letošního podzimu hraje za slovenský Prešov. Kožuch byl v minulosti hráčem Interu Bratislava, ale po jeho odchodu do Prešova se stal součástí dresu Tatranu",
+            "reference": "Jedním z největších zimních přestupů v první fotbalové lize je zatím příchod slovenského útočníka Vladimíra Kožucha do Slovanu Liberec. S osmi brankami nejlepší střelec podzimní části slovenské ligy podepsal před Vánocemi s libereckým klubem dvouapůlletou profesionální smlouvu a v pondělí se hlásil trenéru Škorpilovi na prvním tréninku zimní přípravy. \"Jsem rád, že si budu moci vyzkoušet českou ligu,\" těší se čtyřiadvacetiletý kanonýr",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.0967741935483871,
+                "precision": 0.16666666666666666,
+                "f1": 0.12244897959183673
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.01639344262295082,
+                "precision": 0.02857142857142857,
+                "f1": 0.020833333333333332
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.03225806451612903,
+                "precision": 0.05555555555555555,
+                "f1": 0.04081632653061224
+            }
+        },
+        {
+            "response": "Uruguayský fotbalista Juan Maradon byl v sobotu odpoledne přenesen z intenzivní péče na normální pokoj. Důvodem je pozitivní test na kokain. Počet lidí, kteří se podívali na jeho tělo, se ale podle policisty dostal na sto. Maradonův stav se podle ošetřujícího lékaře zlepšil a fotbalista by mohl být za několik hodin přeložen z jednotky intenzivní péče na normální pokoj",
+            "reference": "Bývalá fotbalová hvězda Diego maradona se jak se zdá ještě nedokázal vymanit ze závislosti na drogách. V moči a krvi slavného Argentince, který byl v úterý hospitalizován v urguayské nemocnici s vysokým krevním tlakem a srdeční arytmií, objevili lékaři při kompletním vyšetření stopy kokainu",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13636363636363635,
+                "precision": 0.1016949152542373,
+                "f1": 0.11650485436893204
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.017241379310344827,
+                "f1": 0.019801980198019802
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.03389830508474576,
+                "f1": 0.038834951456310676
+            }
+        },
+        {
+            "response": "Českobudějovický trenér Petr Tobiáš ocenil práci mládežnických trenérů, kteří podobné hráče vychovávají. Odchodem jednoho z klíčových hráčů se podle něj nezhroutí svět. \"Vždy jsem se snažil víc stavět na kolektivním pojetí než na výkonu jednotlivce.\" Tobiáš se navíc na podobnou variantu chystal. Proto usiloval o získání Pospíšila a Polomského, kteří mohou Lengyela nahradit",
+            "reference": "Trenér fotbalistů SK České Budějovice Pavel Tobiáš se ve středu v podvečer chystal na další fázi zimní přípravy s pocitem, že ho čeká poslední trénink, ve kterém bude mít k dispozici Romana Lengyela. Pár hodin předtím se dozvěděl, že jedenadvacetiletý talent odchází do Sparty Praha. \"Tušil jsem to,\" poznamenal Tobiáš hlasem beze známky skepse a zklamání. \"Pro všechny je Romanův přestup odměnou. Bude reprezentovat českobudějovický fotbal ve špičkovém klubu.\"",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.13043478260869565,
+                "precision": 0.16981132075471697,
+                "f1": 0.14754098360655735
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.014705882352941176,
+                "precision": 0.019230769230769232,
+                "f1": 0.016666666666666666
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.028985507246376812,
+                "precision": 0.03773584905660377,
+                "f1": 0.03278688524590164
+            }
+        },
+        {
+            "response": "Žižkov - Potvrdil se názor, že rozhodčí Josef Krula by měl být vyřazen z listiny prvoligových rozhodčích. Při posuzování nedovolených zákroků byl přísnější na domácí, než na hosty",
+            "reference": "Komise rozhodčích fotbalového svazu rozhodne v úterý 11. ledna o potrestání sudího Josefa Kruly. Ten hrubě ovlivnil výsledek utkání 16. kola první fotbalové ligy Žižkov - Sparta (2:3). Bezprostředně po prosincovém utkání se mnoho fotbalových odborníků vyslovilo pro vyškrtnutí Kruly z listiny rozhodčích, šéf svazové komise Luděk Macela však naznačil, že o tak přísném trestu neuvažuje",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.10714285714285714,
+                "precision": 0.21428571428571427,
+                "f1": 0.14285714285714285
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.03636363636363636,
+                "precision": 0.07407407407407407,
+                "f1": 0.048780487804878044
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.03571428571428571,
+                "precision": 0.07142857142857142,
+                "f1": 0.047619047619047616
+            }
+        },
+        {
+            "response": "Brno - Černí čápi černých poporvé, kteří se v roce 1995 objevili na brněnském Odysea, se v polovině prosince vydali na výpravu do Senegalu. Na jejich těle byly připevněny malé radary, které umožňovaly zmapovat jejich lety, nýbrž i následný pobyt ve východním Senegalu. Na výpravu se vydala také Kristýna, která se na své zimoviště vydala takzvanou západní cestou",
+            "reference": "Expedice Africká Odysea se ve čtvrtek ráno vrátila ze svého zatím posledního měsíčního pátrání po čápech černých. Díky moderní technice je možno jejich osudy zachytit doslova krok za krokem až do jejich zimovišť, která jsou soustředěna převážně ve střední Africe. Ve fotogalerii najdete aktuální snímky z expedice",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.1276595744680851,
+                "precision": 0.10344827586206896,
+                "f1": 0.11428571428571427
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.017241379310344827,
+                "f1": 0.01904761904761905
+            }
+        },
+        {
+            "response": "Brno - Brněnský fotbalový klub se do konce letošního roku už bude muset rozpadat. Provede-li soudní řízení o konkursu, skončí i jeho majitel. Největší dlužník je v současnosti klubový podnikatel Lubomír Hrstka, který od roku 2006 dluží 1,5 miliardy korun. Klub je v těžkém finančním stavu, ale brněnský fotbal se chce zachránit. A to už se nedá. S rozpadem klubu skončí i jeho majitel",
+            "reference": "Hráči budou rozprodáni, sláva brněnského fotbalu pohřbena a klub FC Boby, dříve Zbrojovka, zmizí. Nebo se najde nový majitel, který vše v dobré obrátí. Mezi těmito póly se nyní pohybuje budoucnost prvoligového mužstva. Poprvé v historii českého fotbalu se ocitl velký klub v konkursu, který vypsal Krajský obchodní soud v Brně. Nedávno měly potíže Drnovice kvůli Chemapolu, ovšem dceřiná společnost Petra, řídící fotbal, hrozbu přežila",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.15384615384615385,
+                "precision": 0.15625,
+                "f1": 0.15503875968992248
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.015384615384615385,
+                "precision": 0.015625,
+                "f1": 0.015503875968992248
+            }
+        },
+        {
+            "response": "Teplice - Plzeňský brankář Radko Havel se rozhodl, že se v zimě přestěhuje do Teplic. \"Přestup byl pro mě snadný, ale pro mě jako trenéra byl zvlášť zajímavý,\" říká",
+            "reference": "Šestadvacetiletý fotbalista Radek Havel se postaral o nevšední rekord a může kandidovat na zápis do Guinnessovy knihy rekordů: Za sedm měsíců stihl nastoupit ve třech prvoligových klubech. Jaro odchytal nýřanský odchovanec v Plzni, kde výkonnostně rostl od čtrnácti let. O prázdninách se dohodl na přestupu s Teplicemi, a jako neperspektivní byl poslán z Plzně na hostování do Olomouce. V prosinci se představil na halovém turnaji v Libouchci už ve žlutomodrém dresu nového teplického chlebodárce",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.0945945945945946,
+                "precision": 0.2413793103448276,
+                "f1": 0.13592233009708737
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.0136986301369863,
+                "precision": 0.03571428571428571,
+                "f1": 0.019801980198019802
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.02702702702702703,
+                "precision": 0.06896551724137931,
+                "f1": 0.03883495145631068
+            }
+        },
+        {
+            "response": "Jablonec - Nováho útočníka potřebují, ale neviděli ho v akci na vlastní oči",
+            "reference": "Luise van Gaala, trenéra fotbalistů Barcelony, označují španělská média za vítěze souboje s brazilským záložníkem Rivaldem, kterého kvůli projevu neposlušnosti vyřadil z kádru. Čerstvý držitel Zlatého míče pro nejlepšího fotbalistu Evropy se uklidnil a řekl, že je připraven zase hrát. Rivaldovi se nelíbilo, že by měl nastupovat na místě levého křídla. \"Rozhodl jsem se udělat to, co si přeje trenér,\" prohlásil neochotně sedmadvacetiletý fotbalista na tiskové konferenci",
+            "rouge-1": {
+                "overlap": 1,
+                "recall": 0.014925373134328358,
+                "precision": 0.07692307692307693,
+                "f1": 0.024999999999999998
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014925373134328358,
+                "precision": 0.07692307692307693,
+                "f1": 0.024999999999999998
+            }
+        },
+        {
+            "response": "Hokejový reprezentant Steven Beckham byl v páteční mezinárodní soutěži v Brazílii vykázán ze hřiště. Jeho zákrok, který ho obvinil z manipulace s penaltou, se naštěstí ukázal jako záludný. Beckham se totiž pokusil vyloučit z utkání hokejovou reprezentaci. \"Bylo to, jako by ho poslali ven soupeřovi hráči,\" řekl Ferguson",
+            "reference": "Beckham v Brazílii zcvoknul, láteří britský bulvární list The Sun nad vyloučením fotbalisty Manchesteru United Davida Beckhama v zápase mistrovství světa fotbalových klubů proti mexickému klubu Necaxa. Beckham musel s ostudou opustit ve 43. minutě hřiště, protože do souboje s mexickým hráčem Milianem šel šlapákem a na protihráčově stehně zanechal otisky špuntů své kopačky. The Sun hráče vyzval, aby už konečně dospěl",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.0967741935483871,
+                "precision": 0.125,
+                "f1": 0.10909090909090909
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.01639344262295082,
+                "precision": 0.02127659574468085,
+                "f1": 0.018518518518518517
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.03225806451612903,
+                "precision": 0.041666666666666664,
+                "f1": 0.03636363636363637
+            }
+        },
+        {
+            "response": "Vítězný český fotbalista Martin Kopeček, který je po deseti letech zpátky v České republice, se vrátil do Drnovic. Odvolal se na slovenského fotbalisty Miroslava Kopeckého, který se stal nejlepším v Evropě v roce 1994",
+            "reference": "Smlouvu na dva roky s roční opcí podepíše v sobotu v poledne slovenský reprezentant Vladimír Kinder s Drnovicemi. Po třech letech opouští anglický prvoligový FC Middlesbrough, kde se mu v poslední době nedařilo prosadit se do základní sestavy. \"Vyřešili jsme problém s obsazením postu v obraně,\" řekl drnovický sportovní ředitel Ivan Kopecký",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.17307692307692307,
+                "precision": 0.2647058823529412,
+                "f1": 0.20930232558139533
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.019230769230769232,
+                "precision": 0.029411764705882353,
+                "f1": 0.023255813953488375
+            }
+        },
+        {
+            "response": "Liberec - Přípravu fotbalisty Andrea Lazzara, který se v pátek vrátil z Itálie, přestože byl v prvních ligových zápasech Slovanu Liberec v závěru sezony vyřazen, nechá na straně volného. \"Kouč má právo rozhodnout, jak bude trenér s hráčem komunikovat,\" řekl na tréninku v hřišti Slavie",
+            "reference": "Nebývá zvykem, aby prvoligový fotbalista v tuzemsku či zahraničí zameškal část přípravy na sezonu, pokud jej právě netrápí závažné zdravotní problémy. V případě libereckého střelce Lazzara Liuniho se to však už pomalu stává pravidlem. Zatímco jeho spoluhráči od pondělka kroužili na běžeckých tratích v okolí stadionu a trénovali na umělé trávě, Lazzaro dostal privilegium užívat si ještě týdne klidu doma v argentinském Buenos Aires",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.109375,
+                "precision": 0.15555555555555556,
+                "f1": 0.12844036697247707
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.015625,
+                "precision": 0.022222222222222223,
+                "f1": 0.018348623853211007
+            }
+        },
+        {
+            "response": "Miroslav Hapala je v Praze. Jeho fotbalistická kariéra skončila. Zanechal na Tenerife, kde byl od roku 2005, a přišel do Sparty. Jeho syn Lukáš žije v Olomouci, kde se narodil. Hapala to říká",
+            "reference": "Pokaždé, co přiletěl z Kanárských ostrovů, kde hrál za Tenerife, upaloval Pavel Hapal rychle do Olomouce. Tam se cítí být doma. Tam chodí jeho syn do školy, odtud to má blízko i k rodičům do nedaleké vesnice Břest. Angažmá v Tenerife právě ukončil, ale olomouckému klubu své síly neodevzdává. Dřív skvělého záložníka reprezentace, který dlouho marodil se zlomenou holení, zlákala Sparta. V pondělí dopoledne bude na Letné připraven k prvnímu tréninku",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.14084507042253522,
+                "precision": 0.30303030303030304,
+                "f1": 0.19230769230769232
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.014285714285714285,
+                "precision": 0.03125,
+                "f1": 0.0196078431372549
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.028169014084507043,
+                "precision": 0.06060606060606061,
+                "f1": 0.038461538461538464
+            }
+        },
+        {
+            "response": "Češi by podle šetření Institutu pro výzkum veřejného mínění (IvyM) preferovali novou stranu Sdružení Děkujeme odejděte, která by vznikla na základě výzvy studentů. Strana by získala 13,2 procenta hlasů, zatímco nejvíce hlasů by dostala ODS (20,1 procenta). Nová strana by měla být založena v sobotu 8. ledna",
+            "reference": "Strana, která by vznikla ze studentské výzvy \"Děkujeme, odejděte!\", by nyní mohla vyhrát případné parlamentní volby. Na její kandidaturu by přitom nejvíce doplatily Unie svobody a ODS. Účast nové strany by navíc zvýšila předpokládanou volební účast o šest procent na 85,7 procenta občanů. Vyplývá to z exkluzivního prosincového šetření agentury Sofres-Factum pro ČTK. \"Studentskou\" stranu by těsně před Vánocemi volilo 24,7 procenta občanů. Na druhém místě by skončila ODS, které by dalo hlas 14,4 procenta dotázaných",
+            "rouge-1": {
+                "overlap": 14,
+                "recall": 0.18421052631578946,
+                "precision": 0.2978723404255319,
+                "f1": 0.22764227642276422
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.02666666666666667,
+                "precision": 0.043478260869565216,
+                "f1": 0.033057851239669415
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.039473684210526314,
+                "precision": 0.06382978723404255,
+                "f1": 0.048780487804878044
+            }
+        },
+        {
+            "response": "Jablonec - \"To je šílené, kolik máme krabic. Pro jednu várku se musím ještě vrátit zpět.\" To řekl Jan Budka, který se za poslední tři měsíce přestěhoval z Belgie do Ústí nad Labem",
+            "reference": "Šest let trvalo, než se malý černovlasý záložník Václav Budka znovu vrátil do Jablonce. Mezitím vyzkoušel dresy Sparty a belgického Lokerenu. \"Čekáme druhý přírůstek do rodiny, proto jsem zase doma,\" říkal. V Belgii pobýval v poslední době bez manželky, to jeho rozhodnutí jen uspíšilo",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.09090909090909091,
+                "precision": 0.12121212121212122,
+                "f1": 0.1038961038961039
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.030303030303030304,
+                "f1": 0.025974025974025976
+            }
+        },
+        {
+            "response": "Český Mobil má ve své síti zhruba 1000 základních stanic, které pokrývají téměř 100 % krajiny. Přestože je síť v provozu, je zatím slabá a má velmi nízkou kapacity. Český Mobil má i odhadovanou kapacitu 2000 BTSek, ale to ještě není v provozu. Sítě Českého Mobilu, RadioMobilu a EuroTelu jsou zatím v provozu pouze na 900 MHz, tedy na nízké frekvenci, která má slabší signál a je zkrácenější. Naopak na DCS-1800 má Český Mobil v síti více BTSek, které mají lepší signál a jsou kratší. Sítě RadioMobilu a EuroTelu jsou v provozu na DCS-1800 a na nízké frekvenci. Pro Českého Mobilu je tedy do března dostatek času na výstavbu síti na DCS-1800, kterou má i konkurence",
+            "reference": "Jaké jsou ceny, služby, vyýhody a nevýhody Českého Mobilu? Pokusili jsme se sem sumarizovat vše, co by se vám mohlo hodit při uvažování o Českém Mobilu",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.15384615384615385,
+                "precision": 0.034482758620689655,
+                "f1": 0.056338028169014086
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.038461538461538464,
+                "precision": 0.008620689655172414,
+                "f1": 0.014084507042253521
+            }
+        },
+        {
+            "response": "Hradec Králové, Teplice, Praha, Pardubice, Brno, Kladno, Ostrava, Praha, Česká Lípa, Český Krumlov, Frýdek-Místek, Hradec Králové, Opava, Olomouc, Praha, Plzeň, Tachov, Teplice, Ústí nad Labem, Ústí nad Labem, Vsetín, Zlín",
+            "reference": "Zatím jen fyzickou otročinu zakoušejí fotbalisté vesměs po prvním týdnu zimní přípravy. Když jim pod nohama plynou naběhané kilometry, utěšují se, že přijdou lepší časy. Mnoho týmů brzy odjede do teplých krajů, tam, kde se dá na zelených trávnících pilovat práce s míčem, cit pro přihrávku. Kde se hráči nemusí brodit roztátým sněhem nebo klouzat na zmrzlé škváře. To je prvořadý důvod, proč se Sparta chystá do exotické Dubaje, proč na Teplice čeká historický zájezd na Floridu",
+            "rouge-1": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            }
+        },
+        {
+            "response": "Dáma je jedinečná česká desková hra, která se stala známou díky svým úspěchům v České Unii dámy, a je určená pro všechny",
+            "reference": "Jedna z nejrozšířenějších stolních her se konečně dočkala své elektronické podoby díky olomouckému týmu Ignitron a magazínu BonusWeb. Nenechte se tedy pobízet, neváhejte, klikněte si, poklekněte, začněte stahovat a čtěte: Dáma přichází...",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.125,
+                "precision": 0.18181818181818182,
+                "f1": 0.14814814814814814
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.03125,
+                "precision": 0.045454545454545456,
+                "f1": 0.037037037037037035
+            }
+        },
+        {
+            "response": "Jiří Adamc se rozhodl po skončení anglického ligového sezonu odejít z Middlesbroughu. V klubu hrál už dva roky a půl, v posledních letech už v záložní roli. Jeho novým klubem je fotbalový Drnovice. V současné době se podílel na přípravě slovenské reprezentace",
+            "reference": "Pompézně, ozařován blesky fotoreportérů, obklopen dvěma televizními štáby a napjatě sledován představiteli klubu, podepsal v sobotu krátce po poledni třicetiletý fotbalista Vladimír Kinder smlouvu s prvoligovými Drnovicemi. Sportovní manažer Ivan Kopecký přiznal, že v noci na sobotu špatně spal, protože dokud není všechno černé na bílém, není prý nikdy klidný. \"V pondělí přijdu na trénink,\" řekl Kinder, naposledy hráč anglického Middlesbroughu, krátce po podpisu smlouvy Miroslavu Kadlecovi, jenž ho přišel pozdravit. Oba fotbalisté se znají z federální reprezentace, za níž začátkem devadesátých let hráli",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.09523809523809523,
+                "precision": 0.19047619047619047,
+                "f1": 0.12698412698412698
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.011904761904761904,
+                "precision": 0.023809523809523808,
+                "f1": 0.015873015873015872
+            }
+        },
+        {
+            "response": "Téměř 20 filmů bylo vybráno do celosvětového festivalu v Cannes. Z nich se v rámci výběrového kola v Česku představilo 14, z toho 6 českých. Celkem je vybráno 11 filmů",
+            "reference": "O víkendu můžete U Hradeb shlédnout filmy Báječné ženy u vody, Červený trpaslík, Já šéf, ty teniska, Superhvězdy, Vedlejší cesty a Gádžo dilo. V Lucerně se bude promítat Suzie Washington, Pokušení, Ohnivý jezdec, Láska prokletá a také Báječné ženy u vody a Červeného trpaslíka. Všechny z uvedených filmů stojí za shlédnutí, rozhodně byste si ale neměli nechat ujít francouzský snímek Gádžo dilo",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.06451612903225806,
+                "precision": 0.13333333333333333,
+                "f1": 0.08695652173913043
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.016129032258064516,
+                "precision": 0.03333333333333333,
+                "f1": 0.021739130434782608
+            }
+        },
+        {
+            "response": "Karlovarsko - Soutěžící sudí Tomáš Krulů, který se na Žižkově na svém podílu v prosinci zkrátil, dostane trest. V pátek ho odvede do vězení na 30 dní, což je podle komise nejvyšší možný trest",
+            "reference": "Komise rozhodčích Českomoravského fotbalového svazu dnes rozhodne o výši trestu pro sudího Josefa Krulu. Tento rozhodčí loni 4. prosince řídil ligový zápas 16. kola Žižkov - Sparta (2:3), který hrubým způsobem ovlivnil ve prospěch hostí. \"Krula měl ve čtyřiaosmdesáté minutě zapískat penaltu proti Spartě, tím spíš, když za podobný zákrok ji předtím zapískal proti Žižkovu,\" prohlásil 14. prosince po jednání komise rozhodčích její předseda Luděk Macela, který tehdy případ odložil na 11. ledna s tím, že tři členové komise dosud nezhlédli videozáznam utkání",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.04819277108433735,
+                "precision": 0.11764705882352941,
+                "f1": 0.06837606837606837
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.012048192771084338,
+                "precision": 0.029411764705882353,
+                "f1": 0.017094017094017092
+            }
+        },
+        {
+            "response": "Český fotbalistický reprezentant Petr Chovanec, který se chystá na fotbalové mistrovství Evropy, má za sebou dlouhou kariéru. Už 14 let je součástí české fotbalové reprezentace. \"Je to dlouhá kariéra, a tak jsem si přál, aby se to končilo, a tak jsem se rozhodl, že si přivážím nejlepších hráčů,\" řekl Chovanec",
+            "reference": "Už příští úterý přijedou do Prahy představitelé pěti fotbalových svazů, jejichž týmy byly při prosincovém losování v Tokiu zařazeny do stejné kvalifikační skupiny MS 2002 jako čeští reprezentanti. Tématem schůzky bude vytvoření kalendáře zápasů. Chovanec nastínil své představy: začít by chtěl v září v Bulharsku a během podzimu odehrát ještě zápasy v Severním Irsku a doma s Maltou",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.06896551724137931,
+                "precision": 0.08,
+                "f1": 0.07407407407407408
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.017241379310344827,
+                "precision": 0.02,
+                "f1": 0.01851851851851852
+            }
+        },
+        {
+            "response": "Soud, který ve středu v Praze rozhodl o kontinuitě mezi exilovou a současnou ČSSD, potvrdil, že strana je v současnosti i předválečná. Rozhodnutí Ústavního soudu, které bylo v pátek zveřejněno, ale které ještě předtím nebylo veřejně dostupné, znamená, že soudní rozhodnutí o současném stavu ČSSD je závazné. \"Nejvyšší soud rozhodl, že ČSSD je současně i předválečná,\" řekl nám informoval mluvčí Ústavního soudu Martin Sobotka",
+            "reference": "Ústavní soud v Brně rozhodl, že ČSSD je právoplatným vlastníkem Lidového domu v centru Prahy. Rozhodnutí soudu znamená, že všechny předchozí verdikty obecných soudů, které sociální demokracii právo na budovu upíraly, jsou neplatné. Vítězství u Ústavního soudu otevírá ČSSD i cestu k přibližně 180 milionům korun za pronájem objektu, které kvůli sporu odcházely na blokovaný účet",
+            "rouge-1": {
+                "overlap": 16,
+                "recall": 0.2857142857142857,
+                "precision": 0.25,
+                "f1": 0.26666666666666666
+            },
+            "rouge-2": {
+                "overlap": 5,
+                "recall": 0.09090909090909091,
+                "precision": 0.07936507936507936,
+                "f1": 0.0847457627118644
+            },
+            "rouge-l": {
+                "lcs": 4,
+                "recall": 0.07142857142857142,
+                "precision": 0.0625,
+                "f1": 0.06666666666666667
+            }
+        },
+        {
+            "response": "Výsledky 17. kola české fotbalové ligy, které se uskutečnilo v Praze, se dohodli na změně. Podle komise rozhodčích se o post hlavních rozhodčích, kteří přišli o post, a postupujících asistentů, kteří se dočkali postupu, rozhodne za dva dny",
+            "reference": "Komise rozhodčích Českomoravského fotbalového svazu potrestala sudího Josefa Krulu zastavením činnosti na pět utkání za chyby, kterých se dopustil v zápasu 16. kola první ligy mezi Viktorií Žižkov a Spartou. V jarní části sezóny navíc Krula nebude nasazován v zápasech nejvyšší soutěže",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.19047619047619047,
+                "precision": 0.21052631578947367,
+                "f1": 0.2
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.02702702702702703,
+                "f1": 0.025641025641025644
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.05263157894736842,
+                "f1": 0.05
+            }
+        },
+        {
+            "response": "Český Mobil se v pondělí představil s novou mapou mobilních telefonů. Tato mapa je první, která pokrývá celou Evropu. Podle Českého Mobilu je tato mapa už ve třech zemích v plném rozvoji, v dalších dvou zemích je v průběhu vývoje a ve třetí zemí (Česká republika) je v prvních etapách",
+            "reference": "Jaké pokrytí Český Mobil plánuje? Podívejme se do mapy pokrytí",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.3,
+                "precision": 0.06,
+                "f1": 0.09999999999999999
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.1111111111111111,
+                "precision": 0.02040816326530612,
+                "f1": 0.034482758620689655
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.2,
+                "precision": 0.04,
+                "f1": 0.06666666666666667
+            }
+        },
+        {
+            "response": "Národní filmový archív (NFA) v Praze prodeje další 1000 filmů, které by se mohly stát součástí světové desítce. Ve středu to potvrdil její ředitel Jiří Králík",
+            "reference": "Třináctého ledna odstartuje v pražské Městské knihovně další, již šestá část unikátní filmové přehlídky Projekt 100. Společná akce Asociací českých a slovenských filmových klubů a Městských divadel v Uherském Hradišti se zrodila před čtyřmi lety při příležitosti stého výročí vzniku kinematografie, nyní se s šestou desítkou filmů dostává již do své druhé poloviny",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.03773584905660377,
+                "precision": 0.07692307692307693,
+                "f1": 0.05063291139240506
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.018867924528301886,
+                "precision": 0.038461538461538464,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Na kapesním počítači je možná i o něco méně, než na PC, ale to je pro grafiku na kapesním počítači neobvyklé. Proč? Protože se kapesní počítače chovají k grafice jako k kresbě na papíře. A na kresbě na papíře je mnohem více než na PC. A na PC se grafika dělá mnohem složitěji. A to je právě na to, že na kapesním počítači je mnohem více než na PC.",
+            "reference": "Program, který je pro svět Psionu stejný jako Photoshop pro svět PC uvedla na trh firma PalmScape. Je jím editor Photo5, se kterým lze pracovat s fotografiemi téměř jako na PC",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.25806451612903225,
+                "precision": 0.11594202898550725,
+                "f1": 0.15999999999999998
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.06666666666666667,
+                "precision": 0.029411764705882353,
+                "f1": 0.04081632653061225
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.06451612903225806,
+                "precision": 0.028985507246376812,
+                "f1": 0.039999999999999994
+            }
+        },
+        {
+            "response": "Fotbalové fanoušky v Ostravě čekají na výměnu gólmana Sigmě Baroše za mladého střelce Slončíků, který by se měl objevit v jarní části ligy. Ostravský klub má v současnosti dva hráče, kteří by se mohli dohodnout na výměně. Baroš by měl odejít do Olomouce, kde je nyní Petr Pižanowski. Miroslav Pelta, ředitel ostravského klubu, řekl, že má v pátek jasno o situaci",
+            "reference": "Z dvoudenní cesty po Moravě, během které jednal v Ostravě, Olomouci a Brně o přestupu celkem čtyř fotbalistů, se vrací ředitel Sparty Miroslav Pelta s prázdnou. \"Nejschůdnější se zdá jednání o příchodu Slončíka,\" doufá Pelta, šance na získání dalších vyhlédnutých hráčů vidí nulové. O změnách jednají i další kluby, Olomouc se pravděpodobně dohodne se Žižkovem o výměně Pižanovského za P. Zbožínka",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.14754098360655737,
+                "precision": 0.14754098360655737,
+                "f1": 0.14754098360655737
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.01639344262295082,
+                "precision": 0.01639344262295082,
+                "f1": 0.01639344262295082
+            }
+        },
+        {
+            "response": "Počkejte, co je to Sheffield United? To je to, co je v Anglii nejvyšší fotbalová liga, i když se do ní nedostává. A to je přesto to, co je pro mého brankáře Patrika Bergrova nejdůležitější. Takže to je, co ho láká",
+            "reference": "Zatímco většina fotbalových reprezentantů se připravuje na jaro, brankář Pavel Srníček jde v anglické Premier League bez přestávky od zápasu k zápasu. \"V sobotu nás čeká první z klíčových utkání v novém roce,\" připomíná gólman Sheffieldu Wednesday, posledního týmu soutěže",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.05,
+                "precision": 0.04878048780487805,
+                "f1": 0.04938271604938272
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.025,
+                "precision": 0.024390243902439025,
+                "f1": 0.02469135802469136
+            }
+        },
+        {
+            "response": "Na Psion přichází hra Imperium, která je klonem známé real-time strategie Command and Conquer. Jedná se o akční realtime strategii. Hru lze nainstalovat jak na disk C:, tak na disk D:. Pokud Imperium vlastníte neregistrované, lze stavět pouze některé základní jednotky, se kterými lze dohrát každý level, ale jste ochuzeni o další, rozšířené jednotky. Bez těch je pak poměrně těžké dohrát pokročilejší levely ve hře. Registraci si může zařídit každý po zaplacení 15 liber, což není na hru mnoho, ale na druhou stranu je otázka, zda si raději koupíte hru na PC nebo na Psiona. Imperium má jednu velkou výhodu oproti C&C a to, že se nechá hrát téměř všude, jelikož si s sebou svého miláčka většinou nosíme. Pokud tedy nemůžete vydržet bez akce a taktiky, není problém si nosit s sebou vlastní miniarmádu vojáčků a autíček z tekutých krystalů. To je menší nevýhoda, jelikož na PC měly vojenské jednotky alespoň barevné odlišení, ale na Psionu je již musíme rozeznávat podle stupně světlosti/šedosti, abychom si nemysleli, že ti, co jdou k nám do základny nejdou na průzkum, ale zničit silo nebo heavy factory. Pro ty, kterým by nestačily úrovně implementované ve hře jsou na našem serveru (Mapy pro Imperium) a nebo na domovské stránce Imperia ke stažení další mapy a pro ty nejzaryt",
+            "reference": "Imperium je real-time strategická hra, která jistě připomene PC hráčům doby bitev v Command & Conquer. Tato hra má ale výhodu, že se nechá vzít s sebou a navíc lze do této Psioní aplikace na PC vytvářet i mapy",
+            "rouge-1": {
+                "overlap": 21,
+                "recall": 0.5384615384615384,
+                "precision": 0.09859154929577464,
+                "f1": 0.16666666666666666
+            },
+            "rouge-2": {
+                "overlap": 4,
+                "recall": 0.10526315789473684,
+                "precision": 0.018867924528301886,
+                "f1": 0.032
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.07692307692307693,
+                "precision": 0.014084507042253521,
+                "f1": 0.02380952380952381
+            }
+        },
+        {
+            "response": "Liberec – Liberečtí fotbalisté se připravují na první zápas sezony, v sobotu se utká s Varnsdorfu. Před úvodním utkáním si však fotbalisté vyběhli do lyžařské stopy",
+            "reference": "Fotbalisté prvoligového Slovanu Liberec odložili kopačky, obuli lyžařské boty a postavili se na běžky. Během čtyřdenního soustředění v Krkonoších, které začali v úterý, naběhají na tratích v okolí Harrachova přes sto dvacet kilometrů. \"Ráno běháme na lyžích, odpoledne po svých. Lepší je to na těch lyžích,\" povídal v cíli včerejší lyžařské \"etapy\" dlouholetý hráč Slovanu Libor Janáček. \"Je fajn, že nám nádherně vychází počasí,\" dodal při pohledu na azurově modré nebe",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.08450704225352113,
+                "precision": 0.23076923076923078,
+                "f1": 0.12371134020618556
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014084507042253521,
+                "precision": 0.038461538461538464,
+                "f1": 0.02061855670103093
+            }
+        },
+        {
+            "response": "Brno - Konkurs na fotbalový klub Sparta Brno skončil. Ještě před týdnem měli v rukou všechny dokumenty, které šéf klubu Lubomír Hrstka potvrdil. Dnes je však už jen o tom, jak se bude klub dál řídit. Konkursní správkyně by měla po prozkoumání všech dokumentů sdělit, co bude s klubem dál",
+            "reference": "Polák, Pacanda, Zúbek a další brněnští fotbalisté, o něž se zajímají domácí a zahraniční kluby, vyběhli ve čtvrtek dopoledne do soběšických lesů kousek za městem k dalšímu dílu zimní přípravy. Kdo netuší, v jak svízelné situaci se jejich oddíl nachází, z chování hráčů nic nepozná. Přitom fotbalovému Brnu hrozí zánik, neboť obchodní soud vyhlásil konkurs na společnost, která klub vlastní",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.11666666666666667,
+                "precision": 0.14,
+                "f1": 0.12727272727272726
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.01694915254237288,
+                "precision": 0.02040816326530612,
+                "f1": 0.018518518518518517
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.03333333333333333,
+                "precision": 0.04,
+                "f1": 0.03636363636363636
+            }
+        },
+        {
+            "response": "Rakouský fotbalový klub Amstetten má ve své sestavě cizince. Jeho útočníkem je Dušan Vrťo, který je v současnosti v Baníku Ostrava. Vrťo si přivítá do Amstettenu, kde bude v úterý první zápas na landesligu",
+            "reference": "Bezmála padesát tisíc kilometrů najezdil někdejší obránce Baníku Ostrava Dušan Vrťo během podzimu do svého rakouského působiště v Amstettenu. \"Je to nedaleko Lince, takže tam a zpět jsem pokaždé urazil kolem devíti set kilometrů,\" počítal Vrťo. \"Do klubu jsem jezdil dvakrát týdně na jeden trénink, po něm v noci domů a o víkendu zase na zápas. Totéž mě čeká na jaře.\"",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.11475409836065574,
+                "precision": 0.20588235294117646,
+                "f1": 0.1473684210526316
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.01639344262295082,
+                "precision": 0.029411764705882353,
+                "f1": 0.02105263157894737
+            }
+        },
+        {
+            "response": "Fotbalový klub Inter Milán v pátek vyřadil ze své sestavy čtyři hráče, z nichž dva jsou vyloučeni na dobu 12 měsíců. Hlavní čestný člen klubu a bývalý fotbalový mistr světa Diego Maradona dostane trest na dobu 24 měsíců. Zároveň bude muset zúčastnit se léčebné kurzy. Jeho bratr Lalo dostane trest na dobu 12 měsíců",
+            "reference": "Draho přijde fotbalisty Roberta Carlose a Gutiho vyloučení v pondělním zápasu Realu Madrid s Rajou Casablanca na mistrovství světa klubů. Zaplatí svému klubu pokutu 30 000 dolarů (přes milion korun). Roberto Carlos dostal červenou kartu za napadení protihráče Mubarkího, Guti musel odejít ze hřiště proto, že do ležícího Mubarkího několikrát kopl. Real dohrál zápas jen s osmi fotbalisty, přesto zvítězil 3:2",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.09836065573770492,
+                "precision": 0.1111111111111111,
+                "f1": 0.10434782608695653
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.01639344262295082,
+                "precision": 0.018518518518518517,
+                "f1": 0.017391304347826087
+            }
+        },
+        {
+            "response": "Bělehrad – Při útoku na srbský hotel v Bělehradě byl smrtelně zraněn bývalý velitel srbských polovojenský oddílů Željko Ražnatovič, známý jako Arkan",
+            "reference": "Bývalý velitel srbských polovojenských gard Željko Ražnatović, známý pod přezdívkou Arkan, který je na seznamu válečných zločinců, byl v neděli v bělehradském hotelu Intercontinental smrtelně zraněn. Uvedla to nezávislá agentura Beta s odvoláním na lékařské zdroje. Svědkové se při popisu události rozcházejí. Někteří říkají, že na Arkana zaútočila skupina maskovaných útočníků, další vypovídají o jednom střelci. Jugoslávská nezávislá televize Studio B hovořila o dvou ozbrojencích",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.15384615384615385,
+                "precision": 0.45454545454545453,
+                "f1": 0.22988505747126442
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.03125,
+                "precision": 0.09523809523809523,
+                "f1": 0.047058823529411764
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.046153846153846156,
+                "precision": 0.13636363636363635,
+                "f1": 0.06896551724137931
+            }
+        },
+        {
+            "response": "Český Mobil bude mít na jedné SIM kartě dvě telefonní čísla, pod kterými jste dostupní a přepínáním na telefonu si můžete vybírat, které z čísel má být vaše odchozí (jako příchozí jsou obě čísla aktivní najednou a můžete si i současné hovory propojovat do konference). Tuto funkci provozují především skandinávští operátoři, dalším jejím velkým propagátorem je britský Orange a několik dalších operátorů. Dokonce je možné, tam kde je již trh liberalizovaný, jedno z těchto čísel udělat jako číslo v pevné síti - příchozí hovor je pak účtován jako hovor do pevné sítě a volající tedy platí méně. To u nás zatím ale nepůjde - na to má faktický monopol Český Telecom",
+            "reference": "Pokračování přehledu zajímavostí, které pro nás Český Mobil chystá. Jak to bude s GPRS, WAP, ALS a AoC?",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.3888888888888889,
+                "precision": 0.06306306306306306,
+                "f1": 0.10852713178294573
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.058823529411764705,
+                "precision": 0.00909090909090909,
+                "f1": 0.015748031496062992
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.1111111111111111,
+                "precision": 0.018018018018018018,
+                "f1": 0.031007751937984496
+            }
+        },
+        {
+            "response": "Karel Gott se rozhodl svou účast na Expo 2000 odvolat poté, co v Lidových novinách vyšel článek architekta a historika umění Zdeňka Lukeše, kde autor označil jeho případné vystoupení na výstavě za podbízivou show a jeho samotného za zombieho, který od poloviny 60. let kazí vkus v Čechách a nyní ho pojede kazit do Německa. V pátek se ale rozhodl svou účast na výstavě znovu přislíbit",
+            "reference": "Zpěvák Karel Gott po schůzce s ministrem kultury Pavlem Dostálem, generálním komisařem české účasti na Expo 2000 a organizátory kulturního programu, definitivně potvrdil, že pojede 7. června na Expo 2000 do Hannoveru.\"Všechno zlé je k něčemu dobré. Nyní vím, že mám stále tolik fanoušků,\" řekl Gott",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.21739130434782608,
+                "precision": 0.15151515151515152,
+                "f1": 0.17857142857142858
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.06666666666666667,
+                "precision": 0.046153846153846156,
+                "f1": 0.05454545454545454
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.06521739130434782,
+                "precision": 0.045454545454545456,
+                "f1": 0.05357142857142857
+            }
+        },
+        {
+            "response": "Záznam z procesu s vrahy v Babicích na Třebíčsku, který se konal v roce 1951, se stal důležitým pro vyšetřování obvinění soudce Pavla Vítka ze spoluúčasti na vraždě. Právě tento záznam si vyžádali odborníci z Úřadu pro dokumentaci a vyšetřování zločinů komunismu, kteří již dlouho hledají další důkazy",
+            "reference": "Novinář Pavel Hájek po osmačtyřiceti letech slyšel hlasy soudců a odsouzených v zinscenovaném babickém procesu. Slyšel i hlasy těch, kteří byli tehdy odsouzeni k smrti a v roce 1951 popraveni. Byl překvapen. Nikdo z odborníků totiž nevěděl, že by mohl existovat zvukový záznam ze smutně proslulého procesu, navíc dlouhý několik hodin a zachycující výpovědi většiny obžalovaných. V přelíčení sledovaném osobně tehdejším prezidentem Gottwaldem bylo sedm lidí odsouzeno k trestu smrti",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.11428571428571428,
+                "precision": 0.16666666666666666,
+                "f1": 0.13559322033898305
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.014492753623188406,
+                "precision": 0.02127659574468085,
+                "f1": 0.017241379310344827
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.02857142857142857,
+                "precision": 0.041666666666666664,
+                "f1": 0.03389830508474576
+            }
+        },
+        {
+            "response": "Trenér Peter Houllier se po zápase s Watfordem na první příležitosti rozplýval nad Patrikem Bergerem. O jeho výkonu se ale mluví hlavně v anglických novinách. \"Měl jsem v úmyslu, že se Bergerovi vyhraje zápas,\" řekl Houllier",
+            "reference": "Konečně, oddechl si v sobotu fotbalový reprezentant Vladimír Šmicer, když po půlroce v Liverpoolu vstřelil do sítě Watfordu svůj první gól v anglické Premier League. \"Nebyla to žádná bomba, spíš povedený míč k tyči,\" popsal Šmicer střelu, jíž devatenáct minut před koncem rozhodl o vítězství svého týmu 3:2. \"Šel jsem na hřiště za stavu dva dva a měl jsem s tím něco udělat",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.12698412698412698,
+                "precision": 0.2222222222222222,
+                "f1": 0.16161616161616163
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.015873015873015872,
+                "precision": 0.027777777777777776,
+                "f1": 0.020202020202020204
+            }
+        },
+        {
+            "response": "Opava - Opavský fotbalist Edvard Lasota se po dvou letech vrátil do svého původního klubu Reggiana. \"Potřebuji pravidelně hrát,\" řekl. \"Ještě jednou si to zkusím.\"",
+            "reference": "Ochoten částečně slevit z výhodné smlouvy s italskou Reggianou, jen aby mohl hrát, je fotbalový záložník Edvard Lasota. Dnes odjíždí do Itálie, aby se se svým klubem domluvil na podmínkách hostování ve Slezském FC Opava. S ním se už připravuje na jarní část první ligy a v zápase s Ratíškovicemi parádně přihrál na rozhodující gól Janouškovi. \"Jsem rád, že konečně hraji,\" řekl Lasota, jemuž rok a půl schází rytmus pravidelné soutěže",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.04225352112676056,
+                "precision": 0.12,
+                "f1": 0.0625
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014084507042253521,
+                "precision": 0.04,
+                "f1": 0.020833333333333332
+            }
+        },
+        {
+            "response": "Bohemians mají v úterý večer na hřišti fotbalový útočník Pavel Bakeš. \"Kluci jsou na hřišti, ale nevidím, že by se na nás něco dělo,\" říká Petržela",
+            "reference": "Základní kameny sestavy Bohemians pro mistrovskou soutěž jsou již podle kouče Vlastimila Petržely položeny, byť se tým nachází teprve v první třetině zimní přípravy. \"Culek je jednička na postu defenzivního záložníka. Víme že Petrouš může hrát z pravé strany, z druhé Mareš, Kulig, nebo Jůn, to máme otestované. Uzdravil se Návrat, měl by se tam také někde objevit. Jediným naším problémem jsou útočníci. Každý zápas zkoušíme, hledáme, ale úplně spokojený nejsem.\"",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.11267605633802817,
+                "precision": 0.3076923076923077,
+                "f1": 0.16494845360824745
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.014285714285714285,
+                "precision": 0.04,
+                "f1": 0.02105263157894737
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.028169014084507043,
+                "precision": 0.07692307692307693,
+                "f1": 0.04123711340206186
+            }
+        },
+        {
+            "response": "Výsledky průzkumu agentury STEM, který byl proveden v prosinci 1999 a v lednu 2000, ukazují, že lidé v Česku přestali volit politiku. V průzkumu je 44 procent lidí, kteří mají zájem o politiku. Nebo 44 procent lidí, kteří by měli volit. Lidé, kteří by měli volit, se podle průzkumu rozdělí na čtyři skupiny",
+            "reference": "Dvě nejsilnější politické strany, ČSSD a ODS, který nyní jednají o prohloubení opoziční smlouvy, si v posledním průzkumu volebních preferencí mírně polepšily. ODS přibyly od prosince skoro tři procenta a na začátku ledna ji podporovalo 22,1 procenta lidí, ČSSD si přičetla téměř dvě procenta a má nyní 15,4 procenta. Mezi tyto strany se vklínila KSČM s 17,9 procenta hlasů, což je však o jeden a půl procenta méně než v prosinci",
+            "rouge-1": {
+                "overlap": 11,
+                "recall": 0.15492957746478872,
+                "precision": 0.20754716981132076,
+                "f1": 0.1774193548387097
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.014285714285714285,
+                "precision": 0.019230769230769232,
+                "f1": 0.01639344262295082
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.028169014084507043,
+                "precision": 0.03773584905660377,
+                "f1": 0.03225806451612903
+            }
+        },
+        {
+            "response": "Kubánský prezident Fidel Castro se ve čtvrtek po příletu do Havany omluvil za to, že si nevyžádal, aby se na Kubě mohl vyzkoušet Diego Maradona. \"Je to velmi nebezpečné,\" řekl Castro, který Maradonu na Kubu pozval, protože je jeho přítelem a velkým fanouškem. Maradona se v úterý na Kubě odvrátil od své letopisné kúry v Holguínu, kde se od příštího týdne bude léčit",
+            "reference": "Na Kubě se bude léčit z drogové závislosti fotbalový mistr světa z roku 1986 Diego Maradona, protože v Kanadě a USA by mohl mít problémy s udělením víza. Devětatřicetiletý Argentinec měl na výběr pro léčebnou kúru všechny tři země, které mu nabídly své služby.V Holguínu na východě kubánského ostrova přistál dnes ráno místního času za doprovodu manželky Claudie Villafaneové, rodičů, manažera Guillerma Coppoly, osobního lékaře Alfreda Cahea, neurologa a kardiologa",
+            "rouge-1": {
+                "overlap": 14,
+                "recall": 0.2,
+                "precision": 0.2222222222222222,
+                "f1": 0.2105263157894737
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.028985507246376812,
+                "precision": 0.03225806451612903,
+                "f1": 0.030534351145038163
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.02857142857142857,
+                "precision": 0.031746031746031744,
+                "f1": 0.030075187969924814
+            }
+        },
+        {
+            "response": "Fotbalová ligová sezona se zažije v novém úvodu. Angličtí fotbalisté si do Leedsu United přibrali gólmana z Perthu, novozélandský obránce Danny Hay se připojí do Reggiany",
+            "reference": "Čtyřletou smlouvu podepsal s FC Liverpool obránce Markus Babbel z Bayernu Mnichov. Sedmadvacetiletý fotbalista to oznámil na soustředění Bayernu ve Španělsku. Do Liverpoolu odjede po sezoně zadarmo, protože mu v Bayernu, kde kromě dvou let v Hamburku hrál od roku 1981, mu v červnu končí smlouva. \"Už se na Liverpool hrozně těším, protože jako dítě jsem rád sledoval jeho zápasy. Je to můj životní sen,\" prozradil Babbel",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.07462686567164178,
+                "precision": 0.19230769230769232,
+                "f1": 0.10752688172043011
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014925373134328358,
+                "precision": 0.038461538461538464,
+                "f1": 0.02150537634408602
+            }
+        },
+        {
+            "response": "Trenér fotbalové reprezentace Jozef Chovanec je po úspěšné přípravě na kvalifikaci mistrovství světa 2002 spokojen. Na své tři zápasy na Maltě a Islandu se podíval s devadesáti procenty. Na zápas se Severním Irskem, který se podle něj dočká největšího soupeře, se chovance zdá být méně spokojen. První dva zápasy se odvíjejí v září a v říjnu",
+            "reference": "Na diplomatickém poli se český fotbal uvedl jako lídr 3. kvalifikační skupiny o postup na MS v roce 2003. Fotbalovému svazu se totiž v Praze podařilo uspořádat schůzku o termínové listině takovým způsobem, že už po osmdesátiminutovém jednání zástupci všech stran ochotně podepsali protokol přijatelný pro každého, který vycházel z návrhu předloženému hostitelskou stranou. Český tým začne kvalifikaci letos 2. září v Bulharsku a poslední utkání sehraje se stejným soupeřem doma 6. října 2001",
+            "rouge-1": {
+                "overlap": 12,
+                "recall": 0.16216216216216217,
+                "precision": 0.21428571428571427,
+                "f1": 0.1846153846153846
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.013513513513513514,
+                "precision": 0.017857142857142856,
+                "f1": 0.015384615384615385
+            }
+        },
+        {
+            "response": "Slavistický fotbalista Luboš Kozel se vrátil do hry. Na podzim 2000, kdy byl ve Slavii na podzim, přetrhl křížový vaz v koleni. Jeho operace se podařilo, ale rehabilitace trvala dva roky. \"Většinu zranění si člověk zvykne, ale u křížových vazů je riziko větší,\" říká lékař Josef Maurer",
+            "reference": "Vyšvihne se, už sahá po reprezentačním dresu a vzápětí padá dolů. Fotbalová kariéra Luboše Kozla se vlní jako voda při mořské bouři, srážejí jej zranění. \"Na někom se musí smůla vyřádit,\" říká obránce Slavie. Od začátku ledna usiluje o svůj další návrat. V přípravě před ligou maká jako každý jiný z mužstva, bez úlev. \"Je zdráv a klepu to na dřevo,\" raduje se trenér František Cipro. \"Neztratil rychlost, do osobních soubojů jde naplno. Časem přijde i sebevědomí a rozehranost.\"",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.0759493670886076,
+                "precision": 0.1276595744680851,
+                "f1": 0.09523809523809525
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.012658227848101266,
+                "precision": 0.02127659574468085,
+                "f1": 0.015873015873015872
+            }
+        },
+        {
+            "response": "Morten Olsen, který už půl roku nehrá pro reprezentaci, se rozhodl nastoupit na mistrovství světa 2002. Podle něj je to pro Dánsko nejlepší možnost, aby si udržel pozici v Evropě. \"Je to jen jeden z možností, ale pro mě je to nejlepší,\" řekl Olsen, který se v úterý dočkal smlouvy s národní federací",
+            "reference": "Ještě půl roku nebude Morten Olsen trenérem, přitom už dnes začne vyjednávat jako kouč dánské fotbalové reprezentace. Zástupci šesti zemí ze třetí kvalifikační skupiny o mistrovství světa 2002 se mají v Praze dohodnout na termínové listině zápasů. Kromě Česka a Dánska jsou ve skupině Severní Irsko, Bulharsko, Malta a Island",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.18,
+                "precision": 0.16981132075471697,
+                "f1": 0.17475728155339804
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.04081632653061224,
+                "precision": 0.038461538461538464,
+                "f1": 0.039603960396039604
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04,
+                "precision": 0.03773584905660377,
+                "f1": 0.038834951456310676
+            }
+        },
+        {
+            "response": "Příbram - Tomáš Poštulka byl nejlepší brankářem příbramské kopané, ale už to byl konec. Po úspěšném výkonu na Letné, kde se stal prvním českým gólmanem, který nastoupil v pohárové Evropě, skončil i v brance Sparty",
+            "reference": "Ani případný zisk dalšího mistrovského titulu a možnost startů v prestižní Lize mistrů neodradily fotbalového brankáře Michala Čalouna od úmyslu opustit po třech a půl letech pražskou Spartu. Věčný boj o post brankářské jedničky na Letné směnil v zimě za jistotu stálého místa mezi tyčemi v provinční Dukle Příbram. Rozhodnutí o přestupu v devětadvacetiletém gólmanovi dozrálo během podzimu, jehož valnou část strávil na lavičce náhradníků",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.06153846153846154,
+                "precision": 0.11428571428571428,
+                "f1": 0.08
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.015384615384615385,
+                "precision": 0.02857142857142857,
+                "f1": 0.02
+            }
+        },
+        {
+            "response": "Dánský fotbalista Morten Olsen, který se v současnosti připravuje na mistrovství světa, se v sobotu představil na hřišti. \"Mám šedé vlasy, takže se mi zdá, že už jsem padesát,\" řekl",
+            "reference": "Ještě půl roku nebude Morten Olsen trenérem, přitom už dnes začne vyjednávat jako kouč dánské fotbalové reprezentace. Zástupci šesti zemí ze třetí kvalifikační skupiny o mistrovství světa 2002 se mají v Praze dohodnout na termínové listině zápasů. Kromě Česka a Dánska jsou ve skupině Severní Irsko, Bulharsko, Malta a Island. \"Nemám žádný plán, jak by mělo pořadí zápasů vypadat. Určitě se ale nějak domluvíme,\" říkal s úsměvem modrooký muž, když včera odpoledne vplul do ruzyňské letištní haly",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.09090909090909091,
+                "precision": 0.23333333333333334,
+                "f1": 0.13084112149532712
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.012987012987012988,
+                "precision": 0.03333333333333333,
+                "f1": 0.01869158878504673
+            }
+        },
+        {
+            "response": "Škodový řidič v sobotu večer při nehodě ve Smíchově v páteční odpoledne zranil dvě auta a dva řidiče. Některé zranění bylo lehké, ale Skuhravý má zlomené pět žeber a roztrženou ruku. Jeho předchozí nehoda v roce 1993 se zúčastnila mistrovství světa",
+            "reference": "Bývalý fotbalový reprezentant Tomáš Skuhravý, který v sobotu havaroval, nemíní o této autonehodě cokoli říkat. \"Tomáš leží a s nikým mluvit nechce,\" oznámila včera v poledne Radka Skuhravá u pootevřených dveří bytu v jednom z paneláků motolského sídliště. Na opakovanou žádost o rozhovor se tiše vytratila za manželem, po chvíli se vrátila a zopakovala, že muž opravdu s nikým nehodlá mluvit",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.11475409836065574,
+                "precision": 0.17073170731707318,
+                "f1": 0.13725490196078433
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.016666666666666666,
+                "precision": 0.025,
+                "f1": 0.02
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.03278688524590164,
+                "precision": 0.04878048780487805,
+                "f1": 0.03921568627450981
+            }
+        },
+        {
+            "response": "Pardubice – Na led se v pátek vrátil k Karlovarským Varym 23letý hokejový útočník Tomáš Martinec",
+            "reference": "Ačkoliv se hokejový útočník Tomáš Martinec dozvěděl o přestupu do týmu karlovarské Becherovky před týdnem, s novými spoluhráči trénoval poprvé až včera. V Pardubicích, kde donedávna působil, totiž doléčoval chřipku. \"Výměna do Karlových Varů mne zaskočila, zvlášť když to bylo na poslední chvíli těsně před uzávěrkou soupisek,\" přiznal Tomáš Martinec. Šestadvacetiletého hokejistu však potěšilo, že celek Becherovky vede trenér Miloš Říha",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.11475409836065574,
+                "precision": 0.4375,
+                "f1": 0.18181818181818182
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.05,
+                "precision": 0.2,
+                "f1": 0.08000000000000002
+            },
+            "rouge-l": {
+                "lcs": 4,
+                "recall": 0.06557377049180328,
+                "precision": 0.25,
+                "f1": 0.10389610389610389
+            }
+        },
+        {
+            "response": "Policie začala ve čtvrtek vyšetřovat dopravní nehodu, která se stala v pátek 16. září na Pražském nábřeží. Šofér Škody Octavia v nádražní ulici v Praze 5 srazil s řidičem Mercedesu 230, který krátce po nárazu vzplál. Řidič mercedesu vyvázl s lehkým poraněním hlavy a břicha, Skuhravý s pěti zlámanými žebry a tržnou ránou na ruce",
+            "reference": "Obviněn z trestného činu obecného ohrožení pod vlivem alkoholu byl bývalý fotbalový reprezentant Tomáš Skuhravý. Populární \"bomber\", který nyní působí ve funkci marketingového ředitele příbramské Dukly, o víkendu způsobil v Praze vážnou dopravní nehodu a hrozí mu až roční vězení nebo zákaz řízení motorových vozidel či peněžitý trest",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.125,
+                "precision": 0.10909090909090909,
+                "f1": 0.11650485436893204
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.018518518518518517,
+                "f1": 0.0198019801980198
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.041666666666666664,
+                "precision": 0.03636363636363636,
+                "f1": 0.03883495145631067
+            }
+        },
+        {
+            "response": "Miroslav Horníček a Jiří Suchý si v rozhovoru pro Českou televizi popírají, že by se měli bavit o svobodě. Horníček to dokáže, ale Suchý si to nevytvoří",
+            "reference": "Miroslavu Horníčkovi je jedenaosmdesát let, ale pořád o stáří nerad slyší, i když už na něm neúprosně zanechává své stopy. Po obědě chodí spát, a pak odchází do pracovny, aby se věnoval svým kolážím. Od smrti manželky žije ve svém bytě ve vile na hranici Vinohrad a Vršovic sám, ale obklopen přáteli.Jedním z nich je i Jiří Suchý. Rozhovor, který vedl s Miroslavem Horníčkem pro Magazín MF DNES, není opravdovým novinářským rozhovorem. Je spíš divadelním dialogem, vzpomínáním dvou lidí, kteří prožili nejlepší léta ve společném světě",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.06976744186046512,
+                "precision": 0.2222222222222222,
+                "f1": 0.10619469026548672
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.011627906976744186,
+                "precision": 0.037037037037037035,
+                "f1": 0.017699115044247787
+            }
+        },
+        {
+            "response": "Přestože je to v pořádku, že rušička vysílá rušivý signál, je to i velmi zajímavý přístroj, který se už dlouho objevuje na internetu. Jedná se o rušičku, která se v pásmu 900MHz vysílá rušivými vlnami, které mobilní telefon interpretuje jako absence signálu. Pokud telefonujeme a rušičku zapneme, tak se to projeví postupně tak, že my přestaneme slyšet druhou stranu a po té vypadne i hlas na druhé straně",
+            "reference": "Včera jsme vám přinesli zajímavou zprávu o rušičce mobilních telefonů GSM. Dnes vám přinášíme její bližší popis, včetně toho, co dělá za neplechu, pokud někdo stiskne \"ten modrý čudlíček\"",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.06896551724137931,
+                "precision": 0.029411764705882353,
+                "f1": 0.041237113402061855
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.034482758620689655,
+                "precision": 0.014705882352941176,
+                "f1": 0.020618556701030927
+            }
+        },
+        {
+            "response": "Česká policie se došlo k závěru, že v kauze Bamberk spáchal trestný čin Miloš Vízek. Podle něj se podvrdil na podpisu záměrně, aby Miloš Zeman zkompromitoval. Vízek je občanem Švýcarska a tamní úřady se do případu budou zabývat",
+            "reference": "Vyšetřovatel Martin Hádek oznámil, že českošvýcarský podnikatel Jan Vízek zfalšoval \"bamberské memorandum\", tedy dohodu s vedoucími představiteli tehdejší opoziční ČSSD, v níž údajně slíbili, že po vítězství ve volbách nabídnou českošvýcarským podnikatelům za příslib půjčky vliv na ekonomický vývoj v Česku. Tato skutečnost už je však skoro dva roky známa. Podstata sporu, proč Zeman do Bambergu jezdil, ovšem zůstává nevyřešena. \"To nebylo předmětem tohoto trestního řízení,\" řekl Hádek zpravodajce MF DNES",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.09859154929577464,
+                "precision": 0.18421052631578946,
+                "f1": 0.12844036697247704
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014084507042253521,
+                "precision": 0.02631578947368421,
+                "f1": 0.018348623853211007
+            }
+        },
+        {
+            "response": "Národní tým fotbalu bude v Hongkongu bojovat o účast na mistrovství Evropy. V úterní nominaci na nejlepších českých fotbalistů, která byla odhalena v úterý, je i jeden z nejlepších hráčů v Evropě, bývalý obránce a reprezentant Martin Berger. Kromě něj je v nominaci i Michal Horňák ze Sparty, který je nejlepším obránce v Evropě, a Jiří Ulich ze Slavie, který je nejlepší záložník v Evropě",
+            "reference": "Se sedmi nováčky a bez fotbalistů ze zahraničích klubů odletí reprezentace na únorový turnaj do Hongkongu. Trenér Jozef Chovanec nominoval poprvé i trojici z týmu do jedenadvaceti let: drnovického obránce Brabce, ostravského záložníka Jankulovského a olomouckého útočníka Heinze. Reprezentační premiéra čeká i teplického záložníka Kolomazníka, útočníka Vlčka z Olomouce a krále střelců podzimní části ligy Kincla z Viktorie Žižkov. Prvně by mohl nastoupit i slávistický brankář Radek Černý, který už dvakrát nominovaný byl",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.1232876712328767,
+                "precision": 0.13846153846153847,
+                "f1": 0.13043478260869565
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.0136986301369863,
+                "precision": 0.015384615384615385,
+                "f1": 0.014492753623188406
+            }
+        },
+        {
+            "response": "Jednoho dne se bude na hřišti hrát dvakrát. To je pro národní mužstvo Bulharska, které se do kvalifikace na Evropskou ligu kvalifikovalo, nečekaně rychlý termín. \"To, že se mi včera splnilo, že s Českem budeme hrát až v příštím roce i že nejdřív nastoupíme u nich, je pro mě skvělé,\" řekl trenér Bulharska Vasil Chovanec",
+            "reference": "Zářijovým zápasem v Bulharsku vstoupí fotbaloví reprezentanti do kvalifikace o účast na mistrovství světa 2002, jehož pořadateli jsou Japonsko a Korea. Rozhodla o tom včerejší pražská schůzka zástupců šesti národních týmů z třetí kvalifikační skupiny. \"Jsem spokojen na devadesát procent,\" prohlásil trenér národního mužstva Jozef Chovanec, jenž si přál začínat kvalifikační boje na hřišti soupeře. \"V podstatě jsme museli ustoupit jen z jediného požadavku, chtěli jsme první zápas s Dánskem hrát venku, ale začínáme s ním doma",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.11688311688311688,
+                "precision": 0.16363636363636364,
+                "f1": 0.13636363636363635
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.02631578947368421,
+                "precision": 0.037037037037037035,
+                "f1": 0.03076923076923077
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.025974025974025976,
+                "precision": 0.03636363636363636,
+                "f1": 0.030303030303030304
+            }
+        },
+        {
+            "response": "Česká národní banka vydala v lednu deseti a dvacetikorunové mince vzoru 2000. Obě mince zachovávají lícní strany současných platných deseti a dvacetikorun, na rubových stranách je pak ztvárněno téma vztahující se k roku 2000",
+            "reference": "Česká národní banka uvedla 12. ledna do oběhu desetikorunové a dvacetikorunové mince vzoru 2000. Obě mince zachovávají lícní strany současných platných deseti a dvacetikorun, na rubových stranách je pak ztvárněno téma vztahující se k roku 2000. Na desetikoruně je zobrazen fragment kotvového hodinového strojku a na dvacetikoruně fragment starého astronomického přístroje astrolábu. Nově vydané mince mají podle tiskového mluvčího ČNB Milana Tománka stejnou platnost jako desetikoruny a dvacetikoruny vydané v roce 1993",
+            "rouge-1": {
+                "overlap": 30,
+                "recall": 0.4166666666666667,
+                "precision": 0.8823529411764706,
+                "f1": 0.5660377358490566
+            },
+            "rouge-2": {
+                "overlap": 27,
+                "recall": 0.38028169014084506,
+                "precision": 0.8181818181818182,
+                "f1": 0.5192307692307692
+            },
+            "rouge-l": {
+                "lcs": 26,
+                "recall": 0.3611111111111111,
+                "precision": 0.7647058823529411,
+                "f1": 0.490566037735849
+            }
+        },
+        {
+            "response": "Česká pojišťovna (ČPO) pojišťovna, která připravuje změnu obchodního jména na ČSOB pojišťovna, vlastní z téměř 76 procent společnost KBC Insurance a patří tak spolu s ČSOB do skupiny KBC Group. Chmelařská pojišťovna zahájila činnost 1. ledna 1996 a její základní jmění je 447,3 milionu korun. Hospodářský výsledek za rok 1999 zatím podle Ujce není k dispozici. Rok 1998 společnost zakončila ztrátou 67 miliónů korun. ČSOB pojišťovna se chce v roce 2000 zúčastnit 2,5 miliardy korun. KBC Group se chce zúčastnit 1,5 miliardy korun",
+            "reference": "Chmelařská pojišťovna, jeden z dvanácti ústavů poskytujících povinné ručení, loni svým klientům předepsala platbu pojistného ve výši 177,99 milionu korun, což znamenalo meziroční nárůst o více než 50 procent. Podle mluvčího této společnosti Vladimíra Ujce se na celkové částce nejvíce podílelo zemědělské pojištění (64,9 milionu korun), pojištění průmyslu a podnikatelů (56,8 milionu korun) a pojištění občanů (3,6 milionu korun). V oblasti životního pojištění bylo celkové pojistné 5,3 milionu korun",
+            "rouge-1": {
+                "overlap": 12,
+                "recall": 0.17391304347826086,
+                "precision": 0.14457831325301204,
+                "f1": 0.15789473684210525
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014492753623188406,
+                "precision": 0.012048192771084338,
+                "f1": 0.013157894736842106
+            }
+        },
+        {
+            "response": "Fotbalový Baník má v plánu přestup Radeka Slončíka do Sparty. Podle mluvčího klubu Miroslava Pelta se o přestupu do Prahy dohodne v červnu",
+            "reference": "Odtajnění \"mediálního embarga\", které Sparta vyhlásila v souvislosti s chystaným přestupem fotbalového reprezentanta Radka Slančíka z Baníku Ostrava, žádný konkrétní výsledek nepřineslo. \"Po lékařské prohlídce jsme se rozhodli, že budeme o Slončíka dále usilovat,\" řekl jen generální ředitel Sparty Miroslav Pelta. Tajení tohoto faktu tak bylo zřejmě pouze snahou přilákat větší pozornost k dopolední tiskové konferenci, při níž Letenští podepsali novou sponzorskou smlouvu",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.06349206349206349,
+                "precision": 0.17391304347826086,
+                "f1": 0.09302325581395347
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.015873015873015872,
+                "precision": 0.043478260869565216,
+                "f1": 0.02325581395348837
+            }
+        },
+        {
+            "response": "Česká fotbalová reprezentace bude příští rok vyjíždět na dva mistrovství světa. Ve středu se v Praze potýká s výběrem Žižkov. \"Už jsem na tom, že tohle bude moje kariéra,\" řekl brankář Pavel Pižanowski",
+            "reference": "První týden v novém klubu má za sebou Petr Pižanowski, fotbalový brankář Viktorie Žižkov, který dorazil do metropole z Olomouce. Pětadvacetiletý gólman v podzimní části hostoval v Jablonci. Měl se vrátit na Hanou a začít chytat v Olomouci, jenže nepodepsal tam novou smlouvu. Hned nato se ozvala Viktoria Žižkov",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.08163265306122448,
+                "precision": 0.12121212121212122,
+                "f1": 0.0975609756097561
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02040816326530612,
+                "precision": 0.030303030303030304,
+                "f1": 0.024390243902439025
+            }
+        },
+        {
+            "response": "Kubánský lékař včera se poprvé objevil v USA. Přestože je zřejmě nejlepším fotbalistou světa, má vliv na světovou sportovní historii. Je to 79letý Maradona, který se v minulém týdni dostal do vězení kvůli závislosti na kokainu. Poté ho do nemocnice přivezli lékaři",
+            "reference": "Baculatý chlapík v černých brýlích se objevil začátkem týdne na letišti v kubánském Holguínu a vyvolal rozruch. Reportéři se přetlačovali, aby se mu příblížili k tělu a mohli položit pár otázek. Na čilý zájem o osobu byl Diego Maradona zvyklý od sedmnácti let. Teď ho ale nenutili, aby vzpomínal na taje fotbalové dovednosti, nýbrž vysvětloval, proč se hodlá léčit ze závislosti na kokain právě na \"ostrově svobody\"",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.13432835820895522,
+                "precision": 0.21428571428571427,
+                "f1": 0.1651376146788991
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.015151515151515152,
+                "precision": 0.024390243902439025,
+                "f1": 0.018691588785046728
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.029850746268656716,
+                "precision": 0.047619047619047616,
+                "f1": 0.03669724770642202
+            }
+        },
+        {
+            "response": "Písek - Fotbalový záložník Patrik Berger byl v minulosti největší překvapením v historii fotbalu. Ve finále ME v Londýně v roce 1996 proměnil ve střelecké pokute přísnou disciplínu Kopky. Teprve v Písku se Bergerovi podařilo překvapit i sice jen o pár minut, ale i o několik desítek kilometrů v sekundu",
+            "reference": "V pět hodin ráno musel v neděli vstávat fotbalista Patrik Berger, aby stihl dlouhou cestu z Liverpoolu přes Manchester, Amsterdam a Prahu do Písku. Na jihu Čech jej čekalo slavnostní vyhlášení výsledků novinářské ankety Zlatý míč ČR, ale také plný sál malých i starších fotbalistů, kteří ve zdejším kulturním domě v sedmiboji testovali své dovednosti. Nejlepší český fotbalista loňského roku si vyzkoušel alespoň tu nejaktraktivnější disciplínu, měření síly kopu, a po uklouznutí při prvním pokusu nakonec vytvořil rekord dne: fotobuňka naměřila jeho střele rychlost 105,9 km/h.Poslechněte si rozhovor s Patrikem Bergrem - ikona audio",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.0851063829787234,
+                "precision": 0.16,
+                "f1": 0.11111111111111112
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.010638297872340425,
+                "precision": 0.02,
+                "f1": 0.01388888888888889
+            }
+        },
+        {
+            "response": "Na rozdíl od televize, která nabízí obraz, má rozhlas sice i zvuk, ale díky tomu je pro posluchače mnohem více prostoru k improvizaci. \"Začínáme s 450 díly, ale v úvahu by přicházela snad jedině animovaná verze,\" říká Jiří Lábus, který v seriálu Tlučhořovic rodinka hraje psa",
+            "reference": "Rozhlasový seriál Rodina Tlučhořova bude mít po 450 dílech další pokračování. Oba představitelé všech - už téměř tisícovky postav - Jiří Lábus a Oldřich Kaiser, prohlásili ve čtvrtek před novináři, že o konci zatím neuvažují. Zmínka o jejich loutkové verzi je pak přiměla ke vtipné replice: \"Budeme-li taková dřeva, pak skončíme až nás pověsí.\" Na videu najdete oba herce v různých rolích postav ze seriálu, v audiu je záznam z CD na téma otec radí synovi před prvním rande",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.0759493670886076,
+                "precision": 0.13043478260869565,
+                "f1": 0.096
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.012658227848101266,
+                "precision": 0.021739130434782608,
+                "f1": 0.016
+            }
+        },
+        {
+            "response": "Česká strana sociálních demokratů (ČSSD) se po roce a půl opět chystá na sjezdu. Představuje se jako strana, která se do politiky vnesla intenzivněji než kdy před rokem. Podle ministra práce a sociálních věcí Vladimíra Špidly to je pravda. Ale i když se na straně ČSSD objevuje několik lidí, kteří by se mohli stát předsedou strany, tak je to pro Zemanova kandidaturu v příštích volebách ještě příliš daleko. ČSSD by se mohla rozhodnout o tom, zda bude kandidovat jako silná nebo slabá strana",
+            "reference": "Místopředseda vlády a ministr práce a sociálních věcí Vladimír Špidla poskytl MF DNES exkluzivní rozhovor, ve kterém hodnotí své působení v ministerské funkci, ale i rok a půl dlouhé vládnutí sociální demokracie.\"V každém případě jsme do politiky vnesli daleko intenzivnější veřejnou debatu o řadě témat,\" uvedl Špidla v rozhovoru",
+            "rouge-1": {
+                "overlap": 12,
+                "recall": 0.24489795918367346,
+                "precision": 0.14457831325301204,
+                "f1": 0.18181818181818182
+            },
+            "rouge-2": {
+                "overlap": 6,
+                "recall": 0.125,
+                "precision": 0.07317073170731707,
+                "f1": 0.0923076923076923
+            },
+            "rouge-l": {
+                "lcs": 4,
+                "recall": 0.08163265306122448,
+                "precision": 0.04819277108433735,
+                "f1": 0.06060606060606061
+            }
+        },
+        {
+            "response": "Národní galerie v Praze vyklíže prostory knihkupectví, které má od roku 1994 pronajímat Společnost Franze Kafky. Podle informací Centra Franze Kafky začal v pátek ve 12 hodin společník NG, který je součástí Společnosti, vyklízet knihkupectví. Podle informací Centra Franze Kafky pozval ochranku a četu stěhováků, nechal vybourat okno a za asistence policie začal knihkupectví vyklízet. Podle informací Centra Franze Kafky pozval ochranku a četu stěhováků, nechal vybourat okno a za asistence policie začal knihkupectví vyklízet. Podle informací Centra Franze Kafky pozval ochranku a četu stěhováků, nechal vybourat okno a za asistence policie začal knihkupectví vyklízet.",
+            "reference": "Ředitel Národní Galerie v Praze (NG) Milan Knížák nechal vyklidit prostory Knihkupectví Franze Kafky v paláci Kinských. Spor o knihkupectví mezi Centrem Franze Kafky a galerií se táhne od loňského listopadu, kdy Knížák vyzval nájemníky, aby prostory opustili.Spor o přízemí paláce Kinských, které má od roku 1994 Společnost Franze Kafky pronajaté od NG na neplatnou smlouvu, vyvrcholil počátkem prosince potyčkou mezi dělníky najatými NG a ochrankou knihkupectví. Při incidentu tehdy asistovala policie",
+            "rouge-1": {
+                "overlap": 25,
+                "recall": 0.3472222222222222,
+                "precision": 0.2631578947368421,
+                "f1": 0.2994011976047904
+            },
+            "rouge-2": {
+                "overlap": 11,
+                "recall": 0.15492957746478872,
+                "precision": 0.11702127659574468,
+                "f1": 0.1333333333333333
+            },
+            "rouge-l": {
+                "lcs": 5,
+                "recall": 0.06944444444444445,
+                "precision": 0.05263157894736842,
+                "f1": 0.05988023952095808
+            }
+        },
+        {
+            "response": "Karlovy Vary - Karel Gott poděkoval kmotrovi monografie, v jehož \"škole\" v Semaforu začínal. \"Tady jsem zpíval svoje první texty. A moc bych si přál, aby mi napsal ještě nějaký text , když teď končím,\" dodal se smíchem",
+            "reference": "Jiří Suchý pokřtil šampaňským (\"Přeju jí všechno dobré a křtím jí na jméno Karel.\") v pondělí večer dvojjazyčnou českoněmeckou monografii, která především fotograficky mapuje profesionání dráhu zpěváka Karla Gotta. Pokřtěný exemplář s podpisy a s věnováním byl ještě ten večer vydražen za 15 tisíc korun, které jsou určeny na konto onkologického a hematologického oddělení motolské nemocnice",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.05357142857142857,
+                "precision": 0.07894736842105263,
+                "f1": 0.06382978723404255
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.017857142857142856,
+                "precision": 0.02631578947368421,
+                "f1": 0.02127659574468085
+            }
+        },
+        {
+            "response": "Fotbalové extraligové týmy v zimě přestupují kádry. O víkendu se do Dubaje vydají tři české fotbalisté. Jedná se o Radeka Slončíka, Jiřího Tomance a Jana Hlaváčka",
+            "reference": "Kompletní hráčský kádr fotbalistů Sparty Praha odcestuje v pátek na desetidenní soustředění v teple Spojených arabských emirátů. Trenér Ivan Hašek totiž s sebou vezme i rekonvalescenty, kteří se pomalu chystají k návratu na trávník. Dvojici Labant, Prohászka to zřejmě bude trvat do léta, Vlastimil Svoboda se asi dočká vytoužené chvíle dříve. Tehdy také čeká sparťany první ostřejší herní zkouška, nynější formu rozděleného týmu vyzkoušejí Admira Praha a Chmel Blšany",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.07246376811594203,
+                "precision": 0.19230769230769232,
+                "f1": 0.10526315789473685
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.014492753623188406,
+                "precision": 0.038461538461538464,
+                "f1": 0.021052631578947368
+            }
+        },
+        {
+            "response": "Fotbalisté Brna mají příležitost, aby se v příštích dnech podívali na herní kondici, která jim v současnosti chybí. Soutěžní týmy se v zimě příliš nehrá, a proto se jim hraje na ledě, na sněhu i na blátě. A tak se jim po zimní přestávce dostává jen do ruky míč. Naopak, trenéři mají na podzim i v létě na hřišti hodně času, aby si na herní kondici připravili hráče",
+            "reference": "Nadupat do fotbalistů v zimě fyzickou kondici není umění. Ale co dělat, aby neutrpěly herní jistota, technika či smysl pro kombinaci? Jak dosáhnout, aby se hráč v začátku soutěže cítil na hřišti znamenitě? \"Ona se ta fyzička nesmí přehánět,\" říká někdejší úspěšný trenér Tomáš Pospíchal. \"Já sice s hráči také vždycky začínal běháním, ale koukal jsem předhodit jim míč co nejdřív.\" Patrik Berger z Liverpoolu si anglickou ligu bez zimní přestávky pochvaluje",
+            "rouge-1": {
+                "overlap": 15,
+                "recall": 0.20833333333333334,
+                "precision": 0.22058823529411764,
+                "f1": 0.21428571428571427
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.04225352112676056,
+                "precision": 0.04477611940298507,
+                "f1": 0.04347826086956522
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.027777777777777776,
+                "precision": 0.029411764705882353,
+                "f1": 0.02857142857142857
+            }
+        },
+        {
+            "response": "Fotbalisté mají za sebou testy na kondiční připravenost, které se v Česku začaly provádět už před dvaceti lety. A to už se stalo tradiční součástí tréninku. \"Kluci to nemají rádi, protože se musí jet na doraz,\" říká sparťanský asistent Vítězslav Lavička. \"Při testech se ale snažíme, aby to byla nejpřirozenější zátěž, kterou mohou vydržet,\" říká profesor Václav Bunc, který se zátěžovým vyšetřením věnuje už od 80. let",
+            "reference": "Nohy kmitají na běžícím pásu čím dál rychleji, sklon podložky se zvyšuje a fotbalista maká na samé hranici sil. Červená číslíčka na přístrojové desce před sebou vidí jen mlhavě, míhají se mu před očima",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.20588235294117646,
+                "precision": 0.1044776119402985,
+                "f1": 0.1386138613861386
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.029411764705882353,
+                "precision": 0.014925373134328358,
+                "f1": 0.019801980198019802
+            }
+        },
+        {
+            "response": "Karlovarsko - Karel Slávist, který v sobotu 1. ledna vyhrál na Kralovicku 2:1, se v sobotu 17. ledna vrátil do Slavie. V úterý 20. ledna v Karlových Varech porazil v druhém kole ligy 3:1 1. FC Košice. V úterý 20. ledna porazil 3:1 1. FC Košice",
+            "reference": "I ve třetím zápase zimní přípravy na jarní část první fotbalové ligy byli hráči pražské Slavie úspěšní. V Nymburku zdolal podzimní mistr druhý celek slovenské soutěže 1. FC Košice 3:1. V prvním přípravném utkání na soustředění v Blšanech porazily Drnovice druholigový MUS Most 3:0 a hráči Boby Brno porazili na zimním turnaji v domácím prostředí tým Prostějova 5:1",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.15517241379310345,
+                "precision": 0.1956521739130435,
+                "f1": 0.17307692307692307
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.03508771929824561,
+                "precision": 0.044444444444444446,
+                "f1": 0.039215686274509796
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.05172413793103448,
+                "precision": 0.06521739130434782,
+                "f1": 0.05769230769230769
+            }
+        },
+        {
+            "response": "Jablonec - Začátkem letošního fotbalového sezonu se na českých Budějovicích objevil mladý středopolař Martin Vozábal. V Praze mu ale nabídku Slavie odmítne. \"Nemám takovou trému, jako když jsem nastupoval poprvé za muže Českých Budějovic,\" řekl Vozábal",
+            "reference": "Fotbalový záložník SK České Budějovice Martin Vozábal se minimálně na půl roku loučí s jižními Čechami. Na jaře bude hostovat v týmu Slavie Praha. \"Prakticky jsme se Slavií domluveni,\" uvedl manažer SK České Budějovice Zdeněk Procházka. Vozábal by měl dnes nastoupit za vedoucí tým v přípravě proti Košicím. \"Nevím, kdo konkrétně o mě měl ve Slavii zájem,\" podotkl záložník",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.11864406779661017,
+                "precision": 0.19444444444444445,
+                "f1": 0.1473684210526316
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.01694915254237288,
+                "precision": 0.027777777777777776,
+                "f1": 0.02105263157894737
+            }
+        },
+        {
+            "response": "Ostrava - Po vypršení kontraktu by částku za Slončíka stanovila smírčí komise Českomoravského fotbalového svazu a podle předběžných odhadů by Baník nedostal více než tři a půl milionu korun. Podle našich informací by Ostravané rádi za Slončíka dostali přibližně patnáct milionů korun, a to ve splátkách podle toho, jak by ve Spartě v nadcházejících sezonách hrál",
+            "reference": "Přestoupí fotbalový reprezentant Radek Slončík do Sparty Praha, nebo zůstane v Baníku Ostrava? To je otázka tohoto týdne, v němž má dojít k dalšímu jednání mezi oběma kluby. Samotný hráč se definitivně rozhodl pro Spartu. Nyní jsou ve hře peníze, které Baník za Slončíka požaduje, a také obránce René Bolf, jehož by Ostravané chtěli získat ze Sparty zpátky",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.15517241379310345,
+                "precision": 0.16071428571428573,
+                "f1": 0.15789473684210528
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.03508771929824561,
+                "precision": 0.03636363636363636,
+                "f1": 0.03571428571428571
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.034482758620689655,
+                "precision": 0.03571428571428571,
+                "f1": 0.03508771929824562
+            }
+        },
+        {
+            "response": "Komentátorské umění, které se na anglické televizí pohybuje od Dese Lynama k Garymu Linekerovi, se bude v zápasích fotbalového národního mužstva vysílat oběma televizi ITV a BBC. Přímé přenosy se budou vysílat ve stejný čas, takže diváci mají možnost srovnat komentátorské umění obou komentátorů",
+            "reference": "Fandové anglického národního mužstva se budou večer 17. června rozhodovat, kterou stanici zvolí pro sledování zápasu svého týmu s reprezentací Německa. Toto utkání základní skupiny fotbalového EURO 2000 budou přenášet dvě televizní společnosti, které se už teď snaží získat ke spolukomentování zmíněného zápasu co nejzvučnější jména, aby nalákaly diváky",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.14285714285714285,
+                "precision": 0.1590909090909091,
+                "f1": 0.15053763440860213
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.0625,
+                "precision": 0.06976744186046512,
+                "f1": 0.06593406593406592
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04081632653061224,
+                "precision": 0.045454545454545456,
+                "f1": 0.04301075268817204
+            }
+        },
+        {
+            "response": "Pojišťovna Kooperativa, která vznikla fúzí dvou největších českých pojišťoven, loni vzrostla. Přijala 6,5 miliardy korun, což je o 1,7 procenta více než loni. Tržby v roce 1999 vzrostly o 13,4 procenta",
+            "reference": "Pojišťovna Kooperativa, druhý největší domácí pojišťovací ústav, předepsala podle předběžných výsledků v roce 1999 svým klientům pojistné za 7,321 miliardy korun. Vzhledem k předchozímu roku činil podle ředitele odboru plánování Evžena Heřmana nárůst 2,5 procenta",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.2,
+                "precision": 0.22580645161290322,
+                "f1": 0.21212121212121215
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.08823529411764706,
+                "precision": 0.1,
+                "f1": 0.09375000000000001
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.08571428571428572,
+                "precision": 0.0967741935483871,
+                "f1": 0.0909090909090909
+            }
+        },
+        {
+            "response": "Belgický fotbalový reprezentant Lorenz Staelense, který bude v pátek 23. června na mistrovství světa v Brazílii, má na svém seznamu kandidátů pro Zlatou kopačku největší šanci. Kollera, který v sobotu 24. června nastoupí do Anderlechtu, má podle Ankety UEFA nejvyšší pravděpodobnost získání trofeje. Staelense, který má v úterý 25. června odehrát poslední zápas světa, má podle Ankety UEFA 12,3 procenta šance",
+            "reference": "Fotbalový reprezentant Jan Koller z Anderlechtu Brusel má šanci získat Zlatou kopačku pro nejlepšího hráče belgické ligy za rok 1999. \"Já to zase tak jednoznačně, jak uvádějí některé noviny, nevidím,\" říká bezmála sedmadvacetiletý útočník, který dal minulý víkend už čtrnáctý gól v lize,tentokrát do sítě Lierse (2:0)",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.19148936170212766,
+                "precision": 0.14754098360655737,
+                "f1": 0.16666666666666666
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.043478260869565216,
+                "precision": 0.03333333333333333,
+                "f1": 0.03773584905660378
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.0425531914893617,
+                "precision": 0.03278688524590164,
+                "f1": 0.037037037037037035
+            }
+        },
+        {
+            "response": "Nokia 7110 je klasický, ale sice trochu starší model, který je stále dost oblíbený. S ním si můžete nastavit, jak se chová telefon, jak se vyzvoní, jak se chová při přenosu dat, nebo jak se chová při volání. Telefon je v klidu velmi příjemný, klávesnice je velmi příjemná a na displeji se dobře čte. Většinou se ale používá v korporacích a firmách, kde se pro každého zaměstnance a klienta nastavuje profil",
+            "reference": "Ovládání, zvonění a profily na Nokia 7110",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.5714285714285714,
+                "precision": 0.056338028169014086,
+                "f1": 0.10256410256410255
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.16666666666666666,
+                "precision": 0.014285714285714285,
+                "f1": 0.02631578947368421
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.2857142857142857,
+                "precision": 0.028169014084507043,
+                "f1": 0.05128205128205127
+            }
+        },
+        {
+            "response": "Poslanci schválili státní rozpočet na rok 2000. Podle něj se očekává, že celkové příjmy státního rozpočtu České republiky na rok 2000 se stanou 592 miliardami korun. Vyplývá to z návrhu vlády. Schodek rozpočtu činí 35 miliard korun. Vláda se dohodla, že na jeho úhradě budou vydány státní dluhopisy",
+            "reference": "Poslanecká sněmovna odsouhlasila zákona o státním rozpočtu v prvním čtení a pustila ho k dalšímu projednávání do sněmovních výborů. Stalo se tak po dlouhotrvajících jednáních mezi ODS a ČSSD. Debata ve sněmovně se však nesla ve znamení kritiky poslanců z řad KSČM a čtyřkoalice",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.09090909090909091,
+                "precision": 0.08333333333333333,
+                "f1": 0.08695652173913043
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.020833333333333332,
+                "f1": 0.021739130434782608
+            }
+        },
+        {
+            "response": "Fotbalový klub Viktorie Teplice vyřadil svého trenéra a záložníka Pavla Pešice. Podle jeho slov se mu do rezervy poslal pan Hrdlička, který mu podle Pešice říká, že nehraje dobře. Pešice je v současnosti ve hokejovém klubu Žižkov",
+            "reference": "Se čtrnáctkou na zádech v pruhovaném dresu Viktorie Žižkov se proháněl fotbalista Aleš Pikl. V podzimní části už na Žižkově hostoval z Teplic, kam se na jejím konci také vrátil. Byl však přeřazen do béčka. Viktoria projevila zájem, aby čtyřiadvacetiletý obránce přestoupil na Žižkov, ovšem Pikl se podle trenéra Zdeňka Ščasného rozhodl zůstat v teplické rezervě. Nakonec se však po čtrnácti dnech na Žižkově přece objevil a podepsal smlouvu na čtyři roky, byť by mu ta teplická vypršela až za rok",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.1111111111111111,
+                "precision": 0.24324324324324326,
+                "f1": 0.15254237288135594
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.012345679012345678,
+                "precision": 0.02702702702702703,
+                "f1": 0.01694915254237288
+            }
+        },
+        {
+            "response": "Nokia 7110 je jedním z nejlepších mobilů, které jsem viděl. Je to telefon, který je opravdu výjimečný. Proč? Protože má velmi kvalitní displej, který je i s dobrým světlem velmi čitelný. Telefon je velmi rychlý a zároveň velmi elegantní. A co nejdůležitější, že je velmi funkční",
+            "reference": "IrDA, datové přenosy a další funkce Nokia 7110",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.375,
+                "precision": 0.06521739130434782,
+                "f1": 0.11111111111111109
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.14285714285714285,
+                "precision": 0.022222222222222223,
+                "f1": 0.038461538461538464
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.25,
+                "precision": 0.043478260869565216,
+                "f1": 0.07407407407407408
+            }
+        },
+        {
+            "response": "Liberec - Liberecký fotbalový klub se do příštího týden vrací do tréninku. Po skončení turnaje v Chile se vrátila i Vladimír Kožuch, který je součástí české reprezentace. \"Již v úterý odcestuje do Chile,\" informoval v pátek trenér Petr Jiránek",
+            "reference": "Fotbalistům Slovanu Liberec hrozí, že k prvnímu utkání jarní části první ligy nastoupí ve značně oslabené sestavě. Kromě obránce Pilného a Lazzara Liuniho, kteří budou stát pro čtyři žluté karty, totiž proti Dukle pravděpodobně nenastoupí ani Vladimír Kožuch. Ten by měl odletět se slovenskou reprezentací na turnaj do jihoamerické Chile. \"Byla by to pro nás dost velká rána. Přišli bychom tím už o druhého útočníka,\" posteskl si liberecký asistent trenéra Josef Petřík",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.06944444444444445,
+                "precision": 0.1282051282051282,
+                "f1": 0.0900900900900901
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.013888888888888888,
+                "precision": 0.02564102564102564,
+                "f1": 0.018018018018018018
+            }
+        },
+        {
+            "response": "Holešov – Šokující, ale i velmi krásné módní oblečení, které se v sobotu večer představilo na Holešovském klubu Mecca, se ukázalo jako nevyhnutelný zážitek. Právě toto oblečení, které se na pódiu zdálo být velmi často černé, se na pódiu ukázalo jako velmi zajímavé. A i když se to v mnoha případech zdálo být velmi zajímavé, je to i velmi zajímavé",
+            "reference": "Stejně svérázná, jako bývají představy dospívající generace o módě, byla i středeční přehlídka modelů Vyšší odborné školy oděvního návrhářství a Střední průmyslové školy oděvní z Prahy. Naštěstí, protože jen upřímný projev se může stát inspirací. Ať už v pozitivním, nebo negativním slova smyslu",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.11627906976744186,
+                "precision": 0.08333333333333333,
+                "f1": 0.0970873786407767
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.016666666666666666,
+                "f1": 0.01941747572815534
+            }
+        },
+        {
+            "response": "Ostrava - Fotbalový klub Sparta má od 1. ledna odstupňovaný kontrakt s českým obránce René Bolfem, který je zároveň hráčem Ostravy. Naopak, od 1. ledna má klub odstupňovaný kontrakt s českým záložníkem Tomášem Slončíkem, který je hráčem Baníku. Dnešní jednání s ostravským ředitelem Miroslavem Peltou se ale zaměřilo na to, že se Sparta po Slončíkově odehrané sezóně v Ostravě, dohodne s Baníkem, že si v zimě dovezou hráče",
+            "reference": "Až po návratu fotbalistů Sparty ze soustředění v Dubaji budou pokračovat jednání s Baníkem Ostrava o příchodu záložníka Radka Slončíka. Podle sparťanského ředitele Miroslava Pelty se stále diametrálně liší představy obou stran o odstupném. Pro Letenské zdržení znamená, že nestihnou vyhlédnutou posilu zapsat na soupisku pro Ligu mistrů, neboť UEFA musí znát jména hráčů nejpozději 31. ledna",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.15789473684210525,
+                "precision": 0.1323529411764706,
+                "f1": 0.144
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.017857142857142856,
+                "precision": 0.014925373134328358,
+                "f1": 0.016260162601626015
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.03508771929824561,
+                "precision": 0.029411764705882353,
+                "f1": 0.031999999999999994
+            }
+        },
+        {
+            "response": "Jablonec - Pořadí českých fotbalistů v nejvyšší soutěži by mohlo být v letošním roce zkomplikováno. Kromě dvou známých klubů, Jabloneče a Dukly, by se mohlo objevit další, třeba Slavie nebo Plzeň. \"Potřebujeme další útočníka,\" řekl trenér Jabloneče Petr Flodrman",
+            "reference": "Slovenského reprezentanta z týmu do 21 let Henricha Benčíka berou s sebou fotbalisté Jablonce na soustředění na Kypr. Urostlý nitranský útočník má tréninkový pobyt ve Středomoří na to, aby přesvědčil o svých kvalitách, po návratu se totiž trenér Zdeněk Klucký rozhodne, zda o fotbalistu stojí. Se stejnou motivací ve čtvrtek odletí i další zahraniční fotbalista, norský útočník Norell",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.05172413793103448,
+                "precision": 0.07692307692307693,
+                "f1": 0.061855670103092786
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.017241379310344827,
+                "precision": 0.02564102564102564,
+                "f1": 0.020618556701030927
+            }
+        }
+    ],
+    "average_scores": {
+        "rouge-1": {
+            "recall": 0.13901598878037816,
+            "precision": 0.16716722742363502,
+            "f1": 0.13515735280716273
+        },
+        "rouge-2": {
+            "recall": 0.023721841474750358,
+            "precision": 0.025986500067434696,
+            "f1": 0.02099570671504106
+        },
+        "rouge-l": {
+            "recall": 0.03886421618618378,
+            "precision": 0.04510702493625022,
+            "f1": 0.03554767793908465
+        }
+    }
+}
