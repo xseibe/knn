@@ -1,0 +1,2221 @@
+{
+    "eval_data": [
+        {
+            "response": "Skleněné kouly a ohňosroje v New Yorku a Washingtonu připravily oslavu nové roku, když se věřících zahalilo v křiżovatce Times Square a washingtonskému obelisksu Lincolnova. Prezident BillClinton se přihlásil v Washingtonu, až na půltonec, a v New-Yorku koula o pruměru přes jeden kilometr a vázu přes půld",
+            "reference": "Skleněné koulesy a ohňosti zpomalily přibližným pohybovému procesem v Newyorském centrálním oblasti a Washingtonu, při kterém se objevila ohňosmělá vlny. Vířícé konfety a zápasy se objevil na oběma místnostech. V Washingtonu prezident Clinton předal svého manželu Hillary Clintonovi svůj výrok o novém roce. Celesti",
+            "rouge-1": {
+                "overlap": 13,
+                "recall": 0.29545454545454547,
+                "precision": 0.2765957446808511,
+                "f1": 0.2857142857142857
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02127659574468085,
+                "f1": 0.02197802197802198
+            }
+        },
+        {
+            "response": "Příznamný základní zápravový týmový třídní týnum Slavia Prague zahaluje v zimině, přesně před západem zimy. Tým, která v průběhu záplavě zítra zahálí, bude hrát v zímrném září a zírání, kromě třetího těla, kterou bude zámo",
+            "reference": "Nováčci Slavě a Bohemianů přijely do edenské rodiny. Slavia přijela do Edeny 28. lednu, Bohemínskej 2. ledn. 2017.",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.1111111111111111,
+                "precision": 0.05714285714285714,
+                "f1": 0.07547169811320754
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.05555555555555555,
+                "precision": 0.02857142857142857,
+                "f1": 0.03773584905660377
+            }
+        },
+        {
+            "response": "Slavia, Sparta, Drnovici, Bohemains, Liberecs a Budějovice příslušníkům z podžimu zasáhla záplata, která se přizpůsobila západním záhlavím. Slavia se zasazilo na zasahy, Sparda zasázala na zásahu, Drnovači zasazeněl na zaslouženou zasahu, Bohemia zasazelel na v",
+            "reference": "Vítěz slavnosti ligové soutěže v roce 2018 Slavia Prague získala titul v polovině sezóny. Spartak v této letech pokračoval v době, která byla pro něj nevhodná. Sparty se také přihodilo několik změnin, jako je případný ztrácený gólmann Blažečka a nový brankař Blazek z Boemijské",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13636363636363635,
+                "precision": 0.17142857142857143,
+                "f1": 0.15189873417721517
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02857142857142857,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Ods slibují změну taktice, kterà by vydělaly 40% obyvatele, kdežto 30% zastánce součásti vládi, kterých by se vytvářela nová vládna, vychutnají závěrečnou vlákniště. Ods užívá se zájmem o zmene politických uspoornění v Ĉeské Republice a výraz",
+            "reference": "Odsek ODS ODS slibující změny v politickém uspoornění v ĚR, kterých lidé uvítají, protože se snaží předložit novou vláknu. Jednání ODS s ĚSSD se koná na pátku, kde ODS můžete se s ní spojit. Ods se předpokládá, abychom mohli přijít s novými ideami, kterě mohou",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15555555555555556,
+                "precision": 0.19444444444444445,
+                "f1": 0.17283950617283952
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02857142857142857,
+                "f1": 0.02531645569620253
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.044444444444444446,
+                "precision": 0.05555555555555555,
+                "f1": 0.04938271604938271
+            }
+        },
+        {
+            "response": "Ostravský klub Kádří zatížil Sparta o zámožný tréninky a závratný zrádce. Zálozhník Radeček zároveň zůstanete v Kádra. V Blšaniach záplavou zákoněných záchranných zvířat zůstatí zvírata, které záhrada zákrutu záhlaví zůsobují",
+            "reference": "Ostravská Sparty se rozhodla zachránit kádra, které zůstat nemělo změn. Tento rozhled představuje zákoněnou situaci, kudy Sparta zůstanete bez změnilých. Toto rozhlesňování bylo způsobeno ztracením Radeka Slončeckého, kterou Sparta potřebuje. Tým se rozmístil na internacionální různosti",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.08333333333333333,
+                "precision": 0.1,
+                "f1": 0.0909090909090909
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.027777777777777776,
+                "precision": 0.03333333333333333,
+                "f1": 0.0303030303030303
+            }
+        },
+        {
+            "response": "Třikrálevé průvody v Praži se přesně závěrečně přesunujovaly na Lortánsko námeho, kdekdy se král Kaštár, Melíchár a čerňý Baltázár vydal na své první průvoře v rok 1038. Průvodci se vydaly na Loretné návratové nákupy a zazapívali ko",
+            "reference": "Třikrálovy průvoře v Prazu proběhly ve Spojeném kráľovství. Monarcové kašpar (Král), melichar (Královna) a červený baltazar (Kránice) se podlehli hladinou na cestičce za hvízdou. Po jehož přítomnosti se vydalo na své pouto z Arcybiskupstva na Hradiště. Stovky lidí",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.23684210526315788,
+                "precision": 0.24324324324324326,
+                "f1": 0.23999999999999996
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.05405405405405406,
+                "precision": 0.05555555555555555,
+                "f1": 0.0547945205479452
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.05263157894736842,
+                "precision": 0.05405405405405406,
+                "f1": 0.05333333333333334
+            }
+        },
+        {
+            "response": "Maradona, kapitána Argentinie, je zasazen do nemoci kvůli vysokošvětělému krevničnímu tlaku. Může být potíravý srdce nebo vyskočivý krevný tlak. Závěrečný manager hráče Guillermo Copplá vyslýchal, že maradonský potígut se s různými problémaři nemajú souvis",
+            "reference": "Maradona, kapitána Argentínky, byl zdejšími lidmi jediným, který má problém s výškovým tlakovým systémem. Místní manažér Guillermo Copolla tvrdí, že tato problematika není spojená s použitím drogových látek. Maradono se přišel do Nemocnice po nehodě s autem, kterou udělal samozřejmě bez pomocí léka",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.16279069767441862,
+                "precision": 0.20588235294117646,
+                "f1": 0.18181818181818182
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.030303030303030304,
+                "f1": 0.02666666666666667
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.058823529411764705,
+                "f1": 0.05194805194805195
+            }
+        },
+        {
+            "response": "Zdeněku Rygeli, předsedu předspojenství Zdeníka Baníka, je vyplněno, že jeho klub opře se na termín 30. ledна, což by se dotáhlo do konečného případek. Quantum, akciální spolek, který připrávuje vstoupení novému majitelem z Ostraavska, se stal majoritním vlastničím akciích",
+            "reference": "Zdeněku Rygeli, předsedu předpisy Zdenek Baník byl poskytnut další čas na rozpravy s Spartou. Problém se jedná o přítomný Slončecký přestoup, který by se musel provést začtvrtým dnem ledna. Quantum, firma, které připrvává podklidy pro nové majitelství, je aktuálně majoritnými vlastnickými akci",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.23809523809523808,
+                "precision": 0.2564102564102564,
+                "f1": 0.24691358024691357
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.07317073170731707,
+                "precision": 0.07894736842105263,
+                "f1": 0.0759493670886076
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.07142857142857142,
+                "precision": 0.07692307692307693,
+                "f1": 0.07407407407407408
+            }
+        },
+        {
+            "response": "Obě Federace, němécká bundesliga a české republiky, se podléhají omezení počtů cizincev zákazu výknutí povolania a ohromení volné hození pracovniích sil u vnitřních zemek, výrazně oznámených v průběhu zpravodajského závodu. Závoda znamená, že unie můžete o",
+            "reference": "Obě fotbalové federace Evropy se pokouší změnit rozhlubnutou složení svých týmových skupin. Vítězství v soutěžích Evropy bylo obvykle vyhráváno týmy ze středního a východního Evropy, což vedlo k tomu, že domácí hráče neměly žádné šanci na úspěchy. Tento problém byl poprvé poznam",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.11904761904761904,
+                "precision": 0.1388888888888889,
+                "f1": 0.12820512820512822
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.027777777777777776,
+                "f1": 0.02564102564102564
+            }
+        },
+        {
+            "response": "Miroslava Pelta, manažér Sparta, říká, že nejednou posilem v zímrském zimování bude Lengyi. Sparty už jsou na všechny domluvy s Jihočeským klubem. Pelta uvede společné smluvní pravidla na těle, které byly vytvořeny na třetím týdnu. Spartu v tři města",
+            "reference": "Sparta prohranění v minulém roce v několika zájmových městach, jako byli Ostrava, Olomec a Brno, oznámila svému hrádcům. Vítězové této sezóny jsou Lenggyel, který má být spolehlivým partnerem Sparta v budoucnosti. Mirosla Pelta, manažér Spartasu, tvrdil na tom, že Sparta má za úkolem",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.16279069767441862,
+                "precision": 0.1794871794871795,
+                "f1": 0.17073170731707318
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.02631578947368421,
+                "f1": 0.025
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.05128205128205128,
+                "f1": 0.04878048780487805
+            }
+        },
+        {
+            "response": "Jachta je příslušná hry, kterou se vytvořila v místním hotelu. Hra je založena na tajném podzemním místě, které se vydává v městském bludišti. Hrace se vyzáblí s drahakami, kterých se výspály věří, že jsou v můrě. Hraci se vědí, že se v mření",
+            "reference": "V článku popisuje hry a aktivita v hotelu. Hraci se v hotelovém prostředí, včetně hry s drahákama, hry způsobení hypnotiza a hry se zámkem. Hrace mají přednost v hotelovejch službách a hrají s lidmi, kterí mají dalekosáhlé hádanky. Hráči se snaží najít odpovídající dř",
+            "rouge-1": {
+                "overlap": 11,
+                "recall": 0.25,
+                "precision": 0.2558139534883721,
+                "f1": 0.25287356321839083
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.047619047619047616,
+                "f1": 0.047058823529411764
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.046511627906976744,
+                "f1": 0.04597701149425287
+            }
+        },
+        {
+            "response": "Povinné rusčení pojištěných v ČR zírá na 3,4 miliardy korun a výsledná sumra výdrží 6,2 miliarda. Pojištníkům požádáno o 300 miliónů ručení, což zírání na 6 miliardo zíralo na 2 miliony. V průběhu některých měnských periodů",
+            "reference": "Povinné rusení pojištění zahrnovalo 61,8% z celkových investic pojišítných firm v roce 2014. Pojištení generálního inspektoru dosáhl 3,78 mln korun a pojiše Allianza 278,5 mln. Prodloužení reklamy pojişence a organizace soutězek poskytuje velké nákupy. Reklamaci mají vysok",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.10810810810810811,
+                "precision": 0.1111111111111111,
+                "f1": 0.1095890410958904
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.027777777777777776,
+                "precision": 0.02857142857142857,
+                "f1": 0.028169014084507043
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.05405405405405406,
+                "precision": 0.05555555555555555,
+                "f1": 0.0547945205479452
+            }
+        },
+        {
+            "response": "Hapal zasílil spád na Tenerifě, což zaznamenal výsledky, a připravil se na návrh na násilné záhadnější záležitost. Zálehu zasáhl příslušný klub, kterej se zasahuje do náčelníkového zákonu, cože zálesnění zasahuje do následeků západní",
+            "reference": "Hapal se vrátí do Olomuceni, což znamení má velkou výzvu pro Spartu. Ztracený čas a nedostatek startů v sezóně 2017/2020 doporučuje mu, že bude muset pracovat rychle. Hráč se pokouší naplnit své naděje na vracení do šampionátu a zlepšení formy.",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.2,
+                "precision": 0.24242424242424243,
+                "f1": 0.21917808219178084
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.025,
+                "precision": 0.030303030303030304,
+                "f1": 0.027397260273972605
+            }
+        },
+        {
+            "response": "Předseda Komise Ludĕk Macel snaže se vnutiti myšelníkům na źižkovej rozhody, kde rozhadují rohlíkové rozhodsí. V 18. rozhodu z 17. června 139 rozhodosírovaných rozhoddých zavedly 14 tisic korun, co se závratně změnilo na 120 tisice. Pr",
+            "reference": "Předseda Komise Ludvík Macera skepticismem prohlásil, aby se lidé mohli myslet, že se na řadě zase dostalo moc. Tento názor byl popsan v rozhovoru s novinariem. Fotbalový svaz odmítal komentace kdekoli, vkládal se pouze Františe Chvaloský. Následně se rozhody zvolily bez výslovného důkazu. Na",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.1590909090909091,
+                "precision": 0.19444444444444445,
+                "f1": 0.17500000000000002
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.02857142857142857,
+                "f1": 0.02564102564102564
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.05555555555555555,
+                "f1": 0.049999999999999996
+            }
+        },
+        {
+            "response": "Xenium 2.0, kterém se závěrečně zasílala, je mobilní telefon, kterej má spousta funkcí a zároveň je skladána a zvětřována. Závorky západního závodu, kde se zasilal, byly závažné, protože se zvířata zápatí závinu zasili, a zásilka závanu zázr",
+            "reference": "Xenium 2.0 je nový mobilní telefon ze skupiny kolibríků. Má 16 funkcí: hlasované vytápčení, vibrace, kalkulátor, aplikace pro konverzaci peněz, kalender a planovací program. Baterie 90 mAH umožňuje 1,5-3 hodin chování v talk mode. Pokud se začne měnit typ telefonu na stádní, budou možné ví",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13333333333333333,
+                "precision": 0.16216216216216217,
+                "f1": 0.14634146341463417
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.02702702702702703,
+                "f1": 0.024390243902439025
+            }
+        },
+        {
+            "response": "Brněný fotbalovej klub Drnovice je už dva jihovýchorské prvoligeové celká zasačený konkursni hrobsť. V drnovickském klubu nebylo vypsání konkursneho hroba na spolucnost Petra (fotbal) nýbrežně, náhradou byl vypis na firmu chemapol. Petru, kterou byla spolcností Petra, musela výsled",
+            "reference": "V Brnè, konkursové správní oddělení prohranělo konkurs pro jednotlivců v Brneckém klubu FC Boby. Tento konkursový proces by mohl vést k tomu, že firma, kterou žije fotbal (Petra), by mohla zírat na výsledek. Fotbaly v Brné by mali konkurse, pokud by se konkurová správa stala nepřijatelná pro hráci",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.08333333333333333,
+                "precision": 0.10526315789473684,
+                "f1": 0.0930232558139535
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.020833333333333332,
+                "precision": 0.02631578947368421,
+                "f1": 0.023255813953488375
+            }
+        },
+        {
+            "response": "Fotbalové klub Brný v Brni se v průběhu konkurnu Chemapol užívá v zásobách, což můże být závěrečný zákon. Klub se výsledky konkurna závisí na západním zádumání, které se vyskytuje v Brní. Kluba výhodnější zájmové závodníci jsou větší spole",
+            "reference": "V Brném klubu FC Boba, které má nejlepší divácko zázemi ve Spojených státech, se teprve teď objevily dvě možnosti, jak se změnit situaci: pokusit si znovunabrat podnikání v Brnech nebo odkoupit starou firmu, kterou nynější management nepotřebuje. Fotbalista FC Bobe Karol Jaros zpochybňuje tento konkursový model,",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.10869565217391304,
+                "precision": 0.13157894736842105,
+                "f1": 0.11904761904761904
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.021739130434782608,
+                "precision": 0.02631578947368421,
+                "f1": 0.02380952380952381
+            }
+        },
+        {
+            "response": "V Liberce, kterého kožuchové zájmují, se kožuhové přestoupili rychlé. Kožuhovi zájmy byly závěrečně zazpěvače, až se zájeň zámožnější slovensko-prešovské klubu Libereč zářilo. Kożuhový zájec byl záležitým pro Liberece, což byla zážit",
+            "reference": "V Libercích se slovensky hrálý útoká Vladimir Kožuhovi přestal stát. Manželka a dítě ho vedou do rodinného života. Kožuchar se přesvědčil, že se Liberecká ligová tabulka vyvíjí tak rychlé, že nemusí se ptát na další místo. Pro kožuchar Liberecko je konečně nové místo, které si nebyl schopen najít",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.10416666666666667,
+                "precision": 0.16129032258064516,
+                "f1": 0.12658227848101267
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.020833333333333332,
+                "precision": 0.03225806451612903,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Maximo Costa Rocha, šé夫 policie ve Montevideo, informuje, že v Maradanově krvi bylo odhaleno významného nálezu kokainy. Policisté zvyšují závislosti na drogách, kdežto Maradona, kterého zasvěcila mafia, byl výrazně zlepshený. Závody s výstavbou v Monteverdu jsou základem, k",
+            "reference": "Maximo Costa Rocha, vedoucí člen Policie Montevideo, informuje, že testy dokázaly existenci kokaina v Tomasíně Maradono. Lékaresťi budou provést další testy a vyjadřuje,že výběr daných základů doporučuje, aby bylo pochopitelné, že Maradona by mohla distribuovaná droga. Kapitan mistrů FIFA, kterého Maradón prodala, byl poru",
+            "rouge-1": {
+                "overlap": 11,
+                "recall": 0.25,
+                "precision": 0.2894736842105263,
+                "f1": 0.2682926829268293
+            },
+            "rouge-2": {
+                "overlap": 4,
+                "recall": 0.09302325581395349,
+                "precision": 0.10810810810810811,
+                "f1": 0.1
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.06818181818181818,
+                "precision": 0.07894736842105263,
+                "f1": 0.07317073170731707
+            }
+        },
+        {
+            "response": "Tobiás Tobián, trenér spartské skupiny, ocení práci průvodců mládenců, které vychovaná skupina Lengyalův hráci Lengye, Polomsky a Pospisil zahodilo. Tobiák se domílil, že spartači připrávují fotbalistům, které mohli být výsledky výkopu, a že Lengya, kdo by",
+            "reference": "Tobiás Horák, trenér Klubu Sparta Praha, ocení mládencí trenéry, kterí vycházejí z periferie a mají cílem připrvávat fotbalistů do více vyhodnocujících postupů. Tobiás řekne, že Lengyalovi příspěvek dokázala jejich práce, což ho zahrnuje do nového klubu. Tento trenér také se rozhodl",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.14634146341463414,
+                "precision": 0.16666666666666666,
+                "f1": 0.15584415584415584
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.027777777777777776,
+                "f1": 0.025974025974025976
+            }
+        },
+        {
+            "response": "Rozhlášení Josef Krulovy rozhody o zákrocích pro Švédsko a Žížkov skončilo s neodporou. Krula, který byl mnohé minuty příslušného zákrače, neodpadl na domácnost, co se projevovalo v 47. minutách, kde základní zákrocky pro Říše Švédska a Švírnu záv",
+            "reference": "Při posúdění nedovolitelných zákonů v týmu Žížkov, které porazilo Západočeskou Lípu 2-0, rozsudek byl mnohokrát příslušněji odstupován. Rozhodce Josef Krul ještě odsud nepřijel do 83. minut, kde při 2-pole skončení hry neodpadl proti Špan",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.14705882352941177,
+                "precision": 0.13157894736842105,
+                "f1": 0.13888888888888887
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.029411764705882353,
+                "precision": 0.02631578947368421,
+                "f1": 0.027777777777777776
+            }
+        },
+        {
+            "response": "Ojediné ojedíněné projektu s sledováním čapů čerých popravé vyslehlá na zimu 1894-1875. Expedice vzdalila se z východu od Senegala a vydal se do zahradních cest, kteří vede do Němcka, Francie, římskokatolického Španského, Marokku, Mauritánního a Eti",
+            "reference": "Ojedinený projekt sledovací expediční komise pro čápy černé poprovzdušné (ODYSEA) začal v roce '94. Pro Kristýnu byl připevnut miniaturový radar, kterej umožnil mapovat jeho let do východu Africe. Kristyně se vzdalo na zápatelném cestě, kterou skončila v Senegalu. Viktor a Vízana vybavili c",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.11627906976744186,
+                "precision": 0.1388888888888889,
+                "f1": 0.12658227848101267
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.027777777777777776,
+                "f1": 0.025316455696202528
+            }
+        },
+        {
+            "response": "Brněný fotbalský klub FC Bobys-sport, kterého před rokou 2018 bylo způsobeno závratem na městskou fotbalovej truhlice, je v špatněfinančném situaci. Klub se závisí na věrtech, která se zasahuje do trhu, a výplaty hráců se zpříma záhradou zápisu.",
+            "reference": "Brno, městečko, kdekde se hraju více než jakkoliv jiné města v České republicě, není dostatečným financováním. Klub FC Bobysport, kterého vedl Josef Masópus, nemůže splnit své platby a hračky. Jeho majitel Lubomir Hrstká prodává hrající, neprodávají se pozemky a nemají vědomí",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.17073170731707318,
+                "precision": 0.1891891891891892,
+                "f1": 0.17948717948717952
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.025,
+                "precision": 0.027777777777777776,
+                "f1": 0.026315789473684213
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.05405405405405406,
+                "f1": 0.05128205128205129
+            }
+        },
+        {
+            "response": "Teplice zvyskočil na brankákry v Plzeině, kde se závěrečný zázemsík zvířecího fotba zapsal na 12000 tisíc. Nová akviziace Havela zvážila závislost brankakrů na západním stánkách, ktere se zvětšily po zápasu s Plzeinem. Havel, který záhadn",
+            "reference": "Nová akvícia Františe Hradlíka, který se stal týdnějším brankákrem teplických Klubu Tepy, konstatoval, že situace brankárského pohára je složitejší než výchozí situace. Nová akvíza zvyskočila tepickému Brankári Macháčeke konkurence. Hradlik se dohadil s Radkiem Havlem o změnu výběru na St",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.15,
+                "precision": 0.17142857142857143,
+                "f1": 0.16
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.025,
+                "precision": 0.02857142857142857,
+                "f1": 0.026666666666666665
+            }
+        },
+        {
+            "response": "Švédsky útořící Niclouse Norela prověrí v jablonočním turnaji Čehie Karlína v Praži. Kouč Zdenek Klucky potvrtí, že se významné hračky Romário z Brazilské týmy a Edmüdo z South Melbourneu musí přiznat smíru. Kompromisní postavy se nezdržovaly na západním tréninky, kde se zá",
+            "reference": "Švédsky útocek Niclouse Norelle prověrí v Prazech podnikání České Karlínské. Tento člověk má za úkol prozkoumat hračky v jednotlivcích zápasy. Útočnice potřebovala by se zapsat do prvoturného tréningu. Vzájemné zprávy o tom, že Brazilští hráče Romário i Edmendo se usmrteli, jsou",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.24390243902439024,
+                "precision": 0.23809523809523808,
+                "f1": 0.24096385542168675
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.025,
+                "precision": 0.024390243902439025,
+                "f1": 0.02469135802469136
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.047619047619047616,
+                "f1": 0.04819277108433735
+            }
+        },
+        {
+            "response": "Alex Ferguson, trenér Manchesteru Unite, záleží na základním zákoně, že Beckhám zásluhou závodu byl záhlivě záplňkem. Tisk nepochyuje, že byl za závlúkem zámluvy záskoku, ale Ferguson je opřený o zákně. Beckhánek závkům zákroců, které jsou zasílány,",
+            "reference": "Manchester United's captain David Beckham was sent off during Brazil's World Cup final against Argentina but his manager Alex Ferguson denies he was unfairly dismissed. The incident sparked controversy as it appeared that Ferguson had been angered by Beckham's behavior on the pitch. However, a television recording showed Beckham guilty of misconduct. Despite this, Ferguson insists the situation was ambiguous. Beckham will be banned from playing for Manchester United in their next match against Vasco da Gamas and possibly even at the tournament. The Guardian reported that Beckham displayed signs of mental breakdown during the game. Some commentators believe that only exceptional players can handle such high",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.018691588785046728,
+                "precision": 0.05555555555555555,
+                "f1": 0.027972027972027972
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.009345794392523364,
+                "precision": 0.027777777777777776,
+                "f1": 0.013986013986013986
+            }
+        },
+        {
+            "response": "Kinder, který z Bratslavu dojde do Drnovaček, představil se jako závrtel pro zásluhu, že záhlaví zámluvy s Kopecka zasílal. Byl nespoživý, protožádali o jihovýchodní závlúku, ale nezávrlý. Závrot třecetiletýho hrace z Bratlsva, kterého měly m",
+            "reference": "V článek popisujeme podmínky pro přijetí Karla Kinderho do Moravských klubů. Z Bratislavy, kdekoli žije, bude chtít dál jít autem do Drnova za pár hodin. Fotbalista 10 let minulý rok, který byl nejlepším slovenskim fotbalistou roku 94, nenastoupil ve záhlaví, ale mluví o jihoslovenském klubu",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15555555555555556,
+                "precision": 0.2,
+                "f1": 0.17500000000000002
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.02857142857142857,
+                "f1": 0.025
+            }
+        },
+        {
+            "response": "Liberecká klubová týna slovánského výsledného v lете 2018/2020 Lazzaru Lazzariho závěrečný testovací tréninky zahájí, ale výpadek v přiřazení v lété 2197, kde Lazzár zmeštěl v lítě v předchozí závod, nejsmější. Týna v",
+            "reference": "Stručné odpověď na otázky o Lázaro: Trenér Liberce Ladislau Škopil zdůraznil, že již již Lázár zůstane ve Spojeném království. Škovil tvrdil, že fyzikální kondice Lázara není problém, ale pokud by se mu mohl stát něco, mělo by se to postarat o něj každé hráče. Řeší se tak",
+            "rouge-1": {
+                "overlap": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.03125,
+                "f1": 0.02531645569620253
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.03125,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Jako profesionálcí fotbalista, která se závěrečné zápasy v Olimouci připravuje, je Marie Hapalá závislá na tom, že vrací se do Spaty. Věří, že je vysoko základním závodem a že se můžete zíkrat do Sperty, kde se většina lidí záhlaví. Závody v Olomiči byly",
+            "reference": "Jako profesionista, která nemá povinnosti vrácit se k rodině, navíc se musela opakovat do Sparta, kterou zná a která ji vyrábí. Věří, že má smysl pro sport a že se musí bránit pro svůj klub. Mluví o tom, že je zklamána, že její manželu, kteremu potřebuje, aby se s ním setkal, nechali zase. Je zklamaná",
+            "rouge-1": {
+                "overlap": 15,
+                "recall": 0.2727272727272727,
+                "precision": 0.3488372093023256,
+                "f1": 0.30612244897959184
+            },
+            "rouge-2": {
+                "overlap": 5,
+                "recall": 0.09259259259259259,
+                "precision": 0.11904761904761904,
+                "f1": 0.10416666666666667
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.05454545454545454,
+                "precision": 0.06976744186046512,
+                "f1": 0.06122448979591836
+            }
+        },
+        {
+            "response": "Většina občanych (13.2%) byla v přípravě na zvolení stranou KSČМ, 8% - čSSD a 7.6% - KDU-CSL. Unie Svobody by větše procenty (6.7%) byly věřitelé. Nová strana, která by vzníšela na zahájení zvolenia, byla ovládána \"studentsky\" stranami, což by z",
+            "reference": "V rozhovoru s Úřadem pravomocí v Praze se říká, že Komunistická strana České republiky (KSČ) potvrzuje, že její strana byla vybraná 12,8% obyvatel, aby se pokusila změnit politickou situaci. Zároveň se odsoudí, že komunistické stránky jsou neustále výhodnější, což",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.07692307692307693,
+                "precision": 0.075,
+                "f1": 0.0759493670886076
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02564102564102564,
+                "precision": 0.025,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Budka, který zatížil Bohemianů v západním zápašním průběhu, zatěžoval se na střední zápase v Lokersku. Zatím zatáčel čtyrtech tréninků a jeden zápis na umehly. Budka zaslehlý, ale závažný, a v březeni bude mít jedenatrého rodu. Většina kamar",
+            "reference": "Budka, který se stál jako čtvrtý zahradník v Praze, vyrostl z Lokerena. Zítra bude 18 let a po této sezóně může přestoupit na český klub. Sice není tak starý, ale prohlížel si svůj debut v roce 2017. Pokusil se vystihnout bohatého československého fotbalistu, kterému byl přip",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.1956521739130435,
+                "precision": 0.24324324324324326,
+                "f1": 0.21686746987951808
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.027777777777777776,
+                "f1": 0.024691358024691357
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.043478260869565216,
+                "precision": 0.05405405405405406,
+                "f1": 0.048192771084337345
+            }
+        },
+        {
+            "response": "Česká mobile firma ČMK výsledek tendru na sítivý spušť na 8./1.2021 výspěl. Sítě Čmk výslužnými tarify záleží na závěrečném záslušném výbere. Ĉeský mobil výsečných tariftů závisí na vysokošvětském frekvencích 9.00MHz",
+            "reference": "Česká mobile firma ČMK si datum spušťování její sítii do trhu nevybere sama. Komercní spužení sítia do treti měssecky se zavedlo 8 srpna 21989. Po vyhrání tendru 17. listopada 1899 Čmk začalo odtidlo odtíkat vymřenou čas, který byl předchozími firmami zahradn",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.14634146341463414,
+                "precision": 0.2,
+                "f1": 0.16901408450704225
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.075,
+                "precision": 0.10344827586206896,
+                "f1": 0.08695652173913043
+            },
+            "rouge-l": {
+                "lcs": 4,
+                "recall": 0.0975609756097561,
+                "precision": 0.13333333333333333,
+                "f1": 0.11267605633802817
+            }
+        },
+        {
+            "response": "Trenér JosefPešice a kouc IvánHašek představují pravidelné souštědění na teplé zimní záležitosti. Kromě závodu na zimně, který se zůstane doma, týma z Hradce Králevé a Bohemianů zůstaňí v teplení. Týmy z Slavě, Žížkovu, PŘíbramu a Jablonce maj",
+            "reference": "Tento článek popisuje změny v pravidlech výletu na teplé města pro hráče klubů. Teplický trener Josef Pešíček a sparťák Ivan Hašečký navazují na své příběhy o příjemném tréně a vysoké trasa. Tipy na případné problémy, jako jsou sněhlé místnosti a nepříjemné stravy, jsou také popsány",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15555555555555556,
+                "precision": 0.1891891891891892,
+                "f1": 0.17073170731707318
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.027777777777777776,
+                "f1": 0.024999999999999998
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.044444444444444446,
+                "precision": 0.05405405405405406,
+                "f1": 0.04878048780487805
+            }
+        },
+        {
+            "response": "Dáma - nová česká logická freewarová hra, které se vznítila v Olomouci, byla vzničena po nějakých odkládacích procesech. Autores hry, Ignitrons, byli věrníce výsledku, kterým bylo vznizeno, a vzněly se výhrady, kterých se většina hraček závody věří. Hra",
+            "reference": "Dáma - nová česká logická freewarová hra, postavená na basis týmového projektu Ignitorn. Hra byla vytvořena v různých versích a přidělena autořům v červenci 2019. Autores se pokusili spojit s Ěksekuní a doplnit pravidelnosti a herním modelem. Hráči mohou hrát jedno nebo dvě hrdiny s mo",
+            "rouge-1": {
+                "overlap": 13,
+                "recall": 0.2826086956521739,
+                "precision": 0.34210526315789475,
+                "f1": 0.30952380952380953
+            },
+            "rouge-2": {
+                "overlap": 6,
+                "recall": 0.13333333333333333,
+                "precision": 0.16216216216216217,
+                "f1": 0.14634146341463417
+            },
+            "rouge-l": {
+                "lcs": 7,
+                "recall": 0.15217391304347827,
+                "precision": 0.18421052631578946,
+                "f1": 0.16666666666666666
+            }
+        },
+        {
+            "response": "Necelský fotbalík Jiri Novák odházel v Anglikách tří roků, kdož jeho klub Middlesborough věděl o jehonenějších záplach. Vědoucí jehni zdravotního zásahu jehnojednává s jehnějším zásluhou, který jehnejedník zahrává v DrNovicích. Novák j",
+            "reference": "Jméno: Jindřich Šimón. Od té doby, co jeho klub Slovan Bratislava zmizel, trvale žije v Anglie. V letech 2014–2020 hrál za klub Middlesborough, který ho poskytl úspěchy. Po roce 2. 2., kdy se stala neúspěšná, odjel do Drnovických. Má v Anglikách špatné klimatické věci",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13636363636363635,
+                "precision": 0.1875,
+                "f1": 0.15789473684210525
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.06451612903225806,
+                "f1": 0.05405405405405405
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.0625,
+                "f1": 0.052631578947368425
+            }
+        },
+        {
+            "response": "BáJeCkO: \"BáJiCkOs\" (BáJEČNÉ žENY u vODY) - finský film, režír ClAes OlSSON, 102 min., 1. vydání, 2. vzdálená veržíra, 3. vysvětlení. Režírský filmtýl KajUs, Bella, Thomas a Rosu, se závratně závislá roli, z",
+            "reference": "Většinou se jedná o romantické a tragická filmy, která popisují osobní a sociální situace lidí. Během doby se filmové produkcí vytvořil několik typů scénárů, jako jsou romány, drámy, skandál, historické filmy a filmová dokumentace. Filmaři používajícím techniku road-movie, jako je \"Záběreč superhvězd\", \"",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.06060606060606061,
+                "f1": 0.052631578947368425
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.030303030303030304,
+                "f1": 0.026315789473684213
+            }
+        },
+        {
+            "response": "Macela zasílil na Krulké výkony další chybu, která byla větvěná vyslovením výzvy na západní větrací výkop. Kromě toho, že výskyt krulových výkusů závěr komise zápětí vyvolal zdání o záplácení, závažuje se, že zápis na Kruly byl výrazně zá",
+            "reference": "Vývoj krulovského trestního procesu se stala hlavní záležitostí v současné době. Podle slovoslova Macela, který se stal proti Krulovi, trest nemusí být znepokojivý, protože lidé, kterého krulovi trestuje, jsou schopni postavit se na druhou stranu. Tento trest byl vyvolán krulovymi aktivitami v soutě",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.05263157894736842,
+                "f1": 0.04938271604938271
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.02631578947368421,
+                "f1": 0.024691358024691357
+            }
+        },
+        {
+            "response": "Chovanec, který stálo na výsledku výplutu na mezičeském turnaji, zatim stáhl smluvu na nové kvalifikace na fotballové městské mistrova Evropy. Výprava do Hong Kongu bude větraná, protož, že ve stejné době bude závody v klubech, a Chovanci bude tvočit s výborem, které bude",
+            "reference": "Chovanec se připravuje na turnaje do Hong Kongu, který proběhne 28. lednu. Kluby budуть muset hráti ligovou soutěž, což vedlo k tomu, že část mužského týmu bude muset odejít. Chvatovskému se přijmenuje 27. lednem, abychom si mohli posoudit, jestli se muži budou muset odvézt. Tým",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13333333333333333,
+                "precision": 0.13953488372093023,
+                "f1": 0.13636363636363635
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.023809523809523808,
+                "f1": 0.023255813953488372
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.044444444444444446,
+                "precision": 0.046511627906976744,
+                "f1": 0.045454545454545456
+            }
+        },
+        {
+            "response": "Soudní rozsudek o společnosti Čssd a straně sociálních demokratek výsledným zvánězdným soudem výhradném na Úslníkem soudu a Úspěchem soudu Vlastími Ševcík a Jirí Křížka je způsobený zvání soudního rozsudu výhlubnějšími zvaz",
+            "reference": "Ústavný soud vypracoval rozsudek o rozsahu 200 milionů korun na peníze a majeteckém zařízení ČS-sd. Soudní rozhled je opět zaměřen na koncept kontinuity Čs-sd, která se stalá do exilu. Rozsudec byl podán v soulade s ústavním soudem. Rozhodnuta byla pouze o rozdělení peně",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13953488372093023,
+                "precision": 0.1935483870967742,
+                "f1": 0.16216216216216217
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.03333333333333333,
+                "f1": 0.027777777777777776
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.06451612903225806,
+                "f1": 0.05405405405405405
+            }
+        },
+        {
+            "response": "Komise Na svém zasedaní dnece vytklo Krulova nejedené posuzovaní držení v pokútovém ulozí i neudelní karety za neseptané chovanie hráče. Značka delegátu pětního tresta znašel na čtvrti. Trest představuje, že krulový závěr byl zasazen na základní záhry druhých",
+            "reference": "Komise pro sportovní strádání zahrnovala dne 28. května své dneční zasedáni. V této události bylo odhaleno, že Krla, který byl předchozího týdeníka jako hlavný rozhledce, má znažku na hranici čtyrtech (předchozní číslo) a že byl odstoupán ze stanice hlavním rozhedc",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.125,
+                "precision": 0.13157894736842105,
+                "f1": 0.12820512820512822
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.025,
+                "precision": 0.02631578947368421,
+                "f1": 0.02564102564102564
+            }
+        },
+        {
+            "response": "Mapa Česka, publikovaná ČESKÝ MOBIL, představuje se střídavě, což závisí na závěrečném zápisu. V prvním kvartálu (březenský) nejspíš nejsú zahrnuté někteří městy, které jsou v průměru pokryty. Mapa výrazně závaží výsledky pro",
+            "reference": "Mapa Česka byla publikována přibližně odtud, že její detaily se liší od normálního počtu pro tuto regionální území. V roce 2100, kdy byla mapa vyrobená, nebyly všechny městy, které existují teď, zahrnative. Město Pardubic nebo Chrudím, kterým by mohlo být pokryté, nejsoupromě",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.16666666666666666,
+                "precision": 0.21875,
+                "f1": 0.18918918918918917
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.03225806451612903,
+                "f1": 0.027777777777777776
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.0625,
+                "f1": 0.05405405405405405
+            }
+        },
+        {
+            "response": "Projekt 1 002 0 0 třeba 1 tuzemskej film, 2 tuzelské klasiky a 12 třezkých snímků, je vynášený výborem tuzelých diváků. Projektní výsledek je vysvětlenejší jako výsluha výrobního procesu, když se výrobce projednouvá s diváky a",
+            "reference": "Projekt 1.002.010 nabídkou nabídek vytvořil filmový projekt, kteréký obsahuje 1 001 filmy. Tyto filmy jsou důkladně vybrány z rámce výročního projekt 1/10/2011. Projektové filmy jsoupějí výchozí filmografii a zahrnují filmy, kterých se často myslí jako důkaz ne",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.13513513513513514,
+                "precision": 0.1388888888888889,
+                "f1": 0.136986301369863
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02702702702702703,
+                "precision": 0.027777777777777776,
+                "f1": 0.0273972602739726
+            }
+        },
+        {
+            "response": "Program Photo5 z PalmSscape, kterej lze zde stáhnut, je kreslní program, kde lze kreslit velkou grafiku na kpesní poctičích počítacích. Program je závislý na Photoshopu a lží větví, kterých lze pravidelně dodat vlastni štèců. Program závěrečným výsledkem lži větev, kterě lze editov",
+            "reference": "Program Photo5 z firmy PalmScape umožní kreslit a editovat obrázeky na malém PS-krátkém počínadle. Používá se také pro digitálni zprava obrazu a vytvoreni animacii. Lze ho downloadovat ze stránek firmy nebo z našeho servera.",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.20588235294117646,
+                "precision": 0.16666666666666666,
+                "f1": 0.18421052631578944
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.06060606060606061,
+                "precision": 0.04878048780487805,
+                "f1": 0.05405405405405405
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.08823529411764706,
+                "precision": 0.07142857142857142,
+                "f1": 0.07894736842105264
+            }
+        },
+        {
+            "response": "Ostravský klub barošský Slončečkovi závěrečně závažil, že by mohl být výsledný hrálkem, ale nezávážil na výběr. Olomúcký heinzský a polák skupinu zahodil. Brno zablokovala přestupy, až se všechny přestupekáři zasílajú. Slonche",
+            "reference": "Ostravští týmy nesouhlasí s oblastními přístupy pro mladých hráče, což také platí pro Olomútský Klub. Brněnský klub má momentálce blokovaný přístupy, ale planuje později vyhlásit kunkurs. Spartánská šachovnice plánovala úspěšné výslechy pro jarmarku. Pišanowski, kterého př",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.05555555555555555,
+                "precision": 0.06451612903225806,
+                "f1": 0.059701492537313425
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.027777777777777776,
+                "precision": 0.03225806451612903,
+                "f1": 0.029850746268656712
+            }
+        },
+        {
+            "response": "Sheffield United, které hraju, je v průběhu ročníku ligy závislé na brankách. Brankári, jako je Patrik Bergrový a Vlád Šmík, musí být výsledně a zároveň závěrky. Sheffel, která hraja doma, hruje s Liverpoolem, což znamená, že je jasně, že hrají na náhlé z",
+            "reference": "Vítězství nad Manchester United by mohlo pomoci svědkům zvítězného rozhovoru o neúspechách klubu. Tento článek popisuje situaci v roce 2013, kdy se Sheffield Wednesday musel obrátit na nové brankarze a změnit strategii. Autor navrhuje, že by se mužskému mužsti mohla vystavit Hongkónská Liga, což by mohl být",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.14893617021276595,
+                "precision": 0.16279069767441862,
+                "f1": 0.15555555555555556
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.023255813953488372,
+                "f1": 0.02222222222222222
+            }
+        },
+        {
+            "response": "Command and Conquest, kterou užíváme na PC a která byla několik let předchozí, připravila psionickou hrou Imperium, kterà se stala návrhem pro menši verzi Command and Control. Hra lze instalovávat na disky C: a D:, a je možné dohrat někteří levels, ale je tězší dohrávat pokročelevé levels. Imperiova hra má vý",
+            "reference": "Nová hra Imperium, kterou vytvořili Český poboční hrajsiště, je menším klonem popularného PC-hry Command and Control. Je specificky navržena pro PS3 a PS4, umožňuje hrát akčnou strategií a poskytuje možnost dohrávání na dvou platformách. Hra nabízí minimalizované jed.notky, kterých se mohou dohrват levně,",
+            "rouge-1": {
+                "overlap": 14,
+                "recall": 0.32558139534883723,
+                "precision": 0.27450980392156865,
+                "f1": 0.29787234042553196
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.04,
+                "f1": 0.043478260869565216
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.06976744186046512,
+                "precision": 0.058823529411764705,
+                "f1": 0.06382978723404255
+            }
+        },
+        {
+            "response": "Libereční fotbalista Ota Petroček vysleduje běžné běhové trasy v Harracově, kde se výbíry větví mezi solidniými lyžáři a asistenty trenéra. Závody se větrně vytvářejí, až na průvodce Petrželu z Bohemia, kterého petraček přiznal, že výsledek výboru větu",
+            "reference": "Liberecká fotbalová reprezentace vybírala včera dvakráte na šumu Špikáku, což vedlo k prudkovému sjezu. Petržeň z Bohemia byl aktivním pomocníkem, zachycený v té době v liberecích. Fotbalistky Slavia a Tplic se připrmají do Harrachova, ale Slavia nemá lyžové prostředky. Petraček se pokou",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.16666666666666666,
+                "precision": 0.1891891891891892,
+                "f1": 0.1772151898734177
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.02702702702702703,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Kateřina Pavelková, konkurse na spolčnost, brnènská fotba, hrdine, zájmy, věrnost, zákony, soud, spolek, výsledky, zánik, vznik, akciové spolecky, rekonstruktace, investice, záměry, vynikající, zápisy, soubory, zásah, zdraví, vysíláno, zprá",
+            "reference": "Kateřina Pavelková, konkursni spravovačka, konkrétizovala prvních dnech konkurso, ktere se stalo v Brnech. Prohlédla všecky dokumenty a poskytila informace o tom, kolik penziel bylo dostaveno. Managery klubu, Karol Kroup a Lubomir Hrstek, byli zaseknutci a později byli odstraneni. Fotbalovou spolek zanechal i",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.07142857142857142,
+                "f1": 0.057142857142857134
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.037037037037037035,
+                "f1": 0.029411764705882353
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.07142857142857142,
+                "f1": 0.057142857142857134
+            }
+        },
+        {
+            "response": "DušanVrťovášek, cizince v Amstedtenu, zasíhl na postlibera v Rakouši. Vrtně základem jeho tréningů je běh do Belské hoře. V rukách má v Amstredu třetí pozice v jarním částiTýru. V Baníce, kdekde zasáhl na poslednější zimnou přípluvnost, zálež",
+            "reference": "Dušan Vařtova zamířil do Amstetteň na prvé den v úterní sezóně. Jeho cílem je získat novou trenérní dvojnásobku. Na Ostravicích se stala nováliberka. Vrtno se brzy připojí k Školce fotbalu.",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.2,
+                "precision": 0.16216216216216217,
+                "f1": 0.1791044776119403
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.03333333333333333,
+                "precision": 0.02702702702702703,
+                "f1": 0.029850746268656716
+            }
+        },
+        {
+            "response": "Tým Interu Milan běhá s třetími vyloutanými hráckami, což znařičuje pověsti týma. Christian Karambeu bude vyloudnější třídní vyloutsí, až bude běhat s Ronaldo, kteří bude trénovat za Interu. Maradańa bude zasíhlý v Kanade, kde běží jako sprinter. Ronaldo zasvítil v",
+            "reference": "Christian Karembecka, čtvrtý hráče týma, kterého vydala pokuta, byl vylučen. Maradanovi bylo poskytnuto další lékači pro drogárky. Ronaldo, mistrovský šachtor Brazilii, bude trénovat za Interu v dubně. Lazio musí splnit penzionovací úkol za událost, která vedla k zranení Ronaldo.",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.1794871794871795,
+                "precision": 0.175,
+                "f1": 0.17721518987341775
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.05263157894736842,
+                "precision": 0.05128205128205128,
+                "f1": 0.05194805194805195
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.07692307692307693,
+                "precision": 0.075,
+                "f1": 0.0759493670886076
+            }
+        },
+        {
+            "response": "Arkan, bývalej velitel polovajenské oddílu Železničního oddíla, podlevládne zranení běheme při státním převezmání do nemokáničy. V průsmečním hotelu v Břežném, kde byl, byl zřekl z ruky, a zároveň zasázal jednoho z Arankových strátců. Dru",
+            "reference": "Vítěz světa hrabě Arkan zranil se běžícím po hotelu a ztratil život. Válkový konfliktníci způsobili zranení jednoho z Arkinůvých strátce a dalou osobu. Tanjug vypráví, že Arkanův švagera byla také zranitelná. Policejní auto přijelo k hotelovi a zabránilo novinám vstoupit. Motiv",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.12195121951219512,
+                "precision": 0.14705882352941177,
+                "f1": 0.1333333333333333
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.025,
+                "precision": 0.030303030303030304,
+                "f1": 0.027397260273972605
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.058823529411764705,
+                "f1": 0.05333333333333334
+            }
+        },
+        {
+            "response": "Český Mobile chystal k spuštu ALS (Alternative Subscriber Line), která umožní místním klientům mít dva SIM číslá, která mohou být současně výsledkem hovora. Tato funkce bude zatim věnována skandinácím operáteřem a britskému Orange. Ĉeský Telekom má pravidelný monopol na Wap, Gprs a homezone, ale se závody z",
+            "reference": "Český Mobile plánuje implementaci ALS (Alternative Subscriber Line) a AoC (Automatic Outgoing Call), které umožní více SIM-kart na jednom telefonu. Provozuje také WAP (Wireless Application Protocol) a GPRS (General Packet Radio Service). Tarification homezone se stala debatou kvůli jejímu postoji a konkurenceschopnosti.",
+            "rouge-1": {
+                "overlap": 11,
+                "recall": 0.2619047619047619,
+                "precision": 0.23404255319148937,
+                "f1": 0.24719101123595508
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.07317073170731707,
+                "precision": 0.06521739130434782,
+                "f1": 0.06896551724137931
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.07142857142857142,
+                "precision": 0.06382978723404255,
+                "f1": 0.06741573033707865
+            }
+        },
+        {
+            "response": "Zpěvkář Karel Gottem zahájil výslednou kampanií na Expo2010 v Hannove, když v Lidoven novinach vyšlo dva advokátů, kterí zaznamenali jehof vystupující výzvu. Závěr způsaného zpříjemnění zpívá, jak zpátky zvětšení výspěly, která by",
+            "reference": "Výstava Expo 1900 připravovala politická agresivita. Karel Gottem, zpívák, odvolal svou čest na vystavě, kvůli této agresivity. Místopředseda ministru kulturu Pavel Dosta, odpověděl, že toto povzbuzuje naše krajina. Kolektivní fanouše protestovali proti tomuto postupu.",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.058823529411764705,
+                "precision": 0.0625,
+                "f1": 0.06060606060606061
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.029411764705882353,
+                "precision": 0.03125,
+                "f1": 0.030303030303030304
+            }
+        },
+        {
+            "response": "Tomáš Hájcký, stáni závěru Nejvysíleného státu, vytvořil nahrání zázrnku z předchozího procesa s babickymi vrahy, která by mohla zjednodušit okolnice útoka a objasňit roli předseda soudu Pavla Víta. Náhradní nahrání zázraku z přesnějšího procesování vý",
+            "reference": "Tomáš Hájcek, zástUPC NejVyzsEjStA, řečeno, že nahrÁvKy zázRamu procesu s babickÝmi vraHY mohO mOžEt objASlitOk okOLNÍch okÚlnÍch odSeDÍlÍch. NáhrÁvka, ktere byla zobraziNa, byla vyHodnotena jako důKaz, protože mohE mOzhOt objASLitOk okOlN",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.06451612903225806,
+                "precision": 0.05714285714285714,
+                "f1": 0.060606060606060615
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.03225806451612903,
+                "precision": 0.02857142857142857,
+                "f1": 0.030303030303030307
+            }
+        },
+        {
+            "response": "Patrik Berger, kterého všichni závěry záhrobí, byl záhadný a zábraný hrálec, kterých se věc záhrady západního tiskovégo pohárku v Anglikách závažuje. Závody se záhlaví záchranného kamaradu, kterej se zatřepal, až se zvířecí kamarade, kteraj se z",
+            "reference": "Patrik Berger, kterého vytahovali z Anglikánských pohárů, byl odstřelen nedávkem kritika v novinkách. Novinári říkají, že ho \"vyhrocil\" Blackburn. Zatímco Berger se cítil \"sedlem\", vystřelil do Watfordovy branky. Jeho kamarad Berger se rozhodl použít speciálizovaný obváz pro kotníky.",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.21052631578947367,
+                "precision": 0.2222222222222222,
+                "f1": 0.21621621621621623
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.05405405405405406,
+                "precision": 0.05714285714285714,
+                "f1": 0.05555555555555556
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.07894736842105263,
+                "precision": 0.08333333333333333,
+                "f1": 0.08108108108108107
+            }
+        },
+        {
+            "response": "Edvard Lasotá, který se zasíhl na trází pro základní ligu, závěrečně zřítil na tříma zápasy a závisí na výsledcích svých zápasů v Opave. Půlrok, které by mohlo být zříděno, byla zásluhou Reggiani, která zároveň závlúkala na těch, kdo se z",
+            "reference": "Edvard Lasóta, 80 let, vítěz tříkrát Evropské ligy a člen třítřata Klubu Fotbalu Opavsko, se setkal s problémy s regenerací. Po zranění v podzimu, které ho ztratilo na trámě, se objevil v Opave, kdekoli byl posledně, aby hrál. Má v rukou smluvu na ročník a předpoklá",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.17391304347826086,
+                "precision": 0.2,
+                "f1": 0.18604651162790697
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.021739130434782608,
+                "precision": 0.025,
+                "f1": 0.023255813953488372
+            }
+        },
+        {
+            "response": "Bakeš, dva advokátní hrálec, přichází do Bohemia jako nový člen, kterému se vysvětlí, že je zrůdný a zdráhavý. Koupil smluvu s Bohemie, která všechny klubové závody závisí na. Výsledkem je, že se výhrada závodů zvířecího sportu zastaví, protože B",
+            "reference": "Bakeš, hrálec z Bohemie, se připojí k klubu, kterému připadne, protože je talentovanějši než ostatní. Kamenicky, Bakeše's předchozí hrátecký kolega, nemá žádné probléme s zdravištěním, ale má problému s ryzelem. Ve velbách se stojí za útoče, ale v čase se pokusí najít hráce, kterí",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.18181818181818182,
+                "precision": 0.20512820512820512,
+                "f1": 0.1927710843373494
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02564102564102564,
+                "f1": 0.024096385542168676
+            }
+        },
+        {
+            "response": "V českém volbu za poslanců do Poslanečné sněmvny v prosince 1799 byly zájmové projevy o politikách KDU-CSL a Uně svobody závěrnejší, než ve volbách v lednu roku 2100. Výsličně rohodnější zázrakem bylo zájnění o politice v české republiky, kde 41%",
+            "reference": "V českém parlamentu (Poslanecká sněm) budou dovolené KDU-CSL a Unii svobody s přínosy 11% a 17%, respektive 13% a více než 15% z 21,5 milionů voliček. Výslovnost Unie je 30%, KDU 29%. Voliči, které rozhodovali o politikách v prosince 1, rozhadovali",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.24390243902439024,
+                "precision": 0.25,
+                "f1": 0.24691358024691357
+            },
+            "rouge-2": {
+                "overlap": 4,
+                "recall": 0.1,
+                "precision": 0.10256410256410256,
+                "f1": 0.10126582278481013
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.05,
+                "f1": 0.04938271604938272
+            }
+        },
+        {
+            "response": "Diego Maradón, který se přesně odtáhli z kubské kúŘe, zasílil své srdče na Kubou, kudy se zatraceně předtím předavnoval kokaine. Právě zatáhlo mu závratné kardiovaskulárni probléme, ale Maradóna se závařil, že je vpořádek a fanové mění se. V Havan",
+            "reference": "Diego Maradonna přijel na Kuburužního prezidenta Castroovi. Byl uživitelem Castroovy rodiny a velikým fotbalistickým hofmanem. Po letounu se vrátil na kliniku v Holguiňích. Maradóna začíná léčbu na Kubru, která trvá asi třicet dní. V Havané mu Castro poslal bílý triček s Che Geyvarym portrétem.",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.1590909090909091,
+                "precision": 0.1794871794871795,
+                "f1": 0.16867469879518074
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02564102564102564,
+                "f1": 0.024096385542168676
+            }
+        },
+        {
+            "response": "Do LeedsuUnited zapsal závěrečný golman Danny Milosic, který zapsala 12 gólů v australském olympiejském výbere. Leedsu se zapsalo i novozemský obranc Danny Hay, kterého zapsaly 3 gól. Chilské reprezentační tým Reggiana, nového členství v italskyjší ligě, posídil chilsky repre",
+            "reference": "Do Leedsu opětoval Leeds United jedenadvacátý golem Danny Milosic, který je anglickým fotbalistem a olympijákem. Milosický zaplatil 120 300 librů za svůj první titul a na něj připojil trénink s mladšími mužstvem. Leeds se stala prvním klubem, které pochopilo, že musí investovat ve školní členky,",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13333333333333333,
+                "precision": 0.15384615384615385,
+                "f1": 0.14285714285714288
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.05263157894736842,
+                "f1": 0.04878048780487805
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.06666666666666667,
+                "precision": 0.07692307692307693,
+                "f1": 0.07142857142857144
+            }
+        },
+        {
+            "response": "Trenér nákupu národního muže Jozě Chovaného závislí na termíních zápasek, která se záhradečně záčastě vysvětlila. V roce před několikými záplaty se zasahovala kvalificace pro mistrovské závodníké zítra v Bulhasku a západním záchradení v Říjnce. Chov",
+            "reference": "Trenér nástupce Jozefa Chovanca, Karel Brokner, zdůraznil, že výhody pražsky provedené schózky vedly k efektivnímu vyuhostení. Pro Blahoslov, která se konala v Bulhařském středisku, byla použita domácím prostředoším. Tento termín byl zvolen kvůli tomu, že každý zemi chtíla vyhnutí",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.1282051282051282,
+                "precision": 0.14285714285714285,
+                "f1": 0.13513513513513511
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.02631578947368421,
+                "precision": 0.029411764705882353,
+                "f1": 0.027777777777777776
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.05128205128205128,
+                "precision": 0.05714285714285714,
+                "f1": 0.05405405405405405
+            }
+        },
+        {
+            "response": "Luboše Kozelu, kterého zranil kŘížovej vaz v 18. kvete 13. septembra 1796, zasílal zranení v 4./květne 99, které zaznělo věcemi, že byl ztracený. Kroz 14. september 98 a 1. kvítna99 zasázal zasáhnutí. Zasáhnutí z",
+            "reference": "Před letyb ychodil profesionální fotbalista Lubo š Koz el na pedag ockou f akultu a vybral se za ob or matematik. Jeho pam et na daty je dokonalý a on nezapome ne prý pravidelně do sm rti. Jeh o zranení při tr změně kř izových v azů, které mu vyhl ášené spec iaista V ít D vořák, která mu provázela, by",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.08196721311475409,
+                "precision": 0.14705882352941177,
+                "f1": 0.10526315789473684
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.01639344262295082,
+                "precision": 0.029411764705882353,
+                "f1": 0.02105263157894737
+            }
+        },
+        {
+            "response": "Modrooké muže Olsen, který v osmdésátých lesních letech přesně závěrečně přešel z národního týma na ná-rodní, včas přežil zápisy na mistrovy evropskyjí šampionat a v klasickém západním týmovém třídě zahájil postup na mistrwěsť světu 2. 23. čer",
+            "reference": "Modrooké muže Olsen, který se stal nejstarším hrátem na mistroství Evropu, řekl, že se domluvuje o pořadi západních zápisků. Zároveň uvést se na re prezentaci a pokračovat v tréninku. Olsen se rozhodl, aby se vrátil na re presentaci, protože byl přesnějším kamaradem než Brian Laudrun, kterého se v",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.20833333333333334,
+                "precision": 0.2702702702702703,
+                "f1": 0.23529411764705882
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.06382978723404255,
+                "precision": 0.08333333333333333,
+                "f1": 0.07228915662650602
+            },
+            "rouge-l": {
+                "lcs": 4,
+                "recall": 0.08333333333333333,
+                "precision": 0.10810810810810811,
+                "f1": 0.09411764705882353
+            }
+        },
+        {
+            "response": "Michal Ďaloun se přestěhuje z Spartu na PřÍbram, kdekud se zasíhl v lете 1896. V pří布拉mském klubu se zájmem pro brankárům závěrečně záhradně přizpůsobil, kdyby se zasloužil. Věření, že by mohl zkusiti něčeho dokázati, zároveň závaž",
+            "reference": "Michal Ĉaloun se změnil v PŘÍBRAM a přestal hrát v Spartě. Byl přesvědkován, že se musí změnit, aby mohl pracovat více. Jeho změna byla ohrožena bojem s Tomásem Poštulkou, který byl předchozím trenérem. Ĉałoun se rozhodl změni, jelikož v Pěríbramu chtěl hračka,",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.19047619047619047,
+                "precision": 0.2222222222222222,
+                "f1": 0.20512820512820512
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.027777777777777776,
+                "f1": 0.02564102564102564
+            }
+        },
+        {
+            "response": "Morten Olsen, nejvyšší osobnosti schůzcí, představuje Dámský týmový třída na mistrovském šampionánu Evropy. Závěrečný července 23. čverna v Lutechu bude zápase záclakové skupine evropskeho šamináka. Olsen, který zasáhl závody v 17. roce, přesahoval třec",
+            "reference": "Olsen, který se stal nejstarší členem národového týma, pokračuje v sledování Dámska na mistroství Evropa. Po této závance se vrátí na re prezentaci. Tento čas se přibližuje, kdy se Dásmi setkají s Českým týmem. Olsen se domnívá, že týmy se rozhodnou na vítěze v klasickém západe",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.10869565217391304,
+                "precision": 0.14705882352941177,
+                "f1": 0.125
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.030303030303030304,
+                "f1": 0.02564102564102564
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.043478260869565216,
+                "precision": 0.058823529411764705,
+                "f1": 0.049999999999999996
+            }
+        },
+        {
+            "response": "Skuhavý zasvětil se na nešťastné nehodu, která se skupila v Smíchovejch znacliskách. V sobotě večerejch, když vjela ŠKODA Octaviia, se zasvištěla rychlejší vozíce Mercedes. Skuhavé zrakování na alkohl, které zaznamenal, bylo 1.89% a zasvlivěl se, že",
+            "reference": "V sobotní večerech se skupina lidí, která se vydala na smíchovej zahrad, zastala se protistřevojícím vozímec Mercedes. Vzhledem k tomu, jak rychle se auto setrvalo, oba řídce byly zraneni. Skupina lidi, kterou se setrvala, byla zraněna i ona. Skuhař, který se setrevával, byl zranjen zp",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15555555555555556,
+                "precision": 0.19444444444444445,
+                "f1": 0.17283950617283952
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02857142857142857,
+                "f1": 0.02531645569620253
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.044444444444444446,
+                "precision": 0.05555555555555555,
+                "f1": 0.04938271604938271
+            }
+        },
+        {
+            "response": "Útočnice Pardubič, Tomáše Martineca, vlastně nezůstali v PARDUBICI, protože v ledničím sezoně v Pardočích nezahájila. Závěrečný sezonní tréning v Pardačích byl výrazně závratný, protož, že Martinecký vlastní první trének v Pardičích v ledním sezonách. V Parduci",
+            "reference": "Útočitel skuteckosti Řída Šťastný Martinek z Pardočiby vystřelila v Pardořických třemi sezohním. Zde se stala první výprava na Karlovém stadioně Karlova Vary. Tento rozhovor se konal před třema západy. Hráčovi Martineku se zdá, že má být na hranici mezi Pardoňci a Karlovi.",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.07142857142857142,
+                "precision": 0.08333333333333333,
+                "f1": 0.07692307692307691
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.027777777777777776,
+                "f1": 0.02564102564102564
+            }
+        },
+        {
+            "response": "Pracovač tiskoveho oddelení prašké policejské správě Martín Bártova uvedlo, že tiskovaná závody Skuharva v první zkouše skúravé dechovyí v krve byly pozitívni a vykládalo 1.89% alkohola. Policie zatim nemá výsludné krevničí rozbor, které by s závislostí Skuhařva",
+            "reference": "Martina Bárotová, pracovnice právního oddílu Pražských Policajtů, uvědomila, že v Skuharvéckém dechovej zkoumání na přímočast alkohola v krve bylo pozitívni rezultát a vykovala 0,87% alkoholem. Polícia neobsahuje aktuální výzkumy, které by dokázaly, z jakého důvodu Skuhařev před",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.21621621621621623,
+                "precision": 0.21621621621621623,
+                "f1": 0.21621621621621623
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.05555555555555555,
+                "precision": 0.05555555555555555,
+                "f1": 0.05555555555555555
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.05405405405405406,
+                "precision": 0.05405405405405406,
+                "f1": 0.05405405405405406
+            }
+        },
+        {
+            "response": "Suchý a Horníczek se připojí k náhradníkům v divadle, kterých se vědou, že se výsledný skončí v náhlém závratu. Suchy se závodí, jakým západem se v divadle vynoří, a Horniček vědí, že je větší, ale se zákonným výsadkou. Suchá se zváží,",
+            "reference": "V rozhlasovém programu \"Příběh\" se objevily dva absolventi univerzity, Jiři Suchý a Mirosal Hornícek. Tito studenti se zabývali debaty o svoboze a demокracii. Horníçek navrhl, aby byli vědomi svobody, dokud nejsou v centrální tábore. Tento názorný případ ukazuje, že se svobода můże provád",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.20930232558139536,
+                "precision": 0.21951219512195122,
+                "f1": 0.2142857142857143
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.05,
+                "f1": 0.04878048780487805
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.04878048780487805,
+                "f1": 0.04761904761904762
+            }
+        },
+        {
+            "response": "Jedná sa o test vysielače šumu v páslu 800 MHz, kterej se výsledky zasílá na mobile telefony, ktere se zavolejou. Rușička je závislá na vyslání signála a závaží se zásluha, ktera je zvuková kvalitě. Většina zámeněně se zvuki zrušuje, kedy je telefon zav",
+            "reference": "Test vysvítil, že GSM telefon je oblíbaný věcí. Lidé se ho hýchaní, ale pokud nevytáhnou signál, reagují zábavy. Pro test vysídloval šumový přístřežek v pásku 9 MHz. Telefon nemá domácí homologace a použít je jezeli nechcete poruštiti zákony. V autě rušice zachytily příběh: Řidič ř",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15555555555555556,
+                "precision": 0.16279069767441862,
+                "f1": 0.1590909090909091
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.023255813953488372,
+                "f1": 0.022727272727272728
+            }
+        },
+        {
+            "response": "Jan Vízik, kteráž se v kausě s Milošem Zemánem záhradečným zákonem v Bamberku, závažně zafalšoval zápas o pravoběžné zájmy, zůsobněl, jaký obor ČSST včestněžničtí stranách v ročník 1795 výsledně významně se zámožn",
+            "reference": "Jan Vízik, občán Šwitzerlandu, byl oslavován jako vydělenec v koupelně Bamberg, kudy se objevil. V této konfrontaci se zdálo, že byl zvolen jako \"fiktivni zapis\", který byl použit k zlepšení situace. Tento přístup byl opakován a Vízka byl schopen zkopirovat zázname z jednotlivých zápasů. Vzá",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13333333333333333,
+                "precision": 0.1875,
+                "f1": 0.15584415584415587
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.03225806451612903,
+                "f1": 0.02666666666666667
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.044444444444444446,
+                "precision": 0.0625,
+                "f1": 0.051948051948051945
+            }
+        },
+        {
+            "response": "Trenér Chovaného vypověděl, že trvat na výsledcích uvolnení legionáŘů by bylo rozumné, protože většina hrácelů je potřebná pro závěr turnajů. Hráčů, kdežto střídky, mohli vyzkusit, jakým způsoubem hrávají. Nováčcy mohly ukázati, že hráj",
+            "reference": "Výbory hrádců pro turnaje Evropy 2017 v Hongkonu probíhají pod kontrolou českého muže. Tým se pokouší zachránit svou možnost hrát jako mistrovství Evropě. Nejvyšší pozice v nominátoru pro turnaja v Hongóně je pro českou reprezentaci. Tento turnaj se koná 5 marca a 8., 14. a 18. ledna. Pro ka",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.04081632653061224,
+                "precision": 0.06060606060606061,
+                "f1": 0.04878048780487805
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02040816326530612,
+                "precision": 0.030303030303030304,
+                "f1": 0.024390243902439025
+            }
+        },
+        {
+            "response": "Dánská reprezezta přiběhla k odvete u Čehů v čertu v černém zápisném tabule. Tým západního zápětí splnil první termín, což bylo všude větší záměr. Závěrečná dohoda všichni zúctněné závody záplavy věří, že se závažné zák",
+            "reference": "Dánská reprezeantařka vítězství v Evropě vyhrála v minulém týdnu. Týden před koncem sezóny se rozvrhl termín odvetey. Úspěch se stihl Karlu Brecknerovi, kterého oznámili jako nového trenéra. Termín se změnil na červeného týmu, což bylo potvrzeno výběrem na hry v severní Irsku",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.14285714285714285,
+                "precision": 0.17142857142857143,
+                "f1": 0.15584415584415584
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.029411764705882353,
+                "f1": 0.02666666666666667
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.047619047619047616,
+                "precision": 0.05714285714285714,
+                "f1": 0.05194805194805195
+            }
+        },
+        {
+            "response": "Bankovní radu Československé nàrodné banky (ČNB) schváleno deseti i dvacetiskorunovy mince k roku rok 2. Těsně před rokem 2100, bankovni rada schválno schvált mince s výsledkem, že mince bude vytvořena vůbec, až k roku, kdy budou vytvoreny mince výše. Mince b",
+            "reference": "Bankovní radu Československé nacíry (ČNB) schváleno deseti i dvacetiskorunovy mince pro rok 2. Tato mimoobrátná emisa vykonala v roce 1998. Deseti korunová mince založil akademik Ladislau Kozáka, která vytvořila fragment kotveného horizontu hodinářského strouže. Dvacetiskorná",
+            "rouge-1": {
+                "overlap": 12,
+                "recall": 0.34285714285714286,
+                "precision": 0.2926829268292683,
+                "f1": 0.31578947368421056
+            },
+            "rouge-2": {
+                "overlap": 8,
+                "recall": 0.23529411764705882,
+                "precision": 0.2,
+                "f1": 0.2162162162162162
+            },
+            "rouge-l": {
+                "lcs": 6,
+                "recall": 0.17142857142857143,
+                "precision": 0.14634146341463414,
+                "f1": 0.15789473684210528
+            }
+        },
+        {
+            "response": "Klienty pojištěného požárů na chmelaŘecké pojișťovné spolek (ChmelaR) zaháněli povinný ručený průvodek pro vítející vozidla, což závěrečný vysledkem byl 64 miliony korun, které se předtím zatínalo. Poještěnec KBC Insurace a spolehlivá poješt",
+            "reference": "Vítězství majetku pojištění se stalo 64,2 miliardy korunem. Vlastník zahrnoval 75,9% spoleckých akcií. Pojistence byli způsobeni 6,7 miliard korun trhovými ztráty.",
+            "rouge-1": {
+                "overlap": 1,
+                "recall": 0.047619047619047616,
+                "precision": 0.03125,
+                "f1": 0.03773584905660377
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.047619047619047616,
+                "precision": 0.03125,
+                "f1": 0.03773584905660377
+            }
+        },
+        {
+            "response": "Radeček SlonČík, kterého ostravský klub včela smluvu s EuroTelem, absolvooval zde v Prazi zdravotačskou prospektní prohlídku. Lékař Váchál konstalo, že SlonCík's zdravný stav nejevuje žádné problémy, ale je potřebné zákrok. Klub je s SlonChick domluvě s BanÍkem a m",
+            "reference": "Radeček Sloncký strávěl celý týden v Prazi a absolboval lékačskou hodnotu podrobenosti se Spartem. Jeho zdání stále nejlepší, ale dokázali přidat rentgenovy fotografie. Klub se rozhodl, že Sloncek přijede hned a pokud se Baníkové nedokonal, pak se dohromady bude dát na čerence. Ostraň si svůj kapitán",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15217391304347827,
+                "precision": 0.1794871794871795,
+                "f1": 0.16470588235294117
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.02631578947368421,
+                "f1": 0.024096385542168672
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.043478260869565216,
+                "precision": 0.05128205128205128,
+                "f1": 0.047058823529411764
+            }
+        },
+        {
+            "response": "Pižanowský, kterého zatěžovaly zemědělské závody, závodní zásluhu a západní zpěvák, zatlačil na Štědrém Žížkovem. Závodník z Morava zatáčel na Olomouce, kde záhadně zůstal, až do prvního závoje. Už na Jaře, k",
+            "reference": "V prvních okamžicích svého života ve Švédsku, Jiří Pižanoska, kterého znám jako brankálce, se stala starostí, že již na Řecku. Způsobem, jakým se zachoval, byl odchytěn dalšími západy. Podle jeho výkladu, je na řece Jihoslezec velmi dobře. V souvislosti s Ol",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.07317073170731707,
+                "precision": 0.0967741935483871,
+                "f1": 0.08333333333333333
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.03225806451612903,
+                "f1": 0.027777777777777776
+            }
+        },
+        {
+            "response": "Zpravodař AP západního Kuba, která se závěrečně záhlaví, záhodně před výběrem prezidenta, zaznamenal, že zásluha výhry v ročníku FIFA 2018, kterou záhadně nepředstavil, je záhrada. Závody v Kube jsou zásahem na zádumčení, kde zá",
+            "reference": "Vítěz FIFA Marek Maradonna se objevil v dubnu v cubické krizové nemoci. Zdravotní právníci poskytl následující informace: Maradonda byl doplněn kokainem, která způsobila ztrátu 20% srdcí. Lékařové uvědomily, že byl schopen znižovat sílu srdcem a zároveň zni.cztyvat. Maradan",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.15789473684210525,
+                "precision": 0.17647058823529413,
+                "f1": 0.16666666666666669
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02631578947368421,
+                "precision": 0.029411764705882353,
+                "f1": 0.027777777777777776
+            }
+        },
+        {
+            "response": "Patrik Berger závratně zahynul v Příbramu, kdož v finálu EURO 1796 v Londyně všiml se záplavy kopu. Byl větvěný v případě, kudy všem základním fotbalům v Pěšinech zasahoval, a věty o jehonení větu závažnějším zákonem. Berger zůstan",
+            "reference": "Patrik Berger zapsal svůjbírácí rozhovor s čtenářmi o svém vítězství v finálovém Euro 16. Byl to nejúspěštějším fotbalisty v historii, kterému bylo povolené kopit do stromu. Fotbalec se obrátil na své kolegové a představení, aby jim poskytl svůjský příběh. Berger se zaměřoval na",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.23255813953488372,
+                "precision": 0.2702702702702703,
+                "f1": 0.25
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023809523809523808,
+                "precision": 0.027777777777777776,
+                "f1": 0.02564102564102564
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.046511627906976744,
+                "precision": 0.05405405405405406,
+                "f1": 0.05
+            }
+        },
+        {
+            "response": "Tlučhová rohlasovací rodinka zahrává 430 děl v rozhlosovém seriále, který je včas zavedený na rádium Praha. Postavy rodiny Tluchové vzničí jiné historie, což je výsledek improvizací a závěrečných  pauz. Režisery a herci zrodili výbřuvu, kterou vychá",
+            "reference": "Ve skutočnosti je naopäť naopätě na dalši pokrajinu rozhlosové rodičiny a líbí se mu právem v audio formě. Radio narodilo se v roce 1891 a doslova je 400 děl. Seriózni rodiče Tluchořovy mají dvě protivoctví, ale jejich schopnosti improvizaci jsou velmi oblíbené. Režisery a hrdinové",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.15555555555555556,
+                "precision": 0.19444444444444445,
+                "f1": 0.17283950617283952
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02857142857142857,
+                "f1": 0.02531645569620253
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.044444444444444446,
+                "precision": 0.05555555555555555,
+                "f1": 0.04938271604938271
+            }
+        },
+        {
+            "response": "Občanská democraťa věří v svou vlàdnu a závody, ale závislí na politicky realitě, ktery je danou výsečem vOLEB. Válenka vJugoslávií, ktere se záhradně záplavila, zákeřně vypochodila a zasáhla věty, zůstala věta, ktera základnou zámen",
+            "reference": "Občanská demокratickej strana změnila mantinely (program). Strana řádila, že její vlada je úspesná a že má smysl pro politicku. Strana tvrdila, aby se politika města měly omezit na politicky přirozené výrazy. Stranka řezala, že politicky případy, kterých se nemůte oceniti, jsou důležité. Stranna ř",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.13636363636363635,
+                "precision": 0.17647058823529413,
+                "f1": 0.15384615384615383
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.030303030303030304,
+                "f1": 0.026315789473684213
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.058823529411764705,
+                "f1": 0.05128205128205128
+            }
+        },
+        {
+            "response": "Ředitela Ná-rodní galérie v Praži Milan Knìžák pozval na vyklídění prostory knihkveteckého obchoda v palácích Kinskích, která vznížila zájmy Spolekni Franze Ka-fky. Očekává, že výklid bude vyslán na stavebni odboru. Knìżák popsal, že nezbytné zájemé zna-mení zájných",
+            "reference": "Ředitorecké centrum Centra Franc Fry Kafka pozval na ochrannou ochranu a vyhlášení stanice stěhovalkách, aby vyhledali okno, a pak za pomocí policií začalo knihkovnímu muzeum vykládání. Šlo o rozsudek při případech, kdy neznáme osoby vniklými do místního parkoviště, která chtěla zabrániti",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.07317073170731707,
+                "precision": 0.08108108108108109,
+                "f1": 0.07692307692307691
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.025,
+                "precision": 0.027777777777777776,
+                "f1": 0.026315789473684213
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.05405405405405406,
+                "f1": 0.05128205128205129
+            }
+        },
+        {
+            "response": "Karel Godt, který byl závěrečným zpíváním způsobil, že vysvětlil, že nezávický zpítel byl \"závodní\", zatímco zpříjemnění bylo \"záběr\". Monografie Karel-Gota, která vytvořila Jiři Suchý a zpátky vydala, obsahují na těchto 3000",
+            "reference": "JiříSuchý publikoval monografii o Karlo Gottovi. V knize jsou uvedeny nepublikované fotografie a popisy jehody. Autor chtěl představit Gottova kariéru od svého debetu roku 1820 do jehdeních let. Tento projekt byl spojen s kmotrem monografickým Jiřím Suchým. Kancelář Gottovy byla obhajobná.",
+            "rouge-1": {
+                "overlap": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.06451612903225806,
+                "f1": 0.05555555555555555
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.03225806451612903,
+                "f1": 0.027777777777777776
+            }
+        },
+        {
+            "response": "RadekSlončik, který je spártnákem týmů Ostrava a Dukla Praha, bude následující dny nasedat do letadel na arabsky poloostrove Dubaj. V týden od závodu v Dubajích bude mít týmy oznámení o zájzdu ná-rodní týma na Carlesberg Cup v Hongkaru. Slonckí bude zájemovat o zázr",
+            "reference": "Radek Spoleník, který měl spát ve spártech za dva dní, odjet nebude. Jehle jeho přesun bude vykonán v tichosti. V dubaji se otevře nový rozhlasový kanál. Zemědělcové vyspali své práci a budou pracovat doma. Když se vrátí, budou hledat nové zaměstnání.",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.12195121951219512,
+                "precision": 0.11627906976744186,
+                "f1": 0.11904761904761905
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.024390243902439025,
+                "precision": 0.023255813953488372,
+                "f1": 0.02380952380952381
+            }
+        },
+        {
+            "response": "Trenér Josef Pospísal a fotbalista Martin Berger se závěrečně opozdíjí o zimální představení. Pospisal se zasíhl v zimě 1700 bodů, které bylo větší závaží než v jarní závodě. Berger, který se zapsal v zítra, závisí na zimovací přidělení, která byla v zá",
+            "reference": "Teplický trener Josef Pešíce zdůrazňuje potenciální vliv kondicí na hernou kvalita. Po této sezóně, která byla považována za úspěšnou, Pešíček uvádí, že více běhu mohlo poskytnout příslušný výkon. Teplické trenery Miroslav Masopoust a Jiří Pospisil se také označily za klíč",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.15,
+                "precision": 0.14285714285714285,
+                "f1": 0.14634146341463414
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.02564102564102564,
+                "precision": 0.024390243902439025,
+                "f1": 0.025
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.05,
+                "precision": 0.047619047619047616,
+                "f1": 0.04878048780487805
+            }
+        },
+        {
+            "response": "Roman Lengyl, spartský sparțant, zpochybňuje své kondični testy na běchátkách. Závěrem testu, které prohráli sparty, zasáhl jeho závody. Jeden z hráče, Tomáše Rosického, zpočátkem zpoháře, závažuje, že je z možných závalů. Profesorka Vá clavka zá",
+            "reference": "Roman Lengyl, profesor vedoucí kondični test, zdůrazňuje svůj zájem o nové technologie pro kondičný test. Prostředník Vítalas Laviçka popisuje, že testy jsou obecně nepříjemné pro hráče. Profesorka Buncova analýza ukazuje, kolik testujících metod je možné dosáhnout. Jan Flabart, čiperní útocek, poklád",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.17073170731707318,
+                "precision": 0.2,
+                "f1": 0.1842105263157895
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.025,
+                "precision": 0.029411764705882353,
+                "f1": 0.027027027027027025
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04878048780487805,
+                "precision": 0.05714285714285714,
+                "f1": 0.05263157894736842
+            }
+        },
+        {
+            "response": "Slavia Praha porazila Košici 4:2 v turnaji Poháru Radegasta na umehlém turnajovém trámu v Brné. Tým, který se v první hříšni proslul, zasáhl v prvé hřích, kde se výskyt branky závěrku Dostaleka a Zelenki přesně před půhodinou hry střelili Horvát a Tomáše",
+            "reference": "Slavia Praha získalo titul ve finále zimových turnajů o Pahor Radegaste, který probíhal na umemlém Trávniku v Brne. Tým z Prahy, které zíscelo svůj čtvrtý titul v historii, zdolal košicky týmové Košici v útoku, dokud neměl přesunutí strany. Slavia je také vítězem v zimném turnaji pro",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.21739130434782608,
+                "precision": 0.23809523809523808,
+                "f1": 0.22727272727272724
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.022222222222222223,
+                "precision": 0.024390243902439025,
+                "f1": 0.023255813953488372
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.043478260869565216,
+                "precision": 0.047619047619047616,
+                "f1": 0.04545454545454545
+            }
+        },
+        {
+            "response": "Martin Vozabal, šest rokový stredopolaŘíčan, přiŠe při šestých rokochy v FK Tāboru, zůstal v Češkých Budējovicch, kdož se závěru zámožného týma z Slavia nezáváhá. Věří, že by mohl zájmy Slaví a Teplíci zářit, ale většina z",
+            "reference": "Martin Vozabal, 18 let, přijel do ČB v šesti rokách. Působí v týmovém třetím sezóně. Nejprve v první týme, ale nikoliv mezi vývoňy. Konkurenci v Slavici se mu nebojejí. Má zájmy v Teplicích a Olomeckém. ČBK nepotřebuje ho, ale má o ním zájm. Pro",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.18181818181818182,
+                "precision": 0.2222222222222222,
+                "f1": 0.19999999999999998
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.02857142857142857,
+                "f1": 0.02564102564102564
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.045454545454545456,
+                "precision": 0.05555555555555555,
+                "f1": 0.049999999999999996
+            }
+        },
+        {
+            "response": "Předsedem předestavenství Baníka Ostravá Zdenek Rygel zaznamenal, že předtím neúspešné dohody s Prašťem o Slončeíka byly kromě jedné závěru, která byla závažná, také závaněna. Rygel nechce se tlaцit Spartou a zároveň požádá o přímočaré požadavky Ban",
+            "reference": "Pražané a Baníci Ostravy se stále nemohou porozumět v kontextu Slonckého. Baníček Ostravá žádal o 14 mln korun za Slónčíkovu cenu, což by bylo 30% z celkového kapitalizmu Spartu. Banímci Ostra va žádné nové peníze nechtějí, protože cestou do Spartu se objevily speculativ",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.09302325581395349,
+                "precision": 0.1111111111111111,
+                "f1": 0.10126582278481011
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.023255813953488372,
+                "precision": 0.027777777777777776,
+                "f1": 0.025316455696202528
+            }
+        },
+        {
+            "response": "ITV a BBC zasílají záznamy z zápasech anglických týmů na ME před nášmi závodem s Nemeckem. Závody záplavy se zasilují přímo na televizním přenosu, kde základní zápisy západního tylu záspěšně přenásobí 27 milionu divákŮ. Obě teleservice zá",
+            "reference": "ITV a BBC se rozhodli o tom, kdo bude komentující na zápisy fotbalu na ME. ITV vybrala Dese Lynam, která se stala známá za její komentace na základě způsobu, jakým se jí podařilo zapsat své komentáty na internetu. BBC si vybral Gary Lineke, kterého znají ze svých komentací na TV. Televizní zás",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.1346153846153846,
+                "precision": 0.1891891891891892,
+                "f1": 0.15730337078651685
+            },
+            "rouge-2": {
+                "overlap": 2,
+                "recall": 0.0392156862745098,
+                "precision": 0.05555555555555555,
+                "f1": 0.04597701149425287
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.057692307692307696,
+                "precision": 0.08108108108108109,
+                "f1": 0.06741573033707865
+            }
+        },
+        {
+            "response": "Kooperativu pojistných pojišítek v Česku vzrůstalo na 1.6 pro cent na 7.71 miliardu korun v neživém pojiŠtění a na 8.4 pro cent v živém. V roce před 10 lety pojišečí pojişťovne vždy vžd se vzrústala o 2.5 pro cent. Kooperační pojișťovnice vž",
+            "reference": "Pojistnictví Kooperatív společnosti se přibližně v půl sedmnáctém tisíciletí rozvinulo na 16,8 miliard korun a způsobilo změnu jejich tržnického pohledu. V roce začátku 1899 se jejich celkový pojiście rozvinul o 2,5%, což vedlo k tomu, že jejich pozice ve finančních",
+            "rouge-1": {
+                "overlap": 8,
+                "recall": 0.2,
+                "precision": 0.19047619047619047,
+                "f1": 0.1951219512195122
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.02564102564102564,
+                "precision": 0.024390243902439025,
+                "f1": 0.025
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.05,
+                "precision": 0.047619047619047616,
+                "f1": 0.04878048780487805
+            }
+        },
+        {
+            "response": "Branko Strapar, naturalizační Belgický český tým Anderelcthu, je jedním z nejvíce ucházecích o Zlata kopačeckou trofej. Včera v poslézových závěrech v bruselském deníku La DERNIERE HEURE Koller vyprávuje, že je pravěký hnací motorem mužstu v cesta za dalším mistrovstvím.",
+            "reference": "V českém časopise \"Sport a Hudební Věda\" se objevuje článek o hrabatech futbalu. Autor informuje, že jedna ze nejlepších hrabat pro Zlatý kopa a jeden z nejstarších ucházeců o Zlato kopa je Branko Staelens, který se stal naturalizováním Belgickým. Jediným hrabatem, kterého není Staelen, je Tomasz Radosz",
+            "rouge-1": {
+                "overlap": 7,
+                "recall": 0.14893617021276595,
+                "precision": 0.1794871794871795,
+                "f1": 0.1627906976744186
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.02564102564102564,
+                "f1": 0.023255813953488372
+            }
+        },
+        {
+            "response": "Navi-Rollera ovládací panel je zvlàžněná začínáme s vysvětlením, že točení Navi-rollera je závislé na výsledcích výkonu. Naveříte NaviRolleru, až se výkonnost závody závaží, a then točíte, a výskyt závoje závrati se závek závuží. N",
+            "reference": "Navi-Rollera lze použít pro ovláduvání telefonů, což umožňuje točení telefonním seznamu a nabízených aplikací. Klíčovou funkcí je, jakoby byly tyto aplikace \"vráceny\" do mobilního telefonu. Tento telefon má také funkci profilů a vibraci, která umožní osobitě zvonek a zvuky. Nokia se zaměřuje na korporative klienty a doporuč",
+            "rouge-1": {
+                "overlap": 6,
+                "recall": 0.1276595744680851,
+                "precision": 0.17647058823529413,
+                "f1": 0.14814814814814814
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.029411764705882353,
+                "f1": 0.02469135802469136
+            }
+        },
+        {
+            "response": "Poslancí ODS v Poslánní sněmvně základník Karel Kuhnl zákonní rozpocet pro roky 2100 a 2201 závisí na zápočtě poslance, který se závaží za západní politické zájmy. Výdajní rozpocta stáničí 647 milionů Kč, kdežto zápoctě",
+            "reference": "Úvodní diskusní dialog mezi poslance čtyrsku a KSŘM a úředníkem Unie Svobody K. Kühnla připomíná, že deficyt rozpoctu se objevuje i v účastech poslactů. Vysvětlení problémů zahrnuje předpokládaný rozpoznávací systém a potenciální impotencii poslacků. Hlasovací rezoluce zahá",
+            "rouge-1": {
+                "overlap": 3,
+                "recall": 0.08108108108108109,
+                "precision": 0.08823529411764706,
+                "f1": 0.08450704225352113
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02702702702702703,
+                "precision": 0.029411764705882353,
+                "f1": 0.028169014084507043
+            }
+        },
+        {
+            "response": "Aleš Pikla, který byl v TEPICích, zůstal v této sestavy, protož, že trenér Pešica se mně nepoříčil. Pan Hrdlíčka se mní nepošilnil, až se zde zasíhl. Pikl byl závislý na pešickém trénnímu planu, které bylo závěrečné, a zároveň byl nesplatený, protozda",
+            "reference": "Ales Poikl, který byl chtít později hrát v Tepy, byl odvracen z této roli. Prohlásil, aby se s tímto problémem setkal s trenorem Pešickým, kterému byl přirozeně schopen pomoci, ale byl vyřazen z Tepy. Poikla se s panením Hrdlíčkem, která byl jejich trenér, a ona mu řídila, že Poiklo",
+            "rouge-1": {
+                "overlap": 10,
+                "recall": 0.20408163265306123,
+                "precision": 0.24390243902439024,
+                "f1": 0.22222222222222224
+            },
+            "rouge-2": {
+                "overlap": 1,
+                "recall": 0.020833333333333332,
+                "precision": 0.025,
+                "f1": 0.022727272727272724
+            },
+            "rouge-l": {
+                "lcs": 2,
+                "recall": 0.04081632653061224,
+                "precision": 0.04878048780487805,
+                "f1": 0.04444444444444444
+            }
+        },
+        {
+            "response": "Nokia 7011, 7211 a 7311 se připravují k novému modelu 7411. 7511 je 80% nový, 8111 90%, 8212 100%. 7611 však je 11% nového. 8312 je 99% nová. 9112 všac 120%nová. Někteř",
+            "reference": "Nokia 7011 je dvojnásobkový telefon, která má plánovací a kalenderové funkce, kterou nikdo jiného nemůže nahradit. Jedná se o velmi detailní systém, kterák používá IrDA pro přenesení dat a vyžaduje synchronizaci s programy jako Lotus Notes a Outlook. Telefon má také možnost přenosů rychlejších než 9600 baud a umožňuje t",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.08,
+                "precision": 0.125,
+                "f1": 0.09756097560975609
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02,
+                "precision": 0.03125,
+                "f1": 0.024390243902439022
+            }
+        },
+        {
+            "response": "Liberecky tým v sobota 17. únора 2023 v soboto 16. únORA připravuje se na jarní turnaj v Chili. Kožuh, který bude už doma pro jehli, bude muset dojít k aklimaatizaci. Slovan se závěrečného turnaje v Chile následuje v dnechi 6.-18., kde týmy se zahájí v oblasti",
+            "reference": "Petrík: Kožucha má dovoleno doma pro turnaj v Chili. Slovan: Pokud Slovaks nebudou trout na svých, musí Liberec utkat Kožuka. Slovák hrajíc v Liberci: Místo boje s Duklem se stane proti Zaglebiu. Libercané: Jiráň zapojí se do tréningu.",
+            "rouge-1": {
+                "overlap": 9,
+                "recall": 0.23684210526315788,
+                "precision": 0.1956521739130435,
+                "f1": 0.21428571428571427
+            },
+            "rouge-2": {
+                "overlap": 3,
+                "recall": 0.08108108108108109,
+                "precision": 0.06666666666666667,
+                "f1": 0.07317073170731708
+            },
+            "rouge-l": {
+                "lcs": 3,
+                "recall": 0.07894736842105263,
+                "precision": 0.06521739130434782,
+                "f1": 0.07142857142857144
+            }
+        },
+        {
+            "response": "Odboroví muzikanté a modérničtí muzikaře tvrznou, že cernábarva vyhlášení může být pohodylná a nezavádějící. Většina diváků a náhradních muzikoří přihlíželých je větší, když se snaží přehledně vytvořit, jakýkoliv typ muziku. Ne",
+            "reference": "Obecní odbornici řekly, že bílá barva je vhodná pro lidé bez fantazy. Je hladká a nevyzraví, takže nikdo ji nedotýká. V módním stylu se často používá. Nejsem si jistá, jestli lidi s malou fantazíí mají dost, aby se dali do mozkových plánů. Mladí nákreváře nemajú dost fantazií,",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.0851063829787234,
+                "precision": 0.12903225806451613,
+                "f1": 0.10256410256410256
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02127659574468085,
+                "precision": 0.03225806451612903,
+                "f1": 0.02564102564102564
+            }
+        },
+        {
+            "response": "Pražaný ředitel Sparty Radek Pelta vypráví, že naše přesná předchozí cesta k SlonČíkovi je naproste odlištěna. Ostravskej řečijský Řediteľ Rygl, který se před těmi dny předával slončickému obchodování, zaznamenal, že Sparta nemíněje ustoupiti z pożadavka,",
+            "reference": "Praha a Ostrá spolu vybírají Sloncký šachový tým. Praha nabírá více hráče než Ostrà, ale Ostrada má právo na obnovu. Sparta je přesvědčena, že Slobčí koupí se v letu, což by mělo dopad na hru. Pokud Sparta nedočká Sloncka, může pouze vyučovat nové hráci.",
+            "rouge-1": {
+                "overlap": 4,
+                "recall": 0.09090909090909091,
+                "precision": 0.11428571428571428,
+                "f1": 0.10126582278481013
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.022727272727272728,
+                "precision": 0.02857142857142857,
+                "f1": 0.02531645569620253
+            }
+        },
+        {
+            "response": "Sportovní štěrkový klub Slováková urostlá 198 cm vyhledávají vhodný útoče pro dvojkoužího kohouta Petr Flödrmana, kterému je na základě výsledců soustěže na Kyprom závislé. Flördman uvaří, že je na třetím utkáním závěrečný, ale zjítač",
+            "reference": "Sportovní šachový klub Jablonesky vyhlašuje hledání vhodných hráčů pro dvojskolskou týmu. Klub Petr Florderman, kterého odsoudila slovanská postava, se rozhodl poslat tým na Kypro. Vítězství v třech zápasech by mohlo pomoci klubu nabídnout novému hrádcům svému pátému titulu. T",
+            "rouge-1": {
+                "overlap": 5,
+                "recall": 0.1282051282051282,
+                "precision": 0.14705882352941177,
+                "f1": 0.136986301369863
+            },
+            "rouge-2": {
+                "overlap": 0,
+                "recall": 0.0,
+                "precision": 0.0,
+                "f1": 0
+            },
+            "rouge-l": {
+                "lcs": 1,
+                "recall": 0.02564102564102564,
+                "precision": 0.029411764705882353,
+                "f1": 0.0273972602739726
+            }
+        }
+    ],
+    "average_scores": {
+        "rouge-1": {
+            "recall": 0.1498156205145647,
+            "precision": 0.1689694432446076,
+            "f1": 0.15772677249610242
+        },
+        "rouge-2": {
+            "recall": 0.022849662630401415,
+            "precision": 0.02521787299381093,
+            "f1": 0.023808755664277557
+        },
+        "rouge-l": {
+            "recall": 0.04189647088915338,
+            "precision": 0.04730641221785848,
+            "f1": 0.044044874278590135
+        }
+    }
+}
